@@ -589,7 +589,7 @@ legend {
 }
 .question-title {
   font-size: 1.9375rem;
-  margin: 18px 0 22px;
+  margin: 0 0 22px;
   line-height: 1.25;
   letter-spacing: -0.02em;
   overflow-wrap: anywhere;
@@ -720,6 +720,9 @@ legend {
   margin-top: 22px;
   font-size: 0.875rem;
   animation: enter 0.3s ease-out;
+}
+.extra-transition + .question-title {
+  margin-top: 16px;
 }
 .extra-transition strong {
   text-transform: uppercase;
@@ -1010,7 +1013,7 @@ legend {
   }
   .question-title {
     font-size: 1.6875rem;
-    margin: 16px 0 18px;
+    margin: 0 0 18px;
   }
   .question-eyebrow .muted {
     font-size: 0.75rem;

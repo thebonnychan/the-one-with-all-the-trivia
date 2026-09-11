@@ -90,16 +90,6 @@ export function GameCard({
       <div
         className={`question-card ${question.kind === "typed" ? "typed-card" : ""}`}
       >
-        <div className="question-eyebrow">
-          <span
-            className={`difficulty-badge badge-${question.difficulty.toLowerCase().replace(" ", "-")}`}
-          >
-            {question.difficulty}
-          </span>
-          <span className="muted">
-            {question.kind === "typed" ? "From memory" : "Choose one answer"}
-          </span>
-        </div>
         {extraTransition && (
           <div className="extra-transition" role="status">
             <strong>Extra Hard round</strong>

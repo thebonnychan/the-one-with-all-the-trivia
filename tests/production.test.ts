@@ -72,6 +72,7 @@ describe("production-bank playthroughs", () => {
 
 it.each([
   ["Ninth grade", "9th"],
+  ["Bumblebees", "bees"],
   ["Caveman display", "cavemen"],
   ["To my best bud", "my best bud"],
   ["One seventieth", "1/70"],
