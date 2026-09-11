@@ -145,16 +145,12 @@ export default function TriviaApp() {
               ? confirm.current?.showModal()
               : home()
           }
-          aria-label="The One With All the Trivia — Home"
+          aria-label="Home"
         >
           <span className="brand-symbol" aria-hidden="true">
             ✳
           </span>
-          <span>
-            The One With
-            <br />
-            <strong>All the Trivia</strong>
-          </span>
+          <span>Home</span>
         </button>
         <button
           className="rules-button"
