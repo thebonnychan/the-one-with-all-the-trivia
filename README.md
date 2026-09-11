@@ -5,12 +5,12 @@ A free, fan-made **Friends** trivia game with an original cozy, 1990s New York-i
 ## Features
 
 - **2,000 locally bundled questions:** 500 each of Easy, Medium, Hard, and Extra Hard, spanning all ten seasons. Every question includes an explanation and episode reference.
-- **Classic:** 25 random, unique questions at your chosen difficulty.
+- **Classic:** 25 questions at your chosen difficulty. Locally saved history cycles through every question in each difficulty before repeating across rounds; Mix shares that history.
 - **Classic Mix:** 6 Easy → 6 Medium → 7 Hard → 6 Extra Hard. Questions 20–25 require typed answers.
-- **Endless:** complete the chosen difficulty's 500-question pool or end the run yourself. Endless Mix starts with 5 Easy → 5 Medium → 5 Hard, then all 500 Extra Hard questions: 515 total. Pools never silently repeat or cycle.
+- **Endless:** all 2,000 questions shuffled across all difficulties, with no difficulty selector or staged progression. End at any time; the run stops explicitly when the bank is exhausted.
 - Four shuffled choices for Easy, Medium, and Hard; typed answers for Extra Hard, with aliases and conservative typo tolerance.
 - Scores, streaks, explanations, results, and deliberate replay. One correct answer earns one point; a miss resets the current streak. No timer or automatic advancement.
-- Device-local best Classic scores by difficulty and an overall best streak. No account, database, backend, analytics, paid API, or runtime external service.
+- Device-local best Classic scores by difficulty and an Endless high score. No account, database, backend, analytics, paid API, or runtime external service.
 - Responsive layouts, native keyboard controls, visible focus, text-based feedback, accessible dialogs, and reduced-motion support.
 
 ## Get started
@@ -23,7 +23,7 @@ npm ci
 npm run dev
 ```
 
-Open the URL printed by Next.js, usually `http://localhost:3000`. Choose Classic or Endless, select a difficulty, and start playing. No credentials or environment file are needed.
+Open the URL printed by Next.js, usually `http://localhost:3000`. Choose Classic and a difficulty, or choose Endless, then start playing. No credentials or environment file are needed.
 
 | Command                                   | Purpose                                                           |
 | ----------------------------------------- | ----------------------------------------------------------------- |
@@ -57,7 +57,7 @@ React state holds the active session. Pure engine functions select questions, sc
 
 ## Question maintenance
 
-Edit `data/questions.json` and follow [the editorial guide](docs/QUESTION_BANK.md). Keep IDs stable, assign a distinct fact key, verify the episode detail, and check semantic duplicates before setting `reviewed: true`. Do not copy quiz collections or add filler to meet a count.
+Edit `data/questions.json` and follow [the editorial guide](docs/QUESTION_BANK.md). Keep IDs stable, assign a fact key, verify the episode detail, and check semantic duplicates before setting `reviewed: true`. Extra Hard may revisit a multiple-choice fact as a fill-in-the-blank question using the same fact key; each answer kind must remain unique. Do not copy quiz collections or add filler to meet a count.
 
 A multiple-choice entry contains `id`, `factId`, `difficulty`, `kind: "multiple-choice"`, `prompt`, `answer`, exactly four `options`, `explanation`, `source` (`episode`, `evidence`, optional `url`), and `reviewed`. `answer` must exactly match one option. An Extra Hard entry instead uses `kind: "typed"`, `aliases`, and `allowTypo`; it has no `options`. See [the TypeScript schema](lib/game/types.ts) and existing entries for complete examples.
 
@@ -67,7 +67,9 @@ The bank's source links point to the [Friends transcript archive](https://www.li
 
 ## Typed-answer policy
 
-`src/utils/answerValidation.ts` normalizes Unicode, case, whitespace, apostrophes, and punctuation, then checks the canonical answer and explicit aliases. It allows one insertion, deletion, substitution, or adjacent transposition in one word only when both word versions are at least five characters. Numeric answers, short words, extra words, and multiple mistakes do not receive fuzzy matching. Editors can disable typo tolerance for ambiguous names. Add reasonable answer variants explicitly rather than broadening fuzzy acceptance.
+`src/utils/answerValidation.ts` normalizes Unicode, case, whitespace, apostrophes, and punctuation. Exact answers and editorial aliases count. A shortened answer also counts when it contains more than half the expected words in order, with no extra words, omitted numbers, or omitted negation: “my best bud” accepts “To my best bud.” Short two-word answers need explicit aliases, including “cavemen” for “Caveman display” and “9th” for “Ninth grade.”
+
+One minor spelling error in a word of five or more letters remains acceptable when enabled. Short names and numeric answers do not receive typo matching. “One seventieth” accepts “1/70”; “1/17” is incorrect.
 
 ## Testing
 
@@ -102,7 +104,9 @@ If deployment fails, inspect the Actions logs, confirm Pages uses GitHub Actions
 
 ## Persistence and privacy
 
-Only records are saved under `the-one-with-all-the-trivia.records.v1` in localStorage. Completed Classic rounds update that difficulty's best; unfinished rounds do not. Best streaks include all modes. Records belong to that browser and origin and do not sync between devices. Clearing site data resets them. Storage failures do not prevent play.
+Records use `the-one-with-all-the-trivia.records.v1`; Classic question history uses `the-one-with-all-the-trivia.classic-history.v1`. Completed Classic rounds update that difficulty's best. Endless high scores count correct answers, independently of streaks, including manually ended runs. Old Classic records are preserved; old streaks are not converted into Endless scores.
+
+Classic marks each question when displayed, including questions in abandoned games. Unseen questions remain eligible. Each difficulty cycles independently, with history shared across Classic Mix and single-difficulty play. A round spanning a cycle boundary consumes unseen questions first and remains unique. New questions become eligible automatically. Records and history belong to the browser and origin; clearing site data resets them. Blocked storage falls back to memory for the current page and is disclosed in the footer. Separate simultaneous tabs do not reserve questions against each other.
 
 All gameplay data and assets load from the static site. Once loaded, a current game needs no network requests; offline reload is not guaranteed because no service worker is installed. The design uses system fonts and original CSS decoration, with no official logo, stills, or promotional images.
 

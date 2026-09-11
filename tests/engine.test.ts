@@ -65,25 +65,21 @@ describe("Classic", () => {
 describe("Endless", () => {
   it("uses each question once and explicitly reports exhaustion", () => {
     const session = createSession(bank, "Endless", "Mix", random);
-    expect(session.questions).toHaveLength(45);
-    expect(new Set(session.questions.map((q) => q.id)).size).toBe(45);
+    expect(session.questions).toHaveLength(120);
+    expect(new Set(session.questions.map((q) => q.id)).size).toBe(120);
     expect(
-      session.questions.map((q) => DIFFICULTIES.indexOf(q.difficulty)),
-    ).toEqual([
-      ...Array(5).fill(0),
-      ...Array(5).fill(1),
-      ...Array(5).fill(2),
-      ...Array(30).fill(3),
-    ]);
+      new Set(session.questions.slice(0, 20).map((q) => q.difficulty)).size,
+    ).toBeGreaterThan(1);
     const result = finish(session);
     expect(result.status).toBe("exhausted");
-    expect(result.score).toBe(45);
+    expect(result.score).toBe(120);
     expect(advanceQuestion(result)).toBe(result);
   });
-  it("never draws outside the selected tier", () => {
+  it("ignores stale difficulty selections and uses the complete bank", () => {
     const session = createSession(bank, "Endless", "Hard", random);
-    expect(session.questions).toHaveLength(30);
-    expect(session.questions.every((q) => q.difficulty === "Hard")).toBe(true);
+    expect(session.questions).toHaveLength(120);
+    expect(session.difficulty).toBe("Mix");
+    expect(new Set(session.questions.map((q) => q.difficulty)).size).toBe(4);
   });
   it("rejects an empty pool and duplicate IDs", () => {
     expect(() => createSession([], "Endless", "Mix")).toThrow();

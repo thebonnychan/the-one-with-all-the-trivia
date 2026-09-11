@@ -55,3 +55,21 @@ describe("typed answer matching", () => {
     expect(matchesTypedAnswer("Chandlr", "Chandler", [], false)).toBe(false);
   });
 });
+
+describe("shortened answers", () => {
+  it("accepts a majority of correct words in order", () => {
+    expect(matchesTypedAnswer("my best bud", "To my best bud")).toBe(true);
+    expect(matchesTypedAnswer("best my bud", "To my best bud")).toBe(false);
+    expect(matchesTypedAnswer("best bud", "To my best bud")).toBe(false);
+    expect(matchesTypedAnswer("not my best bud", "To my best bud")).toBe(false);
+    expect(matchesTypedAnswer("my best bud or pal", "To my best bud")).toBe(
+      false,
+    );
+    expect(matchesTypedAnswer("my best friend", "Not my best friend")).toBe(
+      false,
+    );
+    expect(matchesTypedAnswer("hundred dollars", "One hundred dollars")).toBe(
+      false,
+    );
+  });
+});

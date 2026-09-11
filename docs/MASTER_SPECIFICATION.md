@@ -1177,3 +1177,14 @@ Build the application end-to-end and verify it before considering the task compl
 ## Subsequent question-bank requirement
 
 The user increased the required local bank from 500 to 2,000 questions. Preserve the original quality and verification requirements; the expanded bank contains 500 questions per difficulty.
+
+## Subsequent gameplay and interface requirements (September 11, 2026)
+
+These updates supersede earlier conflicting rules:
+
+- Only Classic exposes difficulty selection. Endless shuffles the complete bank across all difficulties, with no repeats within a run and no staged difficulty progression.
+- Simplify the home screen: remove promotional eyebrows, the challenge heading, question/season statistics, and the overall best-streak record. Show an Endless high score alongside the existing Classic record.
+- Classic tracks displayed question IDs locally across sessions, shared between Mix and individual difficulties. Exhaust each difficulty's pool before repeating, keeping every individual round unique. Mark displayed questions even in abandoned games; do not mark unseen questions. Reset only the exhausted tier's cycle.
+- Extra Hard may reuse a multiple-choice fact as a fill-in-the-blank version. Retain unique IDs and prompts; a fact key may occur once per answer kind.
+- Accept an ordered majority of canonical answer words without additional wrong words, omitted numbers, or omitted negation. Continue explicit aliases and conservative typo matching. Add requested aliases for “9th” and “cavemen.” “One seventieth” accepts “1/70” and rejects “1/17”, as clarified by the user.
+- Persist Classic history and Endless high scores in localStorage, gracefully continuing in memory if storage is unavailable. Existing Classic records remain valid.

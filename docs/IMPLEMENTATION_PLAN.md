@@ -12,9 +12,9 @@ The permanent contract is [AGENTS.md](../AGENTS.md); the full product specificat
 
 ## State and boundaries
 
-`TriviaApp` owns the active session and records in React state. `GameSetup`, `GameCard`, and `ResultsCard` render the current view. The engine in `lib/game/engine.ts` owns selection, scoring, and transitions; it does not access browser APIs. Only `records.ts` accesses localStorage, and every storage operation handles failure.
+`TriviaApp` owns the active session and records in React state. `GameSetup`, `GameCard`, and `ResultsCard` render the current view. The engine in `lib/game/engine.ts` owns selection, scoring, and transitions; it does not access browser APIs. `records.ts` and `history.ts` access localStorage, and every storage operation handles failure.
 
-Classic Mix uses 6/6/7/6 questions. Endless Mix uses 5/5/5 followed by the full Extra Hard pool. Fisher–Yates shuffles questions within tiers and answer options without changing the source bank. Exhaustion is explicit; replay creates a new independent run. There are no external gameplay requests, server routes, authentication, or runtime environment variables.
+Classic Mix uses 6/6/7/6 questions. Endless shuffles the complete bank across all difficulties. Classic selects unseen questions first, recording displayed question IDs across sessions and resetting each difficulty only after exhaustion. Fisher–Yates shuffles questions and answer options without changing the source bank. Endless exhaustion is explicit. There are no external gameplay requests, server routes, authentication, or runtime environment variables.
 
 ## Verification approach
 
@@ -24,7 +24,7 @@ Browser verification covers a complete 25-question Classic Mix, the switch to ty
 
 Release checks use `npm run check`, `npm run validate:launch`, `npm run format:check`, and a production build with the repository base path. Inspect the exported site and its assets through a static HTTP server before release. Publishing occurs through the included GitHub Actions workflow when source is pushed to `main` in a Pages-enabled repository.
 
-## Expansion to 2,000 questions
+## Expansion to 2,000 questions (before gameplay updates)
 
 Expanded the local bank to exactly 2,000 questions, with 500 in each difficulty. Added 1,500 individually written entries with episode references and original evidence summaries, checked candidate overlaps, tightened a broad full-name alias, and corrected discovered errors in the original bank. Examples include Monica hiring Chandler's supposed stripper, Monica's braids catching in the shower curtain, and Dr. Biely—not Ross—proposing the South Dakota fieldwork.
 
@@ -38,3 +38,11 @@ Verification completed on September 11, 2026:
 - The complete static export measured 2,161,978 bytes. Compact question JSON measured 1,142,747 bytes, or 226,487 bytes with gzip. The page JavaScript containing the bank measured 1,167,114 bytes, or 233,785 bytes with gzip. These are local artifact measurements; actual transfer sizes depend on hosting compression and caching.
 
 All questions remain repository data bundled at build time; none are generated during gameplay. These checks do not replace editorial judgment or certify that a transcript itself is error-free. No deployment was performed for this expansion.
+
+## Gameplay and home updates — September 11, 2026
+
+Simplified the home screen, limited difficulty selection to Classic, shuffled all 2,000 questions in Endless, and separated its high score from Classic records. Classic now persists displayed question history per difficulty across rounds, including Mix, and keeps an in-memory fallback when writes fail. Extra Hard may reuse a multiple-choice fact as a distinct typed question. Answer matching accepts ordered-majority phrases and explicit short aliases; numeric answers remain strict (1/70 is accepted for one seventieth, 1/17 is rejected).
+
+All 72 automated tests cover these changes, including production-bank alias regression checks, full Endless exhaustion, history cycles, and independent score persistence.
+
+The final lint, TypeScript, formatting, structural/launch validation, and GitHub Pages static build passed. Browser smoke checks confirmed Classic-only difficulty controls, Hard-to-Easy Endless shuffling, an independently saved Endless score after reload, preserved Classic records, and fresh Classic questions across a reload. The narrow mobile preview had no horizontal overflow, and the browser reported no console errors.

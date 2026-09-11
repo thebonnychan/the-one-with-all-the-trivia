@@ -27,6 +27,7 @@ export function GameCard({
   }, [answered]);
   const extraTransition =
     question.difficulty === "Extra Hard" &&
+    session.mode === "Classic" &&
     session.difficulty === "Mix" &&
     session.index === (session.mode === "Classic" ? 19 : 15);
   return (
@@ -36,7 +37,13 @@ export function GameCard({
     >
       <div className="game-topline">
         <span className="eyebrow">
-          {session.mode} <span aria-hidden="true">/</span> {session.difficulty}
+          {session.mode}
+          {session.mode === "Classic" && (
+            <>
+              {" "}
+              <span aria-hidden="true">/</span> {session.difficulty}
+            </>
+          )}
         </span>
         <button className="text-button" onClick={onEnd}>
           {session.mode === "Endless" ? "End run" : "Leave round"}

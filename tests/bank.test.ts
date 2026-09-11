@@ -75,3 +75,17 @@ describe("question bank validation", () => {
     }
   });
 });
+
+it("allows one typed variant of a multiple-choice fact but rejects duplicate variants", () => {
+  const bank = makeBank(1);
+  bank[3] = { ...bank[3], factId: bank[0].factId };
+  expect(validateBank(bank)).toEqual([]);
+  const duplicate = {
+    ...bank[3],
+    id: "another-id",
+    prompt: "Another typed prompt?",
+  };
+  expect(validateBank([...bank, duplicate])).toContain(
+    "Question 5: duplicate factId.",
+  );
+});

@@ -13,7 +13,6 @@ export function GameSetup({
   mode,
   difficulty,
   records,
-  questionCount,
   onMode,
   onDifficulty,
   onStart,
@@ -21,7 +20,6 @@ export function GameSetup({
   mode: Mode;
   difficulty: DifficultySelection;
   records: Records;
-  questionCount: number;
   onMode: (value: Mode) => void;
   onDifficulty: (value: DifficultySelection) => void;
   onStart: () => void;
@@ -29,12 +27,6 @@ export function GameSetup({
   return (
     <div className="setup-layout">
       <section className="welcome" aria-labelledby="welcome-title">
-        <span className="eyebrow">
-          <span className="little-star" aria-hidden="true">
-            ✳
-          </span>{" "}
-          Your usual table is ready
-        </span>
         <h1 id="welcome-title">
           <span>The One With</span>All the
           <br />
@@ -44,39 +36,8 @@ export function GameSetup({
           </span>
         </h1>
         <p className="subtitle">How well do you really know Friends?</p>
-        <p className="intro">
-          From first dates to final goodbyes. Settle in, pick your challenge,
-          and put those rewatches to work.
-        </p>
-        <div className="fact-strip">
-          <span>
-            <strong>25</strong> questions in Classic
-          </span>
-          <span>
-            <strong>{questionCount.toLocaleString("en-US")}</strong> original
-            questions
-          </span>
-          <span>
-            <strong>10</strong> seasons of memories
-          </span>
-        </div>
-        <div className="signature-note">
-          <span className="note-mark" aria-hidden="true">
-            ↗
-          </span>
-          <p>
-            <strong>Meet your next favorite: Mix.</strong>
-            <br />
-            Start easy. Finish like a true Friends expert.
-          </p>
-        </div>
       </section>
-      <section className="setup-card" aria-labelledby="setup-title">
-        <div className="card-topline">
-          <span className="eyebrow">Let’s make a night of it</span>
-          <span aria-hidden="true">✦</span>
-        </div>
-        <h2 id="setup-title">Pick your challenge.</h2>
+      <section className="setup-card" aria-label="Game settings">
         <fieldset className="mode-fieldset">
           <legend>Game mode</legend>
           <div className="mode-options">
@@ -104,51 +65,57 @@ export function GameSetup({
             ))}
           </div>
         </fieldset>
-        <fieldset>
-          <legend>Difficulty</legend>
-          <div className="difficulty-options">
-            {options.map(({ name, detail, mark }) => (
-              <label
-                key={name}
-                className={`difficulty-option ${name === "Mix" ? "mix-option" : ""} ${difficulty === name ? "selected" : ""}`}
-              >
-                <input
-                  type="radio"
-                  name="difficulty"
-                  value={name}
-                  checked={difficulty === name}
-                  onChange={() => onDifficulty(name)}
-                />
-                <span className="difficulty-mark" aria-hidden="true">
-                  {mark}
-                </span>
-                <span>
-                  <strong>{name}</strong>
-                  <small>{detail}</small>
-                </span>
-                {name === "Mix" && (
-                  <span className="signature-tag">Signature</span>
-                )}
-                <span className="radio-dot" aria-hidden="true" />
-              </label>
-            ))}
-          </div>
-        </fieldset>
+        {mode === "Classic" && (
+          <fieldset>
+            <legend>Difficulty</legend>
+            <div className="difficulty-options">
+              {options.map(({ name, detail, mark }) => (
+                <label
+                  key={name}
+                  className={`difficulty-option ${name === "Mix" ? "mix-option" : ""} ${difficulty === name ? "selected" : ""}`}
+                >
+                  <input
+                    type="radio"
+                    name="difficulty"
+                    value={name}
+                    checked={difficulty === name}
+                    onChange={() => onDifficulty(name)}
+                  />
+                  <span className="difficulty-mark" aria-hidden="true">
+                    {mark}
+                  </span>
+                  <span>
+                    <strong>{name}</strong>
+                    <small>{detail}</small>
+                  </span>
+                  {name === "Mix" && (
+                    <span className="signature-tag">Signature</span>
+                  )}
+                  <span className="radio-dot" aria-hidden="true" />
+                </label>
+              ))}
+            </div>
+          </fieldset>
+        )}
         <p className="round-summary" id="round-summary">
-          {difficulty === "Mix"
-            ? mode === "Classic"
+          {mode === "Endless"
+            ? "All difficulties, shuffled together. Keep going without repeats."
+            : difficulty === "Mix"
               ? "6 Easy → 6 Medium → 7 Hard → 6 typed Extra Hard."
-              : "5 Easy → 5 Medium → 5 Hard → typed Extra Hard until the pool ends."
-            : difficulty === "Extra Hard"
-              ? "Type your answers. Reasonable aliases and small typos are welcome."
-              : "Four choices per question. Take your time—there’s no timer."}
+              : difficulty === "Extra Hard"
+                ? "Type your answer. Shortened answers and small typos are welcome."
+                : "Four choices per question. Take your time—there’s no timer."}
         </p>
         <button
           className="button primary start-button"
           onClick={onStart}
           aria-describedby="round-summary"
         >
-          {difficulty === "Mix" ? "Play Mix" : "Start Game"}
+          {mode === "Endless"
+            ? "Play Endless"
+            : difficulty === "Mix"
+              ? "Play Mix"
+              : "Start Game"}
           <span aria-hidden="true">↗</span>
         </button>
         <div className="saved-records">
@@ -161,7 +128,8 @@ export function GameSetup({
             </strong>
           </span>
           <span>
-            Best streak · all modes<strong>{records.bestStreak || "—"}</strong>
+            High Score · Endless Mode
+            <strong>{records.endlessHighScore || "—"}</strong>
           </span>
         </div>
       </section>

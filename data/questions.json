@@ -7262,7 +7262,7 @@
       "evidence": "Rachel imagines Ross telling her he has loved her since ninth grade."
     },
     "reviewed": true,
-    "aliases": ["9th grade", "Grade 9"],
+    "aliases": ["9th grade", "Grade 9", "9th", "Ninth"],
     "allowTypo": true
   },
   {
@@ -7508,7 +7508,9 @@
       "Prehistoric human display",
       "Prehistoric exhibit",
       "Caveman diorama",
-      "Prehistoric human exhibit"
+      "Prehistoric human exhibit",
+      "Caveman",
+      "Cavemen"
     ],
     "allowTypo": true
   },

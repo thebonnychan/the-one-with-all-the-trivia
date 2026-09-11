@@ -27,12 +27,7 @@ describe("production-bank playthroughs", () => {
           expect(session.feedback?.correct).toBe(true);
           session = advanceQuestion(session);
         }
-        const count =
-          mode === "Classic"
-            ? 25
-            : difficulty === "Mix"
-              ? 15 + bank.filter((q) => q.difficulty === "Extra Hard").length
-              : bank.filter((q) => q.difficulty === difficulty).length;
+        const count = mode === "Classic" ? 25 : bank.length;
         expect(ids.size).toBe(count);
         expect(session.status).toBe(
           mode === "Classic" ? "complete" : "exhausted",
@@ -73,4 +68,39 @@ describe("production-bank playthroughs", () => {
       ).toBe(false);
     }
   });
+});
+
+it.each([
+  ["Ninth grade", "9th"],
+  ["Caveman display", "cavemen"],
+  ["To my best bud", "my best bud"],
+  ["One seventieth", "1/70"],
+])("accepts the requested variant of %s: %s", (answer, input) => {
+  const question = bank.find((q) => q.kind === "typed" && q.answer === answer)!;
+  expect(question?.kind).toBe("typed");
+  if (question.kind === "typed")
+    expect(
+      matchesTypedAnswer(
+        input,
+        question.answer,
+        question.aliases,
+        question.allowTypo,
+      ),
+    ).toBe(true);
+});
+
+it("rejects 1/17 for one seventieth", () => {
+  const question = bank.find(
+    (q) => q.kind === "typed" && q.answer === "One seventieth",
+  )!;
+  expect(question?.kind).toBe("typed");
+  if (question.kind === "typed")
+    expect(
+      matchesTypedAnswer(
+        "1/17",
+        question.answer,
+        question.aliases,
+        question.allowTypo,
+      ),
+    ).toBe(false);
 });

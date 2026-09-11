@@ -4,8 +4,13 @@ export const RECORDS_KEY = "the-one-with-all-the-trivia.records.v1";
 export interface Records {
   classic: Partial<Record<DifficultySelection, number>>;
   bestStreak: number;
+  endlessHighScore: number;
 }
-export const emptyRecords = (): Records => ({ classic: {}, bestStreak: 0 });
+export const emptyRecords = (): Records => ({
+  classic: {},
+  bestStreak: 0,
+  endlessHighScore: 0,
+});
 export function parseRecords(raw: string | null): Records {
   try {
     const input = JSON.parse(raw || "null");
@@ -28,6 +33,12 @@ export function parseRecords(raw: string | null): Records {
       input.bestStreak <= 100000
     )
       result.bestStreak = input.bestStreak;
+    if (
+      Number.isInteger(input.endlessHighScore) &&
+      input.endlessHighScore >= 0 &&
+      input.endlessHighScore <= 100000
+    )
+      result.endlessHighScore = input.endlessHighScore;
     return result;
   } catch {
     return emptyRecords();
@@ -50,6 +61,10 @@ export function recordSession(records: Records, session: Session): Records {
   }
   return {
     classic,
+    endlessHighScore: Math.max(
+      records.endlessHighScore,
+      session.mode === "Endless" ? session.score : 0,
+    ),
     bestStreak: Math.max(records.bestStreak, session.bestStreak),
   };
 }

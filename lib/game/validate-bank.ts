@@ -30,7 +30,8 @@ export function validateBank(input: unknown, launch = false): string[] {
     }
     for (const key of ["id", "factId", "prompt"] as const) {
       if (!isText(q[key])) continue;
-      const normalized = normalizeAnswer(q[key]);
+      const normalized =
+        normalizeAnswer(q[key]) + (key === "factId" ? `:${q.kind}` : "");
       if (seen[key].has(normalized)) errors.push(`${label}: duplicate ${key}.`);
       seen[key].add(normalized);
     }

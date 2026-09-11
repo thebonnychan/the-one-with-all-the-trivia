@@ -17,6 +17,7 @@ export function createSession(
   mode: Mode,
   difficulty: DifficultySelection,
   random: () => number = Math.random,
+  seenIds: readonly string[] = [],
 ): Session {
   if (mode !== "Classic" && mode !== "Endless")
     throw new Error("Choose a valid game mode.");
@@ -29,41 +30,48 @@ export function createSession(
   const errors = validateBank(bank);
   if (errors.length)
     throw new Error(`Question data needs attention: ${errors[0]}`);
+  const seen = new Set(seenIds);
   const tiers = difficulty === "Mix" ? DIFFICULTIES : [difficulty];
-  const questions = tiers.flatMap((tier, i) => {
-    const pool = bank.filter((q) => q.difficulty === tier);
-    const count =
-      mode === "Classic"
-        ? difficulty === "Mix"
-          ? MIX_COUNTS[i]
-          : CLASSIC_LENGTH
-        : difficulty === "Mix" && tier !== "Extra Hard"
-          ? 5
-          : pool.length;
-    if (pool.length < count || pool.length === 0) {
-      throw new Error(
-        `Not enough ${tier} questions for ${mode} ${difficulty}.`,
-      );
-    }
-    return shuffled(pool, random)
-      .slice(0, count)
-      .map((q): Question =>
-        q.kind === "multiple-choice"
-          ? {
-              ...q,
-              options: shuffled(q.options, random) as [
-                string,
-                string,
-                string,
-                string,
-              ],
-            }
-          : { ...q, aliases: [...q.aliases] },
-      );
-  });
+  const selected =
+    mode === "Endless"
+      ? shuffled(bank, random)
+      : tiers.flatMap((tier, i) => {
+          const pool = bank.filter((q) => q.difficulty === tier);
+          const count = difficulty === "Mix" ? MIX_COUNTS[i] : CLASSIC_LENGTH;
+          if (pool.length < count)
+            throw new Error(
+              `Not enough ${tier} questions for Classic ${difficulty}.`,
+            );
+          // Consume the unseen remainder before rolling into the next cycle. Each
+          // round remains unique, including rounds that straddle a cycle boundary.
+          return [
+            ...shuffled(
+              pool.filter((q) => !seen.has(q.id)),
+              random,
+            ),
+            ...shuffled(
+              pool.filter((q) => seen.has(q.id)),
+              random,
+            ),
+          ].slice(0, count);
+        });
+  if (!selected.length) throw new Error("Not enough questions for Endless.");
+  const questions = selected.map((q): Question =>
+    q.kind === "multiple-choice"
+      ? {
+          ...q,
+          options: shuffled(q.options, random) as [
+            string,
+            string,
+            string,
+            string,
+          ],
+        }
+      : { ...q, aliases: [...q.aliases] },
+  );
   return {
     mode,
-    difficulty,
+    difficulty: mode === "Endless" ? "Mix" : difficulty,
     questions,
     index: 0,
     score: 0,

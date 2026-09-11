@@ -20,6 +20,12 @@ import type {
   Question,
   Session,
 } from "../lib/game/types";
+import {
+  readHistory,
+  saveHistory,
+  markQuestionSeen,
+  type ClassicHistory,
+} from "../lib/game/history";
 import { GameSetup } from "./GameSetup";
 import { GameCard } from "./GameCard";
 import { ResultsCard } from "./ResultsCard";
@@ -31,6 +37,8 @@ export default function TriviaApp() {
   const [records, setRecords] = useState(emptyRecords);
   const [error, setError] = useState("");
   const [storageUnavailable, setStorageUnavailable] = useState(false);
+  const history = useRef<ClassicHistory>([]);
+  const historyStorageFailed = useRef(false);
   const main = useRef<HTMLElement>(null);
   const confirm = useRef<HTMLDialogElement>(null);
   const rules = useRef<HTMLDialogElement>(null);
@@ -56,11 +64,30 @@ export default function TriviaApp() {
     return () => window.removeEventListener("beforeunload", warn);
   }, [view]);
 
+  function remember(next: Session) {
+    if (next.mode !== "Classic" || next.status !== "playing") return;
+    history.current = markQuestionSeen(
+      historyStorageFailed.current
+        ? history.current
+        : readHistory(history.current),
+      next.questions[next.index],
+      bank as Question[],
+    );
+    if (!saveHistory(history.current)) {
+      historyStorageFailed.current = true;
+      setStorageUnavailable(true);
+    }
+  }
   function apply(next: Session) {
+    if (session && next.index !== session.index) remember(next);
     setSession(next);
     const stored = readRecords();
     const merged = {
       classic: { ...stored.classic },
+      endlessHighScore: Math.max(
+        stored.endlessHighScore,
+        records.endlessHighScore,
+      ),
       bestStreak: Math.max(stored.bestStreak, records.bestStreak),
     };
     for (const key of [
@@ -78,11 +105,21 @@ export default function TriviaApp() {
     }
     const updated = recordSession(merged, next);
     setRecords(updated);
-    setStorageUnavailable(!saveRecords(updated));
+    if (!saveRecords(updated)) setStorageUnavailable(true);
   }
   function start() {
     try {
-      setSession(createSession(bank as Question[], mode, difficulty));
+      if (!historyStorageFailed.current)
+        history.current = readHistory(history.current);
+      const next = createSession(
+        bank as Question[],
+        mode,
+        difficulty,
+        Math.random,
+        history.current,
+      );
+      remember(next);
+      setSession(next);
       setError("");
     } catch (cause) {
       setSession(null);
@@ -140,7 +177,6 @@ export default function TriviaApp() {
             mode={mode}
             difficulty={difficulty}
             records={records}
-            questionCount={bank.length}
             onMode={setMode}
             onDifficulty={setDifficulty}
             onStart={start}
@@ -165,7 +201,7 @@ export default function TriviaApp() {
         </p>
         <p>
           {storageUnavailable
-            ? "Records couldn't be saved in this browser. You can still play normally."
+            ? "Scores or question history couldn't be saved in this browser. You can still play normally."
             : "Best scores stay on this device. No account needed."}
         </p>
       </footer>
@@ -189,15 +225,15 @@ export default function TriviaApp() {
           <h3>Classic · 25 questions</h3>
           <p>
             Choose a difficulty, or play Mix: 6 Easy, 6 Medium, 7 Hard, then 6
-            Extra Hard. The last six answers are typed.
+            Extra Hard. The last six answers are typed. Each difficulty cycles
+            through unseen questions across rounds before repeating.
           </p>
         </section>
         <section>
           <h3>Endless · no repeats</h3>
           <p>
-            Keep playing one difficulty until you end the run or finish its
-            pool. Mix starts with 5 Easy, 5 Medium, and 5 Hard, then uses the
-            Extra Hard pool. It never cycles back.
+            All difficulties are shuffled together. Keep playing until you end
+            the run or finish the bank. Questions never repeat within a run.
           </p>
         </section>
         <section>
@@ -212,14 +248,15 @@ export default function TriviaApp() {
           <h3>Extra Hard · from memory</h3>
           <p>
             Type your answer and press Enter or Submit. Case, whitespace, and
-            punctuation are normalized. Accepted aliases and small spelling
-            mistakes count; short names and numbers need greater precision.
+            punctuation are normalized. Accepted aliases, a majority of answer
+            words in order, and small spelling mistakes count. Numbers and
+            negations are preserved.
           </p>
         </section>
         <p className="muted">
           No timer. No category selection. Reloading ends your current run;
-          completed Classic records and best streaks are saved on this device
-          when storage is available.
+          Classic question history, completed Classic records, and Endless high
+          scores are saved on this device when storage is available.
         </p>
         <button
           className="button primary"

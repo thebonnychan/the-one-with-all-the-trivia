@@ -63,9 +63,9 @@ describe("results and invalid inputs", () => {
       "data",
     );
   });
-  it("requires five questions in the first three Endless Mix stages", () => {
-    expect(() => createSession(makeBank(4), "Endless", "Mix")).toThrow(
-      "Not enough",
+  it("supports small nonempty Endless banks without artificial tier stages", () => {
+    expect(createSession(makeBank(4), "Endless", "Mix").questions).toHaveLength(
+      16,
     );
   });
 });
@@ -81,19 +81,20 @@ describe("records", () => {
           bestStreak: -4,
         }),
       ),
-    ).toEqual({ classic: { Medium: 15 }, bestStreak: 0 });
+    ).toEqual({ classic: { Medium: 15 }, bestStreak: 0, endlessHighScore: 0 });
   });
   it("saves a completed Classic best per difficulty without lowering records", () => {
     let game = createSession(makeBank(), "Classic", "Easy");
     for (let i = 0; i < 25; i++)
       game = advanceQuestion(submitAnswer(game, "Correct answer"));
     const records = recordSession(
-      { classic: { Hard: 20 }, bestStreak: 40 },
+      { classic: { Hard: 20 }, bestStreak: 40, endlessHighScore: 0 },
       game,
     );
     expect(records).toEqual({
       classic: { Hard: 20, Easy: 25 },
       bestStreak: 40,
+      endlessHighScore: 0,
     });
     const incomplete = endSession(createSession(makeBank(), "Classic", "Mix"));
     expect(recordSession(records, incomplete)).toEqual(records);
@@ -108,6 +109,7 @@ describe("records", () => {
     expect(recordSession(emptyRecords(), game)).toEqual({
       classic: {},
       bestStreak: 1,
+      endlessHighScore: 1,
     });
   });
   it("survives blocked or unavailable browser storage", () => {
@@ -127,7 +129,11 @@ describe("records", () => {
     vi.stubGlobal("window", {
       localStorage: { getItem: (key: string) => values.get(key), setItem },
     });
-    const records = { classic: { Mix: 21 }, bestStreak: 17 };
+    const records = {
+      classic: { Mix: 21 },
+      bestStreak: 17,
+      endlessHighScore: 12,
+    };
     expect(saveRecords(records)).toBe(true);
     expect(setItem).toHaveBeenCalledWith(RECORDS_KEY, JSON.stringify(records));
     expect(readRecords()).toEqual(records);
@@ -136,4 +142,30 @@ describe("records", () => {
     });
     expect(saveRecords(records)).toBe(false);
   });
+});
+
+it("records Endless total score independently of streak and preserves it across Classic games", () => {
+  let game = createSession(makeBank(), "Endless", "Mix");
+  for (let i = 0; i < 6; i++) {
+    const q = game.questions[game.index];
+    const answer =
+      i === 2
+        ? q.kind === "typed"
+          ? "wrong answer"
+          : q.options.find((x) => x !== q.answer)!
+        : q.answer;
+    game = advanceQuestion(submitAnswer(game, answer));
+  }
+  const records = recordSession(emptyRecords(), endSession(game));
+  expect(records.endlessHighScore).toBe(5);
+  expect(records.bestStreak).toBe(3);
+  const classic = {
+    ...createSession(makeBank(), "Classic", "Mix"),
+    score: 25,
+    status: "complete" as const,
+  };
+  expect(recordSession(records, classic).endlessHighScore).toBe(5);
+  expect(
+    parseRecords(JSON.stringify({ classic: { Mix: 23 }, bestStreak: 50 })),
+  ).toMatchObject({ classic: { Mix: 23 }, endlessHighScore: 0 });
 });

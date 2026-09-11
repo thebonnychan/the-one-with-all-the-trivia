@@ -26,7 +26,8 @@ export function ResultsCard({
         ✳
       </span>
       <p className="eyebrow">
-        {session.mode} / {session.difficulty}
+        {session.mode}
+        {session.mode === "Classic" ? ` / ${session.difficulty}` : ""}
       </p>
       <h1 id="results-title">
         {session.status === "exhausted"
