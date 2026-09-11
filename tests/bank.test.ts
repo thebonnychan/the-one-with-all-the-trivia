@@ -1,0 +1,77 @@
+import { describe, expect, it } from "vitest";
+import questions from "../data/questions.json";
+import { validateBank } from "../lib/game/validate-bank";
+import { makeBank } from "./fixtures";
+
+describe("question bank validation", () => {
+  it("requires the full production bank to pass launch validation", () => {
+    expect(validateBank(questions, true)).toEqual([]);
+    for (const difficulty of ["Easy", "Medium", "Hard", "Extra Hard"]) {
+      expect(
+        questions.filter((q) => q.difficulty === difficulty).length,
+      ).toBeGreaterThanOrEqual(500);
+    }
+    expect(
+      new Set(questions.map((q) => q.source.episode.slice(1, 3))).size,
+    ).toBe(10);
+    expect(
+      questions.every((q) =>
+        q.source.url.startsWith("https://www.livesinabox.com/friends/"),
+      ),
+    ).toBe(true);
+  });
+  it("requires 2000 questions and enough questions for every Classic tier at launch", () => {
+    expect(validateBank(makeBank(500), true)).toEqual([]);
+    expect(validateBank(makeBank(499), true)).toContain(
+      "Launch requires at least 2000 questions; found 1996.",
+    );
+    const uneven = makeBank(170).filter((q) => q.difficulty !== "Hard");
+    expect(validateBank(uneven, true)).toContain(
+      "Hard: at least 25 questions are required for Classic.",
+    );
+  });
+  it("rejects duplicate IDs, reworded facts, and normalized prompts", () => {
+    const bank = makeBank(1);
+    bank[1] = {
+      ...bank[1],
+      id: bank[0].id,
+      factId: bank[0].factId,
+      prompt: bank[0].prompt.toUpperCase(),
+    };
+    expect(validateBank(bank)).toEqual(
+      expect.arrayContaining([
+        "Question 2: duplicate id.",
+        "Question 2: duplicate factId.",
+        "Question 2: duplicate prompt.",
+      ]),
+    );
+  });
+  it("rejects invalid answer choices and incorrect answer types", () => {
+    const bank = makeBank(1);
+    expect(
+      validateBank([{ ...bank[0], options: ["A", "a!", "B", "C"] }]).length,
+    ).toBeGreaterThan(0);
+    expect(
+      validateBank([{ ...bank[3], kind: "multiple-choice" }]).length,
+    ).toBeGreaterThan(0);
+    expect(
+      validateBank([{ ...bank[0], answer: "absent" }]).length,
+    ).toBeGreaterThan(0);
+  });
+  it("requires sources and explicit editorial review for launch", () => {
+    const bank = makeBank(500);
+    bank[0].reviewed = false;
+    bank[0].source.evidence = "";
+    expect(validateBank(bank, true)).toEqual(
+      expect.arrayContaining([
+        "Question 1: editorial review is required.",
+        "Question 1: include an episode reference and specific verification evidence.",
+      ]),
+    );
+  });
+  it("returns errors for malformed input rather than crashing", () => {
+    for (const input of [null, {}, [null], [1], [{}], [{ source: 1 }]]) {
+      expect(validateBank(input).length).toBeGreaterThan(0);
+    }
+  });
+});

@@ -1,0 +1,40 @@
+# Architecture and verification
+
+The permanent contract is [AGENTS.md](../AGENTS.md); the full product specification is [MASTER_SPECIFICATION.md](MASTER_SPECIFICATION.md).
+
+## Completed stages
+
+1. Verified Node/npm, the repository's `main` branch, and the GitHub Pages static-export approach. Established Next.js, React, TypeScript, Tailwind, App Router, and a successful foundation build.
+2. Added discriminated question types, local JSON data, bank validation, reusable answer matching, and pure game transitions with automated tests.
+3. Authored 500 questions across ten seasons, with 125 in each difficulty. Reviewed episode transcript references, corrected misleading premises and chronology, and replaced duplicate facts. See [the editorial process](QUESTION_BANK.md).
+4. Built setup, Classic, Mix, Endless, typed answers, feedback, results, replay, and resilient device-local records. Added responsive original styling, native keyboard controls, focus management, dialogs, and reduced-motion styles.
+5. Added CI, automatic GitHub Pages deployment, production-pool tests, and complete setup/deployment documentation.
+
+## State and boundaries
+
+`TriviaApp` owns the active session and records in React state. `GameSetup`, `GameCard`, and `ResultsCard` render the current view. The engine in `lib/game/engine.ts` owns selection, scoring, and transitions; it does not access browser APIs. Only `records.ts` accesses localStorage, and every storage operation handles failure.
+
+Classic Mix uses 6/6/7/6 questions. Endless Mix uses 5/5/5 followed by the full Extra Hard pool. Fisher–Yates shuffles questions within tiers and answer options without changing the source bank. Exhaustion is explicit; replay creates a new independent run. There are no external gameplay requests, server routes, authentication, or runtime environment variables.
+
+## Verification approach
+
+Automated checks cover all mode/difficulty combinations, actual production-bank playthroughs, exact Mix transitions, no duplicate questions, answer locking, score and streak calculations, aliases, conservative typo matching, and invalid or unavailable storage. Structural bank checks complement editorial review; they cannot establish factual truth.
+
+Browser verification covers a complete 25-question Classic Mix, the switch to typed answers at question 20, Enter submission, whitespace rejection, correct/incorrect feedback, results, replay, leave confirmation, Escape focus return, saved records after reload, and Endless Mix progression into question 16 and beyond. Mobile and desktop checks include horizontal overflow and keyboard access.
+
+Release checks use `npm run check`, `npm run validate:launch`, `npm run format:check`, and a production build with the repository base path. Inspect the exported site and its assets through a static HTTP server before release. Publishing occurs through the included GitHub Actions workflow when source is pushed to `main` in a Pages-enabled repository.
+
+## Expansion to 2,000 questions
+
+Expanded the local bank to exactly 2,000 questions, with 500 in each difficulty. Added 1,500 individually written entries with episode references and original evidence summaries, checked candidate overlaps, tightened a broad full-name alias, and corrected discovered errors in the original bank. Examples include Monica hiring Chandler's supposed stripper, Monica's braids catching in the shower curtain, and Dr. Biely—not Ross—proposing the South Dakota fieldwork.
+
+The setup screen derives its question count from the bank. Launch validation now requires at least 2,000 entries, and production tests require at least 500 per difficulty. Full simulated playthroughs cover every mode and difficulty: Classic remains 25 questions, single-difficulty Endless exhausts 500 unique questions, and Endless Mix exhausts 515 questions (5/5/5/500).
+
+Verification completed on September 11, 2026:
+
+- All 60 Vitest tests, ESLint, TypeScript, structural and launch bank validation, and Prettier checks passed.
+- The production build with `/the-one-with-all-the-trivia` as its base path exported successfully.
+- The refreshed static preview displayed 2,000 questions. Browser smoke tests verified multiple-choice correction/explanation, typed-answer case/whitespace/punctuation normalization with Enter, the Endless remaining count, end-run confirmation, results, and preserved existing records. No browser console errors were reported.
+- The complete static export measured 2,161,978 bytes. Compact question JSON measured 1,142,747 bytes, or 226,487 bytes with gzip. The page JavaScript containing the bank measured 1,167,114 bytes, or 233,785 bytes with gzip. These are local artifact measurements; actual transfer sizes depend on hosting compression and caching.
+
+All questions remain repository data bundled at build time; none are generated during gameplay. These checks do not replace editorial judgment or certify that a transcript itself is error-free. No deployment was performed for this expansion.
