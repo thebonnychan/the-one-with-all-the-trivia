@@ -1,3 +1,4 @@
+import { SERIES, type SeriesId } from "../lib/series";
 import type { DifficultySelection, Mode } from "../lib/game/types";
 import type { Records } from "../lib/game/records";
 
@@ -10,6 +11,7 @@ const options: { name: DifficultySelection; detail: string; mark: string }[] = [
 ];
 
 export function GameSetup({
+  series,
   mode,
   difficulty,
   records,
@@ -17,6 +19,7 @@ export function GameSetup({
   onDifficulty,
   onStart,
 }: {
+  series: SeriesId;
   mode: Mode;
   difficulty: DifficultySelection;
   records: Records;
@@ -28,14 +31,24 @@ export function GameSetup({
     <div className="setup-layout">
       <section className="welcome" aria-labelledby="welcome-title">
         <h1 id="welcome-title">
-          <span>The One With</span>All the
-          <br />
-          <em>Trivia</em>
-          <span className="title-period" aria-hidden="true">
-            .
-          </span>
+          {series === "friends" ? (
+            <>
+              <span>The One With</span>All the
+              <br />
+              <em>Trivia</em>
+              <span className="title-period" aria-hidden="true">
+                .
+              </span>
+            </>
+          ) : (
+            <>
+              Lettuce Do
+              <br />
+              <em>Trivia.</em>
+            </>
+          )}
         </h1>
-        <p className="subtitle">How well do you really know Friends?</p>
+        <p className="subtitle">{SERIES[series].subtitle}</p>
       </section>
       <section className="setup-card" aria-label="Game settings">
         <fieldset className="mode-fieldset">

@@ -1,12 +1,16 @@
+import { storageKey, type SeriesId } from "../series";
 import type { Question } from "./types";
 
 export const HISTORY_KEY = "the-one-with-all-the-trivia.classic-history.v1";
 export type ClassicHistory = string[];
 
-export function readHistory(fallback: ClassicHistory = []): ClassicHistory {
+export function readHistory(
+  fallback: ClassicHistory = [],
+  series: SeriesId = "friends",
+): ClassicHistory {
   try {
     const value: unknown = JSON.parse(
-      window.localStorage.getItem(HISTORY_KEY) || "null",
+      window.localStorage.getItem(storageKey(HISTORY_KEY, series)) || "null",
     );
     return Array.isArray(value) && value.every((id) => typeof id === "string")
       ? [...new Set(value)]
@@ -16,9 +20,15 @@ export function readHistory(fallback: ClassicHistory = []): ClassicHistory {
   }
 }
 
-export function saveHistory(history: ClassicHistory): boolean {
+export function saveHistory(
+  history: ClassicHistory,
+  series: SeriesId = "friends",
+): boolean {
   try {
-    window.localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+    window.localStorage.setItem(
+      storageKey(HISTORY_KEY, series),
+      JSON.stringify(history),
+    );
     return true;
   } catch {
     return false;

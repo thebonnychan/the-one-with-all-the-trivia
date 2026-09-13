@@ -1,13 +1,15 @@
-# The One With All the Trivia
+# TV Trivia
 
-A free, fan-made **Friends** trivia game with an original cozy, 1990s New York-inspired design. Built with Next.js, React, TypeScript, Tailwind CSS, and the App Router; exported as a static site for GitHub Pages.
+A free, fan-made **Friends and Bob's Burgers** trivia app. Choose a series first, then play the same Classic and Endless modes. Friends uses white and black with red, teal, and yellow accents; Bob's Burgers uses a bright yellow, red, and charcoal palette and the title **Lettuce Do Trivia.** Built with Next.js, React, TypeScript, Tailwind CSS, and the App Router; exported as a static site for GitHub Pages.
 
 ## Features
 
-- **2,000 locally bundled questions:** 500 each of Easy, Medium, Hard, and Extra Hard, spanning all ten seasons. Every question includes an explanation and episode reference.
+- **Friends:** 2,000 local questions, 500 per difficulty, spanning ten seasons. Extra Hard emphasizes varied scene details and includes 125 typed variants of reviewed Hard facts; explicit first-name/surname recall is limited.
+- **Bob's Burgers:** 1,000 local questions, 250 per difficulty, spanning TV seasons 1–16 and excluding the movie. Its 250 typed fill-in-the-blank questions revisit specific multiple-choice facts.
+- Both banks include explanations and episode references and load on demand after series selection.
 - **Classic:** 25 questions at your chosen difficulty. Locally saved history cycles through every question in each difficulty before repeating across rounds; Mix shares that history.
 - **Classic Mix:** 6 Easy → 6 Medium → 7 Hard → 6 Extra Hard. Questions 20–25 require typed answers.
-- **Endless:** all 2,000 questions shuffled across all difficulties, with no difficulty selector or staged progression. End at any time; the run stops explicitly when the bank is exhausted.
+- **Endless:** the selected show's complete bank shuffled across all difficulties, with no difficulty selector or staged progression. End at any time; the run stops explicitly when the bank is exhausted.
 - Four shuffled choices for Easy, Medium, and Hard; typed answers for Extra Hard, with aliases and conservative typo tolerance.
 - Scores, streaks, explanations, results, and deliberate replay. One correct answer earns one point; a miss resets the current streak. No timer or automatic advancement.
 - Device-local best Classic scores by difficulty and an Endless high score. No account, database, backend, analytics, paid API, or runtime external service.
@@ -23,18 +25,18 @@ npm ci
 npm run dev
 ```
 
-Open the URL printed by Next.js, usually `http://localhost:3000`. Choose Classic and a difficulty, or choose Endless, then start playing. No credentials or environment file are needed.
+Open the URL printed by Next.js, usually `http://localhost:3000`. Choose a show, then Classic and a difficulty, or choose Endless, then start playing. No credentials or environment file are needed.
 
-| Command                                   | Purpose                                                           |
-| ----------------------------------------- | ----------------------------------------------------------------- |
-| `npm run dev`                             | Start the development server.                                     |
-| `npm run build`                           | Build and export static files into `out/`.                        |
-| `npm run check`                           | Run ESLint, TypeScript, Vitest, and bank validation.              |
-| `npm test` / `npm run test:watch`         | Run tests once / watch for changes.                               |
-| `npm run validate:bank`                   | Check question schema, answers, sources, and duplicates.          |
-| `npm run validate:launch`                 | Also enforce 2,000+ reviewed questions and sufficient tier sizes. |
-| `npm run lint` / `npm run typecheck`      | Run individual code checks.                                       |
-| `npm run format` / `npm run format:check` | Apply / check Prettier formatting.                                |
+| Command                                   | Purpose                                                            |
+| ----------------------------------------- | ------------------------------------------------------------------ |
+| `npm run dev`                             | Start the development server.                                      |
+| `npm run build`                           | Build and export static files into `out/`.                         |
+| `npm run check`                           | Run ESLint, TypeScript, Vitest, and bank validation.               |
+| `npm test` / `npm run test:watch`         | Run tests once / watch for changes.                                |
+| `npm run validate:bank`                   | Check question schema, answers, sources, and duplicates.           |
+| `npm run validate:launch`                 | Enforce reviewed bank minima: 2,000 Friends / 1,000 Bob's Burgers. |
+| `npm run lint` / `npm run typecheck`      | Run individual code checks.                                        |
+| `npm run format` / `npm run format:check` | Apply / check Prettier formatting.                                 |
 
 The production build uses Next.js's Webpack option. No Node server is deployed; do not use `next start` for the static export.
 
@@ -45,7 +47,9 @@ app/                  App Router page, metadata, and global Tailwind/CSS styles
 components/           Setup, game, results, and application orchestration
 lib/game/             Session engine, types, records, and bank validation
 src/utils/            Answer normalization/matching and Fisher–Yates shuffle
-data/questions.json   Production question bank
+lib/series.ts         Series metadata, lazy bank loading, and storage namespaces
+data/questions.json   Friends production bank
+data/bobs-burgers.json Bob's Burgers production bank
 scripts/              Command-line bank validator
 tests/                Vitest tests and isolated synthetic test fixtures
 public/               Static assets and .nojekyll
@@ -53,17 +57,17 @@ docs/                 Master specification, architecture, and editorial guide
 .github/workflows/    CI validation and GitHub Pages deployment
 ```
 
-React state holds the active session. Pure engine functions select questions, score answers, and advance or end a run; components render that state. An answer locks until Next Question. Returning home during a game requires confirmation. Reloading ends the current run, with the browser's navigation warning where supported.
+React state holds the active session. Pure engine functions select questions, score answers, and advance or end a run; components render that state. An answer locks until Next Question. Home returns to the series picker. The show-name breadcrumb returns to that show's setup. Both actions require confirmation during a game; cancelling keeps the current answer and progress intact. Results also offer replay and a return to show setup. Reloading ends the current run, with the browser's navigation warning where supported.
 
 ## Question maintenance
 
-Edit `data/questions.json` and follow [the editorial guide](docs/QUESTION_BANK.md). Keep IDs stable, assign a fact key, verify the episode detail, and check semantic duplicates before setting `reviewed: true`. Extra Hard may revisit a multiple-choice fact as a fill-in-the-blank question using the same fact key; each answer kind must remain unique. Do not copy quiz collections or add filler to meet a count.
+Edit `data/questions.json` or `data/bobs-burgers.json` and follow [the editorial guide](docs/QUESTION_BANK.md). Keep IDs stable, assign a fact key, verify the episode detail, and check semantic duplicates before setting `reviewed: true`. Extra Hard may revisit a multiple-choice fact as a fill-in-the-blank question using the same fact key; each answer kind must remain unique. Do not copy quiz collections or add filler to meet a count.
 
 A multiple-choice entry contains `id`, `factId`, `difficulty`, `kind: "multiple-choice"`, `prompt`, `answer`, exactly four `options`, `explanation`, `source` (`episode`, `evidence`, optional `url`), and `reviewed`. `answer` must exactly match one option. An Extra Hard entry instead uses `kind: "typed"`, `aliases`, and `allowTypo`; it has no `options`. See [the TypeScript schema](lib/game/types.ts) and existing entries for complete examples.
 
 Easy covers recognizable characters and major stories; Medium expects regular-viewer familiarity; Hard asks specific episode details; Extra Hard requires precise recall without choices. Episode metadata is for editorial reference—players never select categories.
 
-The bank's source links point to the [Friends transcript archive](https://www.livesinabox.com/friends/scripts.shtml). Wording and explanations are original; full scripts and official visual assets are not bundled. Transcript references support editorial review but can contain transcription errors. Automated validation cannot prove factual accuracy, appropriate difficulty, or semantic uniqueness; review those when editing.
+Friends source links point to the [Friends transcript archive](https://www.livesinabox.com/friends/scripts.shtml). Bob's Burgers entries reference individual [TVmaze episode guides](https://www.tvmaze.com/shows/107/bobs-burgers) and Wikipedia episode articles linked in each question. Review used their plot summaries, with season coverage checked against episode listings. Keep prompts free of answer giveaways and unnecessary relationship clues such as “sister”. Wording and explanations are original; full scripts and official visual assets are not bundled. Transcript references support editorial review but can contain transcription errors. Automated validation cannot prove factual accuracy, appropriate difficulty, or semantic uniqueness; review those when editing.
 
 ## Typed-answer policy
 
@@ -73,7 +77,7 @@ One minor spelling error in a word of five or more letters remains acceptable wh
 
 ## Testing
 
-Vitest covers every Classic difficulty, exact Mix ordering, production-pool exhaustion, no repeats, option shuffling, scoring, streak resets, duplicate submissions, results, typed answers, malformed data, and unavailable/corrupt/full localStorage. Production-bank tests enforce the launch gate and substantial pools across all ten seasons. There is no numeric coverage threshold; add behavioral regression tests for changes.
+Vitest covers every Classic difficulty, exact Mix ordering, production-pool exhaustion, no repeats, option shuffling, scoring, streak resets, duplicate submissions, results, typed answers, malformed data, and unavailable/corrupt/full localStorage. Production-bank tests enforce the launch gate and both shows' pools and season coverage. Series tests also check separate storage namespaces, preserved Friends records, and show-specific setup/results text. There is no numeric coverage threshold; add behavioral regression tests for changes.
 
 Before submitting changes, run:
 
@@ -104,9 +108,9 @@ If deployment fails, inspect the Actions logs, confirm Pages uses GitHub Actions
 
 ## Persistence and privacy
 
-Records use `the-one-with-all-the-trivia.records.v1`; Classic question history uses `the-one-with-all-the-trivia.classic-history.v1`. Completed Classic rounds update that difficulty's best. Endless high scores count correct answers, independently of streaks, including manually ended runs. Old Classic records are preserved; old streaks are not converted into Endless scores.
+Friends records use `the-one-with-all-the-trivia.records.v1`; Classic history uses `the-one-with-all-the-trivia.classic-history.v1`. Bob's Burgers appends `.bobs-burgers` to each key. No migration is needed for existing Friends data. Completed Classic rounds update that difficulty's best. Endless high scores count correct answers, independently of streaks, including manually ended runs. Old Classic records are preserved; old streaks are not converted into Endless scores.
 
-Classic marks each question when displayed, including questions in abandoned games. Unseen questions remain eligible. Each difficulty cycles independently, with history shared across Classic Mix and single-difficulty play. A round spanning a cycle boundary consumes unseen questions first and remains unique. New questions become eligible automatically. Records and history belong to the browser and origin; clearing site data resets them. Blocked storage falls back to memory for the current page and is disclosed in the footer. Separate simultaneous tabs do not reserve questions against each other.
+Classic marks each question when displayed, including questions in abandoned games. Unseen questions remain eligible. Each difficulty cycles independently, with history shared across Classic Mix and single-difficulty play within that show. Switching shows never mixes histories. A round spanning a cycle boundary consumes unseen questions first and remains unique. New questions become eligible automatically. Records and history belong to the browser and origin; clearing site data resets them. Blocked storage falls back to memory for the current show session and is disclosed in the footer. Separate simultaneous tabs do not reserve questions against each other.
 
 All gameplay data and assets load from the static site. Once loaded, a current game needs no network requests; offline reload is not guaranteed because no service worker is installed. The design uses system fonts and original CSS decoration, with no official logo, stills, or promotional images.
 
@@ -114,4 +118,6 @@ All gameplay data and assets load from the static site. Once loaded, a current g
 
 Read [AGENTS.md](AGENTS.md) and preserve [the master specification](docs/MASTER_SPECIFICATION.md). Use two-space indentation, camelCase functions, PascalCase components/types, and `*.test.ts` tests; ESLint and Prettier define the code conventions. Use concise imperative commit subjects. Pull requests should explain motivation, behavior, linked issues, and validation; include screenshots for visual changes. Do not commit secrets, dependencies, or generated builds.
 
-This independent fan project is not affiliated with or endorsed by the Friends creators or rights holders.
+This independent fan project is not affiliated with or endorsed by the respective shows' creators or rights holders.
+
+The TV Trivia home title uses the locally bundled [Kalam Bold font](https://github.com/google/fonts/tree/main/ofl/kalam), licensed under the SIL Open Font License. Its license is included in `app/fonts/OFL-Kalam.txt`; no runtime font service is required.

@@ -4,7 +4,11 @@ import { DIFFICULTIES } from "./types";
 const isText = (value: unknown): value is string =>
   typeof value === "string" && value.trim().length > 0;
 
-export function validateBank(input: unknown, launch = false): string[] {
+export function validateBank(
+  input: unknown,
+  launch = false,
+  minimum = 2000,
+): string[] {
   if (!Array.isArray(input)) return ["Question bank must be an array."];
   const errors: string[] = [];
   const seen = {
@@ -13,9 +17,9 @@ export function validateBank(input: unknown, launch = false): string[] {
     prompt: new Set<string>(),
   };
   const counts = new Map<string, number>();
-  if (launch && input.length < 2000)
+  if (launch && input.length < minimum)
     errors.push(
-      `Launch requires at least 2000 questions; found ${input.length}.`,
+      `Launch requires at least ${minimum} questions; found ${input.length}.`,
     );
   input.forEach((value: unknown, index) => {
     const label = `Question ${index + 1}`;
@@ -47,7 +51,7 @@ export function validateBank(input: unknown, launch = false): string[] {
     if (
       !source ||
       !isText(source.episode) ||
-      !/^S(?:0[1-9]|10)E(?:0[1-9]|1\d|2[0-5])$/.test(source.episode) ||
+      !/^S(?:0[1-9]|[1-9]\d)E(?:0[1-9]|[1-9]\d)$/.test(source.episode) ||
       !isText(source.evidence)
     ) {
       errors.push(

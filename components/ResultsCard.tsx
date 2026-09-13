@@ -1,3 +1,4 @@
+import { SERIES, type SeriesId } from "../lib/series";
 import { getResults } from "../lib/game/engine";
 import type { Session } from "../lib/game/types";
 
@@ -10,10 +11,12 @@ export function performanceMessage(score: number) {
 }
 
 export function ResultsCard({
+  series = "friends",
   session,
   onReplay,
   onHome,
 }: {
+  series?: SeriesId;
   session: Session;
   onReplay: () => void;
   onHome: () => void;
@@ -34,11 +37,17 @@ export function ResultsCard({
           ? "Every last question."
           : session.status === "ended"
             ? "That's a wrap."
-            : "The one with your results."}
+            : series === "friends"
+              ? "The one with your results."
+              : "Order up! Your results."}
       </h1>
       <p className="result-message">
         {complete
-          ? performanceMessage(session.score)
+          ? series === "friends"
+            ? performanceMessage(session.score)
+            : session.score >= 20
+              ? "A well-done round. Compliments to the chef!"
+              : "Another helping of trivia is always on the menu."
           : session.status === "exhausted"
             ? "You've completed every question in this run's pool. No repeats, just a well-earned break."
             : "Your run ended here. Another round is always waiting."}
@@ -79,10 +88,10 @@ export function ResultsCard({
           Play Again <span aria-hidden="true">↗</span>
         </button>
         <button className="button secondary" onClick={onHome}>
-          Return Home
+          Back to {SERIES[series].name}
         </button>
       </div>
-      <p className="result-brand">The One With All the Trivia</p>
+      <p className="result-brand">{SERIES[series].title}</p>
     </section>
   );
 }

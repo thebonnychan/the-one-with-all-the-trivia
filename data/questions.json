@@ -6830,23 +6830,6 @@
     "options": ["Ken Adams", "Regina Phalange", "Clint Buchanan", "Vic Ferrari"]
   },
   {
-    "id": "friends-0376",
-    "factId": "what-first-name-does-phoebe-give-the-man-from-her-past-whom-she-mentions-in-the-pilot-s-opening-conversation",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Phoebe give the man from her past whom she mentions in the pilot's opening conversation?",
-    "answer": "Carl",
-    "explanation": "Phoebe briefly mentions her experience with Carl while worrying about Monica's date.",
-    "source": {
-      "episode": "S01E01",
-      "url": "https://www.livesinabox.com/friends/season1/101pilot.htm",
-      "evidence": "Phoebe briefly mentions her experience with Carl while worrying about Monica's date."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0377",
     "factId": "what-is-the-name-of-monica-s-coworker-who-reveals-she-also-dated-paul",
     "difficulty": "Extra Hard",
@@ -6878,23 +6861,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0379",
-    "factId": "what-first-name-belongs-to-the-homeless-woman-to-whom-phoebe-gives-her-unwanted-money",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name belongs to the homeless woman to whom Phoebe gives her unwanted money?",
-    "answer": "Lizzy",
-    "explanation": "Lizzy buys Phoebe the soda that contains the thumb.",
-    "source": {
-      "episode": "S01E03",
-      "url": "https://www.livesinabox.com/friends/season1/103thumb.htm",
-      "evidence": "Lizzy buys Phoebe the soda that contains the thumb."
-    },
-    "reviewed": true,
-    "aliases": ["Lizzie"],
     "allowTypo": true
   },
   {
@@ -6931,23 +6897,6 @@
       "episode": "S01E05",
       "url": "https://www.livesinabox.com/friends/season1/105egld.htm",
       "evidence": "Joey wants to get back together with Angela."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0382",
-    "factId": "what-is-the-first-name-of-aurora-s-husband",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Aurora's husband?",
-    "answer": "Rick",
-    "explanation": "Aurora explains her arrangement with her husband Rick.",
-    "source": {
-      "episode": "S01E06",
-      "url": "https://www.livesinabox.com/friends/season1/106butt.htm",
-      "evidence": "Aurora explains her arrangement with her husband Rick."
     },
     "reviewed": true,
     "aliases": [],
@@ -7062,23 +7011,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0389",
-    "factId": "what-first-name-belongs-to-ross-s-valentine-s-date-when-he-encounters-carol-and-susan",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name belongs to Ross's Valentine's date when he encounters Carol and Susan?",
-    "answer": "Kristen",
-    "explanation": "Kristen becomes frustrated as Ross focuses on Carol.",
-    "source": {
-      "episode": "S01E14",
-      "url": "https://www.livesinabox.com/friends/season1/114towch.htm",
-      "evidence": "Kristen becomes frustrated as Ross focuses on Carol."
-    },
-    "reviewed": true,
-    "aliases": ["Kristin"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0390",
     "factId": "what-appetizer-s-name-does-intoxicated-steve-repeat-until-it-sounds-meaningless",
     "difficulty": "Extra Hard",
@@ -7110,23 +7042,6 @@
     },
     "reviewed": true,
     "aliases": ["Riffs"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0392",
-    "factId": "what-surname-belongs-to-the-doctor-george-clooney-plays",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What surname belongs to the doctor George Clooney plays?",
-    "answer": "Mitchell",
-    "explanation": "Dr. Mitchell treats Rachel and joins the double date.",
-    "source": {
-      "episode": "S01E17",
-      "url": "https://www.livesinabox.com/friends/season1/117part2.htm",
-      "evidence": "Dr. Mitchell treats Rachel and joins the double date."
-    },
-    "reviewed": true,
-    "aliases": ["Dr Mitchell", "Doctor Mitchell"],
     "allowTypo": true
   },
   {
@@ -7266,23 +7181,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0401",
-    "factId": "what-first-name-does-joey-use-for-the-family-tailor-he-recommends-to-chandler",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Joey use for the family tailor he recommends to Chandler?",
-    "answer": "Frankie",
-    "explanation": "Joey sends Chandler to his longtime tailor Frankie.",
-    "source": {
-      "episode": "S02E01",
-      "url": "https://www.livesinabox.com/friends/season2/201rng.htm",
-      "evidence": "Joey sends Chandler to his longtime tailor Frankie."
-    },
-    "reviewed": true,
-    "aliases": ["Frank"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0402",
     "factId": "what-is-the-name-of-joey-s-fellow-perfume-counter-worker-who-admires-the-rival-salesman",
     "difficulty": "Extra Hard",
@@ -7314,40 +7212,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0404",
-    "factId": "what-is-the-first-name-of-angela-s-boyfriend-whom-joey-pretends-is-her-brother",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Angela's boyfriend, whom Joey pretends is her brother?",
-    "answer": "Bob",
-    "explanation": "Joey misleads Monica about Bob so she will join the double date.",
-    "source": {
-      "episode": "S01E05",
-      "url": "https://www.livesinabox.com/friends/season1/105egld.htm",
-      "evidence": "Joey misleads Monica about Bob so she will join the double date."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0405",
-    "factId": "what-first-name-belongs-to-the-lawyer-who-says-monica-used-to-babysit-him",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name belongs to the lawyer who says Monica used to babysit him?",
-    "answer": "Steve",
-    "explanation": "Monica recognizes little Stevie Fisher, who is now a lawyer.",
-    "source": {
-      "episode": "S02E05",
-      "url": "https://www.livesinabox.com/friends/season2/205fsae.htm",
-      "evidence": "Monica recognizes little Stevie Fisher, who is now a lawyer."
-    },
-    "reviewed": true,
-    "aliases": ["Stevie", "Steve Fisher", "Stevie Fisher"],
     "allowTypo": true
   },
   {
@@ -7399,23 +7263,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0409",
-    "factId": "what-is-the-surname-of-the-elderly-client-whose-spirit-phoebe-believes-inhabits-her",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the elderly client whose spirit Phoebe believes inhabits her?",
-    "answer": "Adelman",
-    "explanation": "Phoebe believes Mrs. Adelman's spirit remains with her after the massage.",
-    "source": {
-      "episode": "S02E11",
-      "url": "https://www.livesinabox.com/friends/season2/211towlw.htm",
-      "evidence": "Phoebe believes Mrs. Adelman's spirit remains with her after the massage."
-    },
-    "reviewed": true,
-    "aliases": ["Mrs Adelman"],
     "allowTypo": true
   },
   {
@@ -7617,23 +7464,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0421",
-    "factId": "what-is-the-first-name-of-the-suicidal-office-worker-phoebe-calls-as-a-telemarketer",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the suicidal office worker Phoebe calls as a telemarketer?",
-    "answer": "Earl",
-    "explanation": "Phoebe tries to help Earl during her sales call.",
-    "source": {
-      "episode": "S07E13",
-      "url": "https://www.livesinabox.com/friends/season7/713towrd.htm",
-      "evidence": "Phoebe tries to help Earl during her sales call."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0422",
     "factId": "what-name-has-joey-given-his-reclining-chair",
     "difficulty": "Extra Hard",
@@ -7787,23 +7617,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0431",
-    "factId": "what-is-the-first-name-of-monica-s-sous-chef-whom-phoebe-dates",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Monica's sous-chef whom Phoebe dates?",
-    "answer": "Tim",
-    "explanation": "Monica wants to fire Tim while Phoebe wants to break up with him.",
-    "source": {
-      "episode": "S08E05",
-      "url": "https://www.livesinabox.com/friends/season8/805towrd.htm",
-      "evidence": "Monica wants to fire Tim while Phoebe wants to break up with him."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0432",
     "factId": "how-many-pounds-does-will-say-he-has-lost-since-high-school",
     "difficulty": "Extra Hard",
@@ -7819,23 +7632,6 @@
     "reviewed": true,
     "aliases": ["One hundred fifty", "One hundred and fifty", "150 pounds"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-0433",
-    "factId": "what-is-the-surname-of-the-school-librarian-ross-kissed",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the school librarian Ross kissed?",
-    "answer": "Altman",
-    "explanation": "Rachel reveals Ross's teenage encounter with Mrs. Altman.",
-    "source": {
-      "episode": "S08E09",
-      "url": "https://www.livesinabox.com/friends/season8/809rumor.htm",
-      "evidence": "Rachel reveals Ross's teenage encounter with Mrs. Altman."
-    },
-    "reviewed": true,
-    "aliases": ["Mrs Altman"],
-    "allowTypo": true
   },
   {
     "id": "friends-0434",
@@ -7940,23 +7736,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0440",
-    "factId": "what-is-the-first-name-of-sandy-s-fianc-e",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Sandy's fiancée?",
-    "answer": "Deliah",
-    "explanation": "Sandy mentions his fiancée while answering Ross's personal questions.",
-    "source": {
-      "episode": "S09E06",
-      "url": "https://www.livesinabox.com/friends/season9/906nanny.htm",
-      "evidence": "Sandy mentions his fiancée while answering Ross's personal questions."
-    },
-    "reviewed": true,
-    "aliases": ["Delilah"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0441",
     "factId": "which-musical-instrument-does-sandy-play-for-emma",
     "difficulty": "Extra Hard",
@@ -7989,23 +7768,6 @@
     "reviewed": true,
     "aliases": ["45 percent", "Forty five", "Forty five percent"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-0443",
-    "factId": "what-is-the-first-name-of-the-woman-who-waxes-joey-s-eyebrow",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the woman who waxes Joey's eyebrow?",
-    "answer": "Sonia",
-    "explanation": "Sonia performs the painful first eyebrow waxing.",
-    "source": {
-      "episode": "S09E13",
-      "url": "https://www.livesinabox.com/friends/season9/913sings.htm",
-      "evidence": "Sonia performs the painful first eyebrow waxing."
-    },
-    "reviewed": true,
-    "aliases": ["Sonya"],
-    "allowTypo": true
   },
   {
     "id": "friends-0444",
@@ -8239,23 +8001,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0457",
-    "factId": "what-is-the-surname-of-missy-the-woman-ross-and-chandler-both-liked-in-college",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of Missy, the woman Ross and Chandler both liked in college?",
-    "answer": "Goldberg",
-    "explanation": "The reunion revives their old pact about Missy Goldberg.",
-    "source": {
-      "episode": "S10E11",
-      "url": "https://www.livesinabox.com/friends/1011.shtml",
-      "evidence": "The reunion revives their old pact about Missy Goldberg."
-    },
-    "reviewed": true,
-    "aliases": ["Missy Goldberg"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0458",
     "factId": "what-time-does-monica-demand-phoebe-attend-the-rehearsal-dinner-using-military-time",
     "difficulty": "Extra Hard",
@@ -8381,23 +8126,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0465",
-    "factId": "what-is-the-real-first-name-of-the-stripper-at-phoebe-s-bachelorette-party",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the real first name of the stripper at Phoebe's bachelorette party?",
-    "answer": "Roy",
-    "explanation": "The stripper introduces himself under the stage name Officer Goodbody.",
-    "source": {
-      "episode": "S10E11",
-      "url": "https://www.livesinabox.com/friends/1011.shtml",
-      "evidence": "The stripper introduces himself under the stage name Officer Goodbody."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0466",
     "factId": "what-police-themed-stage-surname-does-the-stripper-roy-use",
     "difficulty": "Extra Hard",
@@ -8415,23 +8143,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0467",
-    "factId": "what-is-the-full-name-of-joey-s-first-pyramid-partner",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Joey's first Pyramid partner?",
-    "answer": "Gene Lester",
-    "explanation": "Gene Lester is introduced as a database specialist.",
-    "source": {
-      "episode": "S10E11",
-      "url": "https://www.livesinabox.com/friends/1011.shtml",
-      "evidence": "Gene Lester is introduced as a database specialist."
-    },
-    "reviewed": true,
-    "aliases": ["Gene"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0468",
     "factId": "what-coffee-ingredient-is-gene-trying-to-get-joey-to-guess-when-joey-guesses-paper-snow-and-a-ghost",
     "difficulty": "Extra Hard",
@@ -8443,23 +8154,6 @@
       "episode": "S10E11",
       "url": "https://www.livesinabox.com/friends/1011.shtml",
       "evidence": "Joey fails to identify cream despite several clues."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0469",
-    "factId": "what-is-the-first-name-of-the-female-contestant-paired-with-joey-at-the-end-of-his-pyramid-appearance",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the female contestant paired with Joey at the end of his Pyramid appearance?",
-    "answer": "Henrietta",
-    "explanation": "Joey's final partner is Henrietta.",
-    "source": {
-      "episode": "S10E11",
-      "url": "https://www.livesinabox.com/friends/1011.shtml",
-      "evidence": "Joey's final partner is Henrietta."
     },
     "reviewed": true,
     "aliases": [],
@@ -8551,40 +8245,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0475",
-    "factId": "what-is-the-first-name-of-the-girl-joey-meets-at-monica-and-chandler-s-future-house",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the girl Joey meets at Monica and Chandler's future house?",
-    "answer": "Mackenzie",
-    "explanation": "Mackenzie helps Joey understand why his friends are moving.",
-    "source": {
-      "episode": "S10E14",
-      "url": "https://www.livesinabox.com/friends/1014.shtml",
-      "evidence": "Mackenzie helps Joey understand why his friends are moving."
-    },
-    "reviewed": true,
-    "aliases": ["McKenzie"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0476",
-    "factId": "what-is-the-surname-of-rachel-s-gucci-interviewer",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of Rachel's Gucci interviewer?",
-    "answer": "Campbell",
-    "explanation": "Rachel meets Mr. Campbell at a restaurant where her current boss is also dining.",
-    "source": {
-      "episode": "S10E14",
-      "url": "https://www.livesinabox.com/friends/1014.shtml",
-      "evidence": "Rachel meets Mr. Campbell at a restaurant where her current boss is also dining."
-    },
-    "reviewed": true,
-    "aliases": ["Mr Campbell"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0477",
     "factId": "what-is-rachel-s-flight-number-for-paris-in-the-finale",
     "difficulty": "Extra Hard",
@@ -8649,23 +8309,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0480",
-    "factId": "what-is-the-full-name-of-the-hospital-patient-phoebe-is-attracted-to-while-rachel-is-in-labor",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the hospital patient Phoebe is attracted to while Rachel is in labor?",
-    "answer": "Clifford Burnett",
-    "explanation": "Joey pretends to be a doctor to question Clifford Burnett for Phoebe.",
-    "source": {
-      "episode": "S08E23",
-      "url": "https://www.livesinabox.com/friends/season8/823rhab.htm",
-      "evidence": "Joey pretends to be a doctor to question Clifford Burnett for Phoebe."
-    },
-    "reviewed": true,
-    "aliases": ["Cliff Burnett", "Clifford", "Cliff"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0481",
     "factId": "what-year-does-clifford-burnett-give-as-his-birth-year",
     "difficulty": "Extra Hard",
@@ -8694,23 +8337,6 @@
       "episode": "S08E15",
       "url": "https://www.livesinabox.com/friends/season8/815towbv.htm",
       "evidence": "Joey does not know the dog's real name and calls him Mozzarella."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0483",
-    "factId": "what-is-the-first-name-of-the-friend-who-lends-phoebe-the-supposedly-happy-dog",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the friend who lends Phoebe the supposedly happy dog?",
-    "answer": "Wendy",
-    "explanation": "Phoebe borrows Wendy's dog to cheer Joey up.",
-    "source": {
-      "episode": "S08E15",
-      "url": "https://www.livesinabox.com/friends/season8/815towbv.htm",
-      "evidence": "Phoebe borrows Wendy's dog to cheer Joey up."
     },
     "reviewed": true,
     "aliases": [],
@@ -9240,23 +8866,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0514",
-    "factId": "pilot-frannie-aunt",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Frannie give the aunt she pushed around Parrot Jungle?",
-    "answer": "Roz",
-    "explanation": "Frannie says she spent her Florida trip pushing Aunt Roz around Parrot Jungle.",
-    "source": {
-      "episode": "S01E01",
-      "url": "https://www.livesinabox.com/friends/season1/101pilot.htm",
-      "evidence": "Frannie says she spent her Florida trip pushing Aunt Roz around Parrot Jungle."
-    },
-    "reviewed": true,
-    "aliases": ["Aunt Roz"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0515",
     "factId": "pilot-joey-date-june",
     "difficulty": "Extra Hard",
@@ -9525,23 +9134,6 @@
     "options": ["Maid of honor", "Wedding planner", "Flower girl", "Officiant"]
   },
   {
-    "id": "friends-0530",
-    "factId": "sonogram-doctor-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the doctor who performs Carol's first on-screen sonogram?",
-    "answer": "Oberman",
-    "explanation": "Carol and Susan are waiting for Dr. Oberman when Ross arrives.",
-    "source": {
-      "episode": "S01E02",
-      "url": "https://www.livesinabox.com/friends/season1/102towsg.htm",
-      "evidence": "Carol and Susan are waiting for Dr. Oberman when Ross arrives."
-    },
-    "reviewed": true,
-    "aliases": ["Dr Oberman", "Doctor Oberman"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0531",
     "factId": "sonogram-carol-boy-name",
     "difficulty": "Extra Hard",
@@ -9570,23 +9162,6 @@
       "episode": "S01E02",
       "url": "https://www.livesinabox.com/friends/season1/102towsg.htm",
       "evidence": "Carol explains that her proposed name Minnie comes from her grandmother."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0533",
-    "factId": "sonogram-barry-patient",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the patient in Barry's chair when Rachel returns her ring?",
-    "answer": "Robbie",
-    "explanation": "Robbie remains in the dental chair during Rachel and Barry's conversation.",
-    "source": {
-      "episode": "S01E02",
-      "url": "https://www.livesinabox.com/friends/season1/102towsg.htm",
-      "evidence": "Robbie remains in the dental chair during Rachel and Barry's conversation."
     },
     "reviewed": true,
     "aliases": [],
@@ -10214,23 +9789,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0566",
-    "factId": "george-phoebe-ex-jason",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Monica's ex-boyfriend whom Phoebe admits sleeping with shortly after their breakup?",
-    "answer": "Jason Hurley",
-    "explanation": "Phoebe admits sleeping with Jason Hurley a couple of hours after he and Monica split.",
-    "source": {
-      "episode": "S01E04",
-      "url": "https://www.livesinabox.com/friends/season1/104towgs.htm",
-      "evidence": "Phoebe admits sleeping with Jason Hurley a couple of hours after he and Monica split."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0567",
     "factId": "george-tommy-valentine",
     "difficulty": "Extra Hard",
@@ -10245,23 +9803,6 @@
     },
     "reviewed": true,
     "aliases": ["Tommy"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0568",
-    "factId": "george-old-friend-pregnant",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "Which of Rachel's visiting old friends is pregnant: what is her first name?",
-    "answer": "Leslie",
-    "explanation": "Leslie is visibly pregnant when she visits Central Perk with Kiki and Joanne.",
-    "source": {
-      "episode": "S01E04",
-      "url": "https://www.livesinabox.com/friends/season1/104towgs.htm",
-      "evidence": "Leslie is visibly pregnant when she visits Central Perk with Kiki and Joanne."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -10811,23 +10352,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0599",
-    "factId": "butt-estelle-surname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is talent agent Estelle's surname, as shown in her agency's name?",
-    "answer": "Leonard",
-    "explanation": "Joey receives a card from the Estelle Leonard Talent Agency.",
-    "source": {
-      "episode": "S01E06",
-      "url": "https://www.livesinabox.com/friends/season1/106butt.htm",
-      "evidence": "Joey receives a card from the Estelle Leonard Talent Agency."
-    },
-    "reviewed": true,
-    "aliases": ["Estelle Leonard"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0600",
     "factId": "butt-joey-quiet-desperation",
     "difficulty": "Extra Hard",
@@ -11369,23 +10893,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-0630",
-    "factId": "nana-lowell",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the Financial Services coworker Shelley wants Chandler to date?",
-    "answer": "Lowell",
-    "explanation": "Shelley thinks Chandler and Lowell would make a good couple.",
-    "source": {
-      "episode": "S01E08",
-      "url": "https://www.livesinabox.com/friends/season1/108ndt.htm",
-      "evidence": "Shelley thinks Chandler and Lowell would make a good couple."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0631",
     "factId": "nana-brian-department",
     "difficulty": "Extra Hard",
@@ -11400,23 +10907,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0632",
-    "factId": "nana-lillian",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the aunt who helps Judy choose Nana's burial outfit?",
-    "answer": "Lillian",
-    "explanation": "Aunt Lillian and Judy ask Ross to search Nana's crowded closet for suitable clothes.",
-    "source": {
-      "episode": "S01E08",
-      "url": "https://www.livesinabox.com/friends/season1/108ndt.htm",
-      "evidence": "Aunt Lillian and Judy ask Ross to search Nana's crowded closet for suitable clothes."
-    },
-    "reviewed": true,
-    "aliases": ["Aunt Lillian"],
     "allowTypo": true
   },
   {
@@ -11973,23 +11463,6 @@
     "options": ["Butterscotch", "Peppermint", "Licorice", "Caramel corn"]
   },
   {
-    "id": "friends-0663",
-    "factId": "wedding-carol-parent-names",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What are the first names of Carol's parents, whom Ross mentions while encouraging her to marry Susan?",
-    "answer": "George and Adelaide",
-    "explanation": "Ross says Carol should marry Susan even if George and Adelaide cannot accept it.",
-    "source": {
-      "episode": "S02E11",
-      "url": "https://www.livesinabox.com/friends/season2/211towlw.htm",
-      "evidence": "Ross says Carol should marry Susan even if George and Adelaide cannot accept it."
-    },
-    "reviewed": true,
-    "aliases": ["Adelaide and George"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0664",
     "factId": "wedding-adelman-age",
     "difficulty": "Extra Hard",
@@ -12005,23 +11478,6 @@
     "reviewed": true,
     "aliases": ["Eighty two"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-0665",
-    "factId": "wedding-adelman-firstname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is Mrs. Adelman's first name, which Phoebe uses after the spirit leaves her?",
-    "answer": "Rose",
-    "explanation": "Phoebe says she misses Rose at the wedding reception.",
-    "source": {
-      "episode": "S02E11",
-      "url": "https://www.livesinabox.com/friends/season2/211towlw.htm",
-      "evidence": "Phoebe says she misses Rose at the wedding reception."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-0666",
@@ -12246,23 +11702,6 @@
     "options": ["Dish soap", "Bleach", "Cooking oil", "Vinegar"]
   },
   {
-    "id": "friends-0678",
-    "factId": "superbowl-hans-evil-twin",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Ross invent for Drake Ramoray's evil twin to get rid of Erica?",
-    "answer": "Hans",
-    "explanation": "Ross tells Erica that the man in the apartment is Hans, Drake's evil twin.",
-    "source": {
-      "episode": "S02E12",
-      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
-      "evidence": "Ross tells Erica that the man in the apartment is Hans, Drake's evil twin."
-    },
-    "reviewed": true,
-    "aliases": ["Hans Ramoray"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0679",
     "factId": "superbowl-nocturnal-meeting",
     "difficulty": "Extra Hard",
@@ -12277,23 +11716,6 @@
     },
     "reviewed": true,
     "aliases": ["Nocturnal house"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0680",
-    "factId": "superbowl-rob-surname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What surname does Rob give when introducing himself to Phoebe at Central Perk?",
-    "answer": "Dohnen",
-    "explanation": "The man who books children's library performers introduces himself as Rob Dohnen.",
-    "source": {
-      "episode": "S02E12",
-      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
-      "evidence": "The man who books children's library performers introduces himself as Rob Dohnen."
-    },
-    "reviewed": true,
-    "aliases": ["Rob Dohnen"],
     "allowTypo": true
   },
   {
@@ -12532,23 +11954,6 @@
       "Costume designer",
       "Script supervisor"
     ]
-  },
-  {
-    "id": "friends-0693",
-    "factId": "superbowl-susie-surname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of Chandler's former classmate Susie, who takes revenge on him?",
-    "answer": "Moss",
-    "explanation": "Susie introduces herself by her full name when she recognizes Chandler on the set.",
-    "source": {
-      "episode": "S02E13",
-      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
-      "evidence": "Susie introduces herself by her full name when she recognizes Chandler on the set."
-    },
-    "reviewed": true,
-    "aliases": ["Susie Moss"],
-    "allowTypo": true
   },
   {
     "id": "friends-0694",
@@ -12798,23 +12203,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0708",
-    "factId": "prom-monica-date-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Monica's prom date in the home video?",
-    "answer": "Roy Gublik",
-    "explanation": "Rachel identifies Roy Gublik when he arrives at the Geller house.",
-    "source": {
-      "episode": "S02E14",
-      "url": "https://www.livesinabox.com/friends/season2/214towpv.htm",
-      "evidence": "Rachel identifies Roy Gublik when he arrives at the Geller house."
-    },
-    "reviewed": true,
-    "aliases": ["Roy Gublick"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0709",
     "factId": "prom-roy-starwars-count",
     "difficulty": "Extra Hard",
@@ -12830,23 +12218,6 @@
     "reviewed": true,
     "aliases": ["Three hundred seventeen", "Three hundred and seventeen"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-0710",
-    "factId": "prom-rachel-date-casey",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name belongs to the man who calls Rachel after meeting her at the movies in the prom-video episode?",
-    "answer": "Casey",
-    "explanation": "Ross takes a message from Casey and makes a joke about how the name is spelled.",
-    "source": {
-      "episode": "S02E14",
-      "url": "https://www.livesinabox.com/friends/season2/214towpv.htm",
-      "evidence": "Ross takes a message from Casey and makes a joke about how the name is spelled."
-    },
-    "reviewed": true,
-    "aliases": ["KC", "K C"],
-    "allowTypo": true
   },
   {
     "id": "friends-0711",
@@ -13074,57 +12445,6 @@
     },
     "reviewed": true,
     "aliases": ["Cran grape", "Grape", "Cranberry grape"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0723",
-    "factId": "richard-ex-wife-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Richard Burke's ex-wife?",
-    "answer": "Barbara",
-    "explanation": "Richard mentions that he and Barbara have split up when Monica arrives to cater his party.",
-    "source": {
-      "episode": "S02E15",
-      "url": "https://www.livesinabox.com/friends/season2/215rryk.htm",
-      "evidence": "Richard mentions that he and Barbara have split up when Monica arrives to cater his party."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0724",
-    "factId": "richard-daughter-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Richard's daughter, whom Monica recognizes in a photograph?",
-    "answer": "Michelle",
-    "explanation": "Monica recognizes Michelle from high school when Richard shows his family pictures.",
-    "source": {
-      "episode": "S02E15",
-      "url": "https://www.livesinabox.com/friends/season2/215rryk.htm",
-      "evidence": "Monica recognizes Michelle from high school when Richard shows his family pictures."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0725",
-    "factId": "richard-grandson-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Richard's nearly two-year-old grandson in season two?",
-    "answer": "Henry",
-    "explanation": "Richard tells Monica that Henry is almost two and already talking.",
-    "source": {
-      "episode": "S02E15",
-      "url": "https://www.livesinabox.com/friends/season2/215rryk.htm",
-      "evidence": "Richard tells Monica that Henry is almost two and already talking."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -13890,40 +13210,6 @@
       "The Hobbit",
       "Charlotte's Web"
     ]
-  },
-  {
-    "id": "friends-0767",
-    "factId": "drake-soap-half-brother-ramone",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Drake and Amber's other half-brother whom Joey says they will visit in Venezuela?",
-    "answer": "Ramone",
-    "explanation": "Joey says Drake and Amber will visit their half-brother Ramone in Venezuela.",
-    "source": {
-      "episode": "S02E18",
-      "url": "https://www.livesinabox.com/friends/season2/218drd.htm",
-      "evidence": "Joey says Drake and Amber will visit their half-brother Ramone in Venezuela."
-    },
-    "reviewed": true,
-    "aliases": ["Ramon"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0768",
-    "factId": "drake-eddie-ex-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Eddie's ex-girlfriend who returns his fish tank?",
-    "answer": "Tilly",
-    "explanation": "Tilly drops off the empty tank at Chandler's apartment.",
-    "source": {
-      "episode": "S02E18",
-      "url": "https://www.livesinabox.com/friends/season2/218drd.htm",
-      "evidence": "Tilly drops off the empty tank at Chandler's apartment."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-0769",
@@ -14994,23 +14280,6 @@
     "options": ["Lunges", "Sit-ups", "Pull-ups", "Push-ups"]
   },
   {
-    "id": "friends-0827",
-    "factId": "ready-michelle-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Richard's daughter whom Monica calls to identify a recorded voice?",
-    "answer": "Michelle",
-    "explanation": "Monica calls Michelle and then tries to keep her from telling Richard about the incident.",
-    "source": {
-      "episode": "S03E02",
-      "url": "https://www.livesinabox.com/friends/season3/302nor.htm",
-      "evidence": "Monica calls Michelle and then tries to keep her from telling Richard about the incident."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0828",
     "factId": "ready-dinosaur-watch",
     "difficulty": "Extra Hard",
@@ -15025,23 +14294,6 @@
     },
     "reviewed": true,
     "aliases": ["Dinosaur"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0829",
-    "factId": "ready-whitfield",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the academic who sits in Chandler's chair at the benefit?",
-    "answer": "Sherman Whitfield",
-    "explanation": "Sherman Whitfield introduces himself to Ross before Chandler challenges him over the seat.",
-    "source": {
-      "episode": "S03E02",
-      "url": "https://www.livesinabox.com/friends/season3/302nor.htm",
-      "evidence": "Sherman Whitfield introduces himself to Ross before Chandler challenges him over the seat."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -15542,23 +14794,6 @@
     "options": ["British", "Australian", "Italian", "French"]
   },
   {
-    "id": "friends-0857",
-    "factId": "tunnel-kevin-infomercial",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does the infomercial host use for Joey's character?",
-    "answer": "Kevin",
-    "explanation": "The host addresses Joey's struggling milk-carton user as Kevin.",
-    "source": {
-      "episode": "S03E04",
-      "url": "https://www.livesinabox.com/friends/season3/304towmt.htm",
-      "evidence": "The host addresses Joey's struggling milk-carton user as Kevin."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0858",
     "factId": "tunnel-milk-master",
     "difficulty": "Extra Hard",
@@ -15848,23 +15083,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-0873",
-    "factId": "frank-masseuse-colleague",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's coworker whom Frank offends during his massage?",
-    "answer": "Jasmine",
-    "explanation": "Phoebe addresses her upset coworker as Jasmine.",
-    "source": {
-      "episode": "S03E05",
-      "url": "https://www.livesinabox.com/friends/season3/305frank.htm",
-      "evidence": "Phoebe addresses her upset coworker as Jasmine."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-0874",
     "factId": "frank-work-jeans-brand",
     "difficulty": "Extra Hard",
@@ -16103,40 +15321,6 @@
     },
     "reviewed": true,
     "options": ["A cue ball", "His wallet", "A beer bottle", "A dart"]
-  },
-  {
-    "id": "friends-0887",
-    "factId": "flashback-eric",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the photographer who nearly becomes Chandler's roommate?",
-    "answer": "Eric",
-    "explanation": "Eric leaves after Mr. Heckles claims to be Chandler's roommate.",
-    "source": {
-      "episode": "S03E06",
-      "url": "https://www.livesinabox.com/friends/season3/306flash.htm",
-      "evidence": "Eric leaves after Mr. Heckles claims to be Chandler's roommate."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0888",
-    "factId": "flashback-bartender-chris",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the bartender who gives Phoebe the keys to lock up?",
-    "answer": "Chris",
-    "explanation": "Phoebe tells Ross that Chris has already closed the bar and left her the keys.",
-    "source": {
-      "episode": "S03E06",
-      "url": "https://www.livesinabox.com/friends/season3/306flash.htm",
-      "evidence": "Phoebe tells Ross that Chris has already closed the bar and left her the keys."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-0889",
@@ -16414,40 +15598,6 @@
     },
     "reviewed": true,
     "aliases": ["Wet head"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0904",
-    "factId": "racecar-boxer-nick",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the boxer role Joey and his student both seek?",
-    "answer": "Nick",
-    "explanation": "The All My Children role is Nick, a boxer with an evil twin.",
-    "source": {
-      "episode": "S03E07",
-      "url": "https://www.livesinabox.com/friends/season3/307rcb.htm",
-      "evidence": "The All My Children role is Nick, a boxer with an evil twin."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0905",
-    "factId": "racecar-chiropractor-full-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name Rachel gives for her chiropractor?",
-    "answer": "Robert Bobby",
-    "explanation": "Rachel clarifies that Dr. Bobby's full name is Robert Bobby.",
-    "source": {
-      "episode": "S03E07",
-      "url": "https://www.livesinabox.com/friends/season3/307rcb.htm",
-      "evidence": "Rachel clarifies that Dr. Bobby's full name is Robert Bobby."
-    },
-    "reviewed": true,
-    "aliases": ["Dr. Robert Bobby"],
     "allowTypo": true
   },
   {
@@ -17276,23 +16426,6 @@
     },
     "reviewed": true,
     "aliases": ["Nimitz", "U.S.S. Nimitz"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-0950",
-    "factId": "quits-sarah-surname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is Sarah's surname, announced at her private apartment space camp?",
-    "answer": "Tuttle",
-    "explanation": "Ross introduces the event as Sarah Tuttle's private space camp.",
-    "source": {
-      "episode": "S03E10",
-      "url": "https://www.livesinabox.com/friends/season3/310rquit.htm",
-      "evidence": "Ross introduces the event as Sarah Tuttle's private space camp."
-    },
-    "reviewed": true,
-    "aliases": ["Sarah Tuttle"],
     "allowTypo": true
   },
   {
@@ -18343,23 +17476,6 @@
     "options": ["Chandler", "Joey", "Ross", "Rachel"]
   },
   {
-    "id": "friends-1007",
-    "factId": "ballroom-marge",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the superintendent Treeger hopes to impress at the dance?",
-    "answer": "Marge",
-    "explanation": "Treeger practices with Joey so he can dance confidently with Marge.",
-    "source": {
-      "episode": "S04E04",
-      "url": "https://www.livesinabox.com/friends/season4/404dance.htm",
-      "evidence": "Treeger practices with Joey so he can dance confidently with Marge."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1008",
     "factId": "ballroom-super-ball",
     "difficulty": "Extra Hard",
@@ -18374,40 +17490,6 @@
     },
     "reviewed": true,
     "aliases": ["Super Ball"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1009",
-    "factId": "ballroom-maria",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the gym employee who helps persuade Ross to join?",
-    "answer": "Maria",
-    "explanation": "Maria appears after Ross insists he will not join the gym.",
-    "source": {
-      "episode": "S04E04",
-      "url": "https://www.livesinabox.com/friends/season4/404dance.htm",
-      "evidence": "Maria appears after Ross insists he will not join the gym."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1010",
-    "factId": "ballroom-karen-lambert",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the bank employee introduced to handle Ross and Chandler's account closures?",
-    "answer": "Karen Lambert",
-    "explanation": "The bank officer calls Ms. Lambert over, and she introduces herself as Karen.",
-    "source": {
-      "episode": "S04E04",
-      "url": "https://www.livesinabox.com/friends/season4/404dance.htm",
-      "evidence": "The bank officer calls Ms. Lambert over, and she introduces herself as Karen."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -18630,23 +17712,6 @@
     },
     "reviewed": true,
     "options": ["Monica's", "Phoebe's", "Judy's", "Carol's"]
-  },
-  {
-    "id": "friends-1022",
-    "factId": "girlfriend-amanda-son",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Amanda's son whom Ross babysits?",
-    "answer": "Tommy",
-    "explanation": "Ross greets Amanda's son as Tommy when arriving with Ben.",
-    "source": {
-      "episode": "S04E05",
-      "url": "https://www.livesinabox.com/friends/season4/405jng.htm",
-      "evidence": "Ross greets Amanda's son as Tommy when arriving with Ben."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1023",
@@ -18920,23 +17985,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1038",
-    "factId": "dirty-mrs-burkart",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the widow who delays paying Monica and Phoebe?",
-    "answer": "Burkart",
-    "explanation": "Monica addresses their reluctant catering client as Mrs. Burkart.",
-    "source": {
-      "episode": "S04E06",
-      "url": "https://www.livesinabox.com/friends/season4/406dirty.htm",
-      "evidence": "Monica addresses their reluctant catering client as Mrs. Burkart."
-    },
-    "reviewed": true,
-    "aliases": ["Mrs. Burkart", "Burkhart", "Mrs. Burkhart"],
     "allowTypo": true
   },
   {
@@ -19216,23 +18264,6 @@
     ]
   },
   {
-    "id": "friends-1053",
-    "factId": "line-casey-other-date",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the woman Joey dates before his planned late dinner with Kathy?",
-    "answer": "Casey",
-    "explanation": "Joey schedules an early dinner with Casey and a later one with Kathy.",
-    "source": {
-      "episode": "S04E07",
-      "url": "https://www.livesinabox.com/friends/season4/407line.htm",
-      "evidence": "Joey schedules an early dinner with Casey and a later one with Kathy."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1054",
     "factId": "line-helicopter-disk",
     "difficulty": "Extra Hard",
@@ -19486,23 +18517,6 @@
       "His gift had her name engraved",
       "His gift had a broken clasp"
     ]
-  },
-  {
-    "id": "friends-1067",
-    "factId": "box-timothy-burke",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the eye doctor Monica invites to Thanksgiving after injuring her eye?",
-    "answer": "Timothy Burke",
-    "explanation": "Richard's son Timothy examines Monica and joins the Thanksgiving meal.",
-    "source": {
-      "episode": "S04E08",
-      "url": "https://www.livesinabox.com/friends/season4/408box.htm",
-      "evidence": "Richard's son Timothy examines Monica and joins the Thanksgiving meal."
-    },
-    "reviewed": true,
-    "aliases": ["Dr. Timothy Burke", "Tim Burke", "Dr. Tim Burke"],
-    "allowTypo": true
   },
   {
     "id": "friends-1068",
@@ -20106,23 +19120,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1100",
-    "factId": "poughkeepsie-patrick-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the coworker Chandler sets Rachel up with during the Poughkeepsie episode?",
-    "answer": "Patrick",
-    "explanation": "Chandler selects Patrick from the men interested in meeting Rachel.",
-    "source": {
-      "episode": "S04E10",
-      "url": "https://www.livesinabox.com/friends/season4/410girl.htm",
-      "evidence": "Chandler selects Patrick from the men interested in meeting Rachel."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1101",
     "factId": "after-wedding-continues",
     "difficulty": "Easy",
@@ -20395,23 +19392,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1115",
-    "factId": "after-joey-felicity",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the woman Joey says he watched My Giant with in London?",
-    "answer": "Felicity",
-    "explanation": "Joey mentions watching the film with Felicity while talking on the flight home.",
-    "source": {
-      "episode": "S05E01",
-      "url": "https://www.livesinabox.com/friends/season5/501arsr.htm",
-      "evidence": "Joey mentions watching the film with Felicity while talking on the flight home."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1116",
     "factId": "kissing-bathtub-hide",
     "difficulty": "Easy",
@@ -20667,40 +19647,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1129",
-    "factId": "kissing-angus",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What was the first name of the London cab driver the friends mention while interrupting Phoebe?",
-    "answer": "Angus",
-    "explanation": "Joey interrupts Phoebe's story by asking whether her driver was Angus.",
-    "source": {
-      "episode": "S05E02",
-      "url": "https://www.livesinabox.com/friends/season5/502kiss.htm",
-      "evidence": "Joey interrupts Phoebe's story by asking whether her driver was Angus."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1130",
-    "factId": "kissing-dave-date",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the date Rachel sends away so she can comfort Ross about Emily?",
-    "answer": "Dave",
-    "explanation": "Rachel tells Dave her roommate is sick and returns to the upset Ross.",
-    "source": {
-      "episode": "S05E02",
-      "url": "https://www.livesinabox.com/friends/season5/502kiss.htm",
-      "evidence": "Rachel tells Dave her roommate is sick and returns to the upset Ross."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1131",
     "factId": "hundred-joey-stones",
     "difficulty": "Easy",
@@ -20939,23 +19885,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1143",
-    "factId": "hundred-dan-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the male nurse Monica considers dating during Phoebe's labor?",
-    "answer": "Dan",
-    "explanation": "Rachel introduces Dan to Monica, provoking Chandler's jealousy.",
-    "source": {
-      "episode": "S05E03",
-      "url": "https://www.livesinabox.com/friends/season5/503t100.htm",
-      "evidence": "Rachel introduces Dan to Monica, provoking Chandler's jealousy."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1144",
     "factId": "hundred-channel-thirty-one",
     "difficulty": "Extra Hard",
@@ -20971,23 +19900,6 @@
     "reviewed": true,
     "aliases": ["Thirty-one", "Thirty one", "Channel 31"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-1145",
-    "factId": "hundred-oberman",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the young resident Phoebe rejects as her delivery doctor?",
-    "answer": "Oberman",
-    "explanation": "Ross introduces the youthful first-year resident as Dr. Oberman.",
-    "source": {
-      "episode": "S05E03",
-      "url": "https://www.livesinabox.com/friends/season5/503t100.htm",
-      "evidence": "Ross introduces the youthful first-year resident as Dr. Oberman."
-    },
-    "reviewed": true,
-    "aliases": ["Dr. Oberman"],
-    "allowTypo": true
   },
   {
     "id": "friends-1146",
@@ -21815,23 +20727,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1188",
-    "factId": "yeti-crematorium-chris",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's friend who offers to cremate her fur coat?",
-    "answer": "Chris",
-    "explanation": "Phoebe consults Chris, who owns a crematorium, about disposing of the coat.",
-    "source": {
-      "episode": "S05E06",
-      "url": "https://www.livesinabox.com/friends/season5/506yeti.htm",
-      "evidence": "Phoebe consults Chris, who owns a crematorium, about disposing of the coat."
-    },
-    "reviewed": true,
-    "aliases": ["Crematorium Chris"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1189",
     "factId": "yeti-capri-pants",
     "difficulty": "Extra Hard",
@@ -22077,23 +20972,6 @@
     "options": ["A ladle", "A whisk", "A garlic press", "A rolling pin"]
   },
   {
-    "id": "friends-1202",
-    "factId": "moves-in-larry-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the health inspector Phoebe dates?",
-    "answer": "Larry",
-    "explanation": "Larry's restaurant inspections initially impress Phoebe.",
-    "source": {
-      "episode": "S05E07",
-      "url": "https://www.livesinabox.com/friends/season5/507rmi.htm",
-      "evidence": "Larry's restaurant inspections initially impress Phoebe."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1203",
     "factId": "moves-in-vunda",
     "difficulty": "Extra Hard",
@@ -22125,23 +21003,6 @@
     },
     "reviewed": true,
     "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1205",
-    "factId": "moves-in-tom",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the man Danny introduces to Rachel at his party?",
-    "answer": "Tom",
-    "explanation": "Danny thinks Rachel and his friend Tom might hit it off.",
-    "source": {
-      "episode": "S05E07",
-      "url": "https://www.livesinabox.com/friends/season5/507rmi.htm",
-      "evidence": "Danny thinks Rachel and his friend Tom might hit it off."
-    },
-    "reviewed": true,
-    "aliases": ["Tommy"],
     "allowTypo": true
   },
   {
@@ -22630,23 +21491,6 @@
     "options": ["Monica", "Chandler", "Joey", "Ross"]
   },
   {
-    "id": "friends-1232",
-    "factId": "sandwich-donald-first-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Ross use for his boss just before learning he ate the sandwich?",
-    "answer": "Donald",
-    "explanation": "Ross addresses Dr. Ledbetter as Donald at the start of the conversation.",
-    "source": {
-      "episode": "S05E09",
-      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
-      "evidence": "Ross addresses Dr. Ledbetter as Donald at the start of the conversation."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1233",
     "factId": "sandwich-mental-geller",
     "difficulty": "Extra Hard",
@@ -22658,40 +21502,6 @@
       "episode": "S05E09",
       "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
       "evidence": "Ross briefly enjoys his coworkers' fear and the nickname Mental Geller."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1234",
-    "factId": "sandwich-cynthia",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Joey's date who finds the candles and video camera setup?",
-    "answer": "Cynthia",
-    "explanation": "Cynthia mistakenly believes Joey planned to film their first date.",
-    "source": {
-      "episode": "S05E09",
-      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
-      "evidence": "Cynthia mistakenly believes Joey planned to film their first date."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1235",
-    "factId": "sandwich-paul-teacher",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name Monica uses for the literature teacher when announcing the upcoming test?",
-    "answer": "Paul",
-    "explanation": "Monica tells the class she persuaded Paul to test them the following week.",
-    "source": {
-      "episode": "S05E09",
-      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
-      "evidence": "Monica tells the class she persuaded Paul to test them the following week."
     },
     "reviewed": true,
     "aliases": [],
@@ -22928,57 +21738,6 @@
     },
     "reviewed": true,
     "options": ["The library", "The museum", "The airport", "The laundromat"]
-  },
-  {
-    "id": "friends-1248",
-    "factId": "sister-krista",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Danny's sister whose closeness with him unsettles Rachel?",
-    "answer": "Krista",
-    "explanation": "Danny introduces his visiting sister as Krista.",
-    "source": {
-      "episode": "S05E10",
-      "url": "https://www.livesinabox.com/friends/season5/510towas.htm",
-      "evidence": "Danny introduces his visiting sister as Krista."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1249",
-    "factId": "sister-ginger-replacement",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the volunteer assigned to replace Phoebe at her donation corner?",
-    "answer": "Ginger",
-    "explanation": "Bob tells Phoebe that Ginger will take over the high-profile spot.",
-    "source": {
-      "episode": "S05E10",
-      "url": "https://www.livesinabox.com/friends/season5/510towas.htm",
-      "evidence": "Bob tells Phoebe that Ginger will take over the high-profile spot."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1250",
-    "factId": "sister-bob-supervisor",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's charity supervisor who reassigns her donation spot?",
-    "answer": "Bob",
-    "explanation": "Phoebe greets Bob before he explains the complaints about her conduct.",
-    "source": {
-      "episode": "S05E10",
-      "url": "https://www.livesinabox.com/friends/season5/510towas.htm",
-      "evidence": "Phoebe greets Bob before he explains the complaints about her conduct."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1251",
@@ -23498,23 +22257,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1278",
-    "factId": "ross-lawyer-russell",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the lawyer Ross consults about annulling his marriage to Rachel?",
-    "answer": "Russell",
-    "explanation": "Ross consults his lawyer Russell.",
-    "source": {
-      "episode": "S06E02",
-      "url": "https://www.livesinabox.com/friends/season6/602rhr.htm",
-      "evidence": "Ross consults his lawyer Russell."
-    },
-    "reviewed": true,
-    "aliases": ["Russel"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1279",
     "factId": "ross-lawyer-years-practice",
     "difficulty": "Extra Hard",
@@ -23753,23 +22495,6 @@
       "A pine waterbed",
       "A foldaway cot"
     ]
-  },
-  {
-    "id": "friends-1292",
-    "factId": "denial-warren-sublet",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Ross's museum colleague whose apartment Rachel hopes to sublet?",
-    "answer": "Warren",
-    "explanation": "Ross gives Rachel Warren's number, but the apartment is already taken.",
-    "source": {
-      "episode": "S06E03",
-      "url": "https://www.livesinabox.com/friends/season6/603towrd.htm",
-      "evidence": "Ross gives Rachel Warren's number, but the apartment is already taken."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1293",
@@ -24054,23 +22779,6 @@
     ]
   },
   {
-    "id": "friends-1307",
-    "factId": "ross-professor-kurt-rathman",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the professor who approaches Ross after the lecture Monica and Rachel attend?",
-    "answer": "Kurt Rathman",
-    "explanation": "The colleague introduces himself as Kurt Rathman from the paleontology department.",
-    "source": {
-      "episode": "S06E04",
-      "url": "https://www.livesinabox.com/friends/season6/604jlhi.htm",
-      "evidence": "The colleague introduces himself as Kurt Rathman from the paleontology department."
-    },
-    "reviewed": true,
-    "aliases": ["Curt Rathman"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1308",
     "factId": "joey-purina-one-audition",
     "difficulty": "Extra Hard",
@@ -24085,23 +22793,6 @@
     },
     "reviewed": true,
     "aliases": ["Purina 1"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1309",
-    "factId": "joey-child-actor-alex",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the child actor who cannot cry until he sees Joey's hernia?",
-    "answer": "Alex",
-    "explanation": "The director introduces Alex as the actor playing Joey's son.",
-    "source": {
-      "episode": "S06E04",
-      "url": "https://www.livesinabox.com/friends/season6/604jlhi.htm",
-      "evidence": "The director introduces Alex as the actor playing Joey's son."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -25215,23 +23906,6 @@
     "options": ["A demon", "A vampire", "A snowman", "A magician"]
   },
   {
-    "id": "friends-1368",
-    "factId": "teeth-kenny-copy-guy",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the copy-room employee Phoebe mistakes for Ralph Lauren?",
-    "answer": "Kenny",
-    "explanation": "Rachel identifies Phoebe's supposed designer as Kenny the copy guy.",
-    "source": {
-      "episode": "S06E08",
-      "url": "https://www.livesinabox.com/friends/season6/608towrt.htm",
-      "evidence": "Rachel identifies Phoebe's supposed designer as Kenny the copy guy."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1369",
     "factId": "teeth-anne-geddes-photo",
     "difficulty": "Extra Hard",
@@ -25246,23 +23920,6 @@
     },
     "reviewed": true,
     "aliases": ["Ann Geddes"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1370",
-    "factId": "teeth-hillary-date-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Ross's date who discovers his excessively white teeth under a black light?",
-    "answer": "Hillary",
-    "explanation": "Monica sets Ross up with her assistant chef Hillary.",
-    "source": {
-      "episode": "S06E08",
-      "url": "https://www.livesinabox.com/friends/season6/608towrt.htm",
-      "evidence": "Monica sets Ross up with her assistant chef Hillary."
-    },
-    "reviewed": true,
-    "aliases": ["Hilary"],
     "allowTypo": true
   },
   {
@@ -25498,23 +24155,6 @@
     },
     "reviewed": true,
     "aliases": ["Jacques Yves Cousteau", "Jacques-Yves Cousteau"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1384",
-    "factId": "thanksgiving-mary-dessert-call",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the friend Judy claims she must call about Rachel's trifle as an excuse to leave the room?",
-    "answer": "Mary",
-    "explanation": "Judy says she must call her friend Mary, then takes her dessert to Monica's bedroom.",
-    "source": {
-      "episode": "S06E09",
-      "url": "https://www.livesinabox.com/friends/season6/609rgh.htm",
-      "evidence": "Judy says she must call her friend Mary, then takes her dessert to Monica's bedroom."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -26058,23 +24698,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-1414",
-    "factId": "thunder-cousin-charlie",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the cousin Rachel fooled around with at Monica's Sweet Sixteen?",
-    "answer": "Charlie",
-    "explanation": "Monica recalls Rachel distracting her guests by getting together with cousin Charlie.",
-    "source": {
-      "episode": "S07E01",
-      "url": "https://www.livesinabox.com/friends/season7/701towmt.htm",
-      "evidence": "Monica recalls Rachel distracting her guests by getting together with cousin Charlie."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1415",
     "factId": "thunder-joey-real-age31",
     "difficulty": "Extra Hard",
@@ -26309,23 +24932,6 @@
       "episode": "S07E02",
       "url": "https://www.livesinabox.com/friends/season7/702towrb.htm",
       "evidence": "Joey calls Rachel Zelda after reading the novel."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1428",
-    "factId": "book-arthur-massage-client",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's elderly massage client whom Ross treats with household objects?",
-    "answer": "Arthur",
-    "explanation": "Phoebe identifies the dissatisfied client as Arthur.",
-    "source": {
-      "episode": "S07E02",
-      "url": "https://www.livesinabox.com/friends/season7/702towrb.htm",
-      "evidence": "Phoebe identifies the dissatisfied client as Arthur."
     },
     "reviewed": true,
     "aliases": [],
@@ -26850,57 +25456,6 @@
     ]
   },
   {
-    "id": "friends-1457",
-    "factId": "assistants-hilda-candidate",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the well-qualified assistant applicant Rachel passes over for Tag?",
-    "answer": "Hilda",
-    "explanation": "Rachel chooses Tag over experienced candidate Hilda.",
-    "source": {
-      "episode": "S07E04",
-      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
-      "evidence": "Rachel chooses Tag over experienced candidate Hilda."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1458",
-    "factId": "assistants-stryker-twin",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Drake Ramoray's twin brother, whom Joey initially expects to play?",
-    "answer": "Stryker",
-    "explanation": "The proposed role is Stryker Ramoray.",
-    "source": {
-      "episode": "S07E04",
-      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
-      "evidence": "The proposed role is Stryker Ramoray."
-    },
-    "reviewed": true,
-    "aliases": ["Striker"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1459",
-    "factId": "assistants-nancy-thompson-secret",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the woman whose impending firing is Phoebe's secret shared with Monica?",
-    "answer": "Nancy Thompson",
-    "explanation": "Monica trades the news about Nancy Thompson for Chandler's Disneyland story.",
-    "source": {
-      "episode": "S07E04",
-      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
-      "evidence": "Monica trades the news about Nancy Thompson for Chandler's Disneyland story."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1460",
     "factId": "assistants-space-mountain",
     "difficulty": "Extra Hard",
@@ -27127,57 +25682,6 @@
       "An opera premiere",
       "A dinosaur exhibition"
     ]
-  },
-  {
-    "id": "friends-1472",
-    "factId": "picture-kyle-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's date whose estranged wife starts dating Ross?",
-    "answer": "Kyle",
-    "explanation": "Phoebe dates Kyle while Ross briefly dates Whitney.",
-    "source": {
-      "episode": "S07E05",
-      "url": "https://www.livesinabox.com/friends/season7/705towep.htm",
-      "evidence": "Phoebe dates Kyle while Ross briefly dates Whitney."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1473",
-    "factId": "picture-whitney-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Kyle's estranged wife, whom Ross dates?",
-    "answer": "Whitney",
-    "explanation": "Whitney is Kyle's wife and Ross's temporary love interest.",
-    "source": {
-      "episode": "S07E05",
-      "url": "https://www.livesinabox.com/friends/season7/705towep.htm",
-      "evidence": "Whitney is Kyle's wife and Ross's temporary love interest."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1474",
-    "factId": "picture-melissa-coworker",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Rachel's coworker who asks about taking Tag out in The One with the Engagement Picture?",
-    "answer": "Melissa",
-    "explanation": "Melissa tells Rachel she and Tag have been flirting.",
-    "source": {
-      "episode": "S07E05",
-      "url": "https://www.livesinabox.com/friends/season7/705towep.htm",
-      "evidence": "Melissa tells Rachel she and Tag have been flirting."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1475",
@@ -27416,40 +25920,6 @@
     },
     "reviewed": true,
     "options": ["Monica", "Chandler", "Jack", "The officiant"]
-  },
-  {
-    "id": "friends-1487",
-    "factId": "nap-julie-grath",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Chandler's former camp girlfriend who sarcastically wishes Monica luck?",
-    "answer": "Julie Grath",
-    "explanation": "Chandler identifies her in a photograph as Julie Grath.",
-    "source": {
-      "episode": "S07E06",
-      "url": "https://www.livesinabox.com/friends/season7/706my100.htm",
-      "evidence": "Chandler identifies her in a photograph as Julie Grath."
-    },
-    "reviewed": true,
-    "aliases": ["Julie Graff"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1488",
-    "factId": "nap-lewis-posin",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Monica's fifth-grade friend who rejected her because of her weight?",
-    "answer": "Lewis Posin",
-    "explanation": "Monica remembers Lewis Posin when explaining why Chandler should apologize to Julie.",
-    "source": {
-      "episode": "S07E06",
-      "url": "https://www.livesinabox.com/friends/season7/706my100.htm",
-      "evidence": "Monica remembers Lewis Posin when explaining why Chandler should apologize to Julie."
-    },
-    "reviewed": true,
-    "aliases": ["Louis Posin", "Lewis Posen", "Louis Posen"],
-    "allowTypo": true
   },
   {
     "id": "friends-1489",
@@ -27721,40 +26191,6 @@
       "Restoring motorcycles",
       "Collecting stamps"
     ]
-  },
-  {
-    "id": "friends-1503",
-    "factId": "ross-book-erin-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Joey's date who befriends Rachel and Phoebe but ultimately does not want a relationship?",
-    "answer": "Erin",
-    "explanation": "Erin charms the roommates before deciding she feels no spark with Joey.",
-    "source": {
-      "episode": "S07E07",
-      "url": "https://www.livesinabox.com/friends/season7/707towrb.htm",
-      "evidence": "Erin charms the roommates before deciding she feels no spark with Joey."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1504",
-    "factId": "ross-book-clark-janice",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Janice's boyfriend who stands her up for dinner with Monica and Chandler?",
-    "answer": "Clark",
-    "explanation": "Janice's boyfriend Clark never arrives at the restaurant.",
-    "source": {
-      "episode": "S07E07",
-      "url": "https://www.livesinabox.com/friends/season7/707towrb.htm",
-      "evidence": "Janice's boyfriend Clark never arrives at the restaurant."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1505",
@@ -28276,40 +26712,6 @@
       "Her doctor forbids cycling",
       "The frame is recalled"
     ]
-  },
-  {
-    "id": "friends-1532",
-    "factId": "candy-gary-neighbor",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the upstairs neighbor who asks Monica for candy in the middle of the night?",
-    "answer": "Gary",
-    "explanation": "The visitor introduces himself as Gary.",
-    "source": {
-      "episode": "S07E09",
-      "url": "https://www.livesinabox.com/friends/season7/709candy.htm",
-      "evidence": "The visitor introduces himself as Gary."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1533",
-    "factId": "candy-betty-assistant",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Mr. Zelner's assistant whom Rachel hopes to distract with chocolates?",
-    "answer": "Betty",
-    "explanation": "Rachel identifies Betty as the assistant who eats breakfast at her desk.",
-    "source": {
-      "episode": "S07E09",
-      "url": "https://www.livesinabox.com/friends/season7/709candy.htm",
-      "evidence": "Rachel identifies Betty as the assistant who eats breakfast at her desk."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1534",
@@ -28858,23 +27260,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1563",
-    "factId": "ido-dennis-phillips",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Nora Bing's Broadway-director date at the wedding reception?",
-    "answer": "Dennis Phillips",
-    "explanation": "Nora introduces Dennis Phillips, whom Joey then tries to impress.",
-    "source": {
-      "episode": "S08E01",
-      "url": "https://www.livesinabox.com/friends/season8/801ido.htm",
-      "evidence": "Nora introduces Dennis Phillips, whom Joey then tries to impress."
-    },
-    "reviewed": true,
-    "aliases": ["Denis Phillips"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1564",
     "factId": "ido-mona-table-nine",
     "difficulty": "Extra Hard",
@@ -29169,23 +27554,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1579",
-    "factId": "redsweater-murray-uncle",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "Which uncle's first name does Ross mention when explaining the interrupted request to collect the wedding cameras?",
-    "answer": "Murray",
-    "explanation": "Uncle Murray's check distracted Chandler from finishing the request.",
-    "source": {
-      "episode": "S08E02",
-      "url": "https://www.livesinabox.com/friends/season8/802towrs.htm",
-      "evidence": "Uncle Murray's check distracted Chandler from finishing the request."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1580",
     "factId": "redsweater-salami-buddy",
     "difficulty": "Extra Hard",
@@ -29446,23 +27814,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1593",
-    "factId": "tells-jasmine-yoga",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What first name does Treeger ask Ross to pass a message to about missing yoga?",
-    "answer": "Jasmine",
-    "explanation": "Treeger asks Ross to tell Jasmine he cannot attend yoga because of the door repair.",
-    "source": {
-      "episode": "S08E03",
-      "url": "https://www.livesinabox.com/friends/season8/803towrt.htm",
-      "evidence": "Treeger asks Ross to tell Jasmine he cannot attend yoga because of the door repair."
-    },
-    "reviewed": true,
-    "aliases": ["Jasmin"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1594",
     "factId": "tells-seats25jk",
     "difficulty": "Extra Hard",
@@ -29478,23 +27829,6 @@
     "reviewed": true,
     "aliases": ["25 J and 25 K", "25K and 25J", "25 J 25 K"],
     "allowTypo": false
-  },
-  {
-    "id": "friends-1595",
-    "factId": "tells-doctor-long",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the doctor performing Rachel's first sonogram with Ross present?",
-    "answer": "Long",
-    "explanation": "Rachel introduces Ross to Dr. Long.",
-    "source": {
-      "episode": "S08E03",
-      "url": "https://www.livesinabox.com/friends/season8/803towrt.htm",
-      "evidence": "Rachel introduces Ross to Dr. Long."
-    },
-    "reviewed": true,
-    "aliases": ["Dr Long", "Doctor Long"],
-    "allowTypo": true
   },
   {
     "id": "friends-1596",
@@ -29737,23 +28071,6 @@
     },
     "reviewed": true,
     "aliases": ["Tibidabo", "Mt Tibidabo"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1608",
-    "factId": "videotape-irene-source",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the friend who taught Rachel the backpacking story?",
-    "answer": "Irene",
-    "explanation": "Rachel heard the story from Irene, who heard it from Joey using an alias.",
-    "source": {
-      "episode": "S08E04",
-      "url": "https://www.livesinabox.com/friends/season8/804towvt.htm",
-      "evidence": "Rachel heard the story from Irene, who heard it from Joey using an alias."
-    },
-    "reviewed": true,
-    "aliases": [],
     "allowTypo": true
   },
   {
@@ -30045,40 +28362,6 @@
       "A free meal",
       "A day's wages"
     ]
-  },
-  {
-    "id": "friends-1623",
-    "factId": "date-kash-ford-fullname",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Joey's actor colleague whom Rachel dates while pregnant?",
-    "answer": "Kash Ford",
-    "explanation": "Rachel identifies the actor as Kash Ford.",
-    "source": {
-      "episode": "S08E05",
-      "url": "https://www.livesinabox.com/friends/season8/805towrd.htm",
-      "evidence": "Rachel identifies the actor as Kash Ford."
-    },
-    "reviewed": true,
-    "aliases": ["Cash Ford"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1624",
-    "factId": "date-franklin-boss",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of Chandler's boss who asks about transferring Bob upstairs?",
-    "answer": "Franklin",
-    "explanation": "Mr. Franklin consults Chandler about bringing Bob onto their team.",
-    "source": {
-      "episode": "S08E05",
-      "url": "https://www.livesinabox.com/friends/season8/805towrd.htm",
-      "evidence": "Mr. Franklin consults Chandler about bringing Bob onto their team."
-    },
-    "reviewed": true,
-    "aliases": ["Mr Franklin"],
-    "allowTypo": true
   },
   {
     "id": "friends-1625",
@@ -30609,40 +28892,6 @@
     ]
   },
   {
-    "id": "friends-1653",
-    "factId": "stain-brenda-maid-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the maid Chandler hires and Monica suspects of stealing clothes?",
-    "answer": "Brenda",
-    "explanation": "The cleaner is named Brenda.",
-    "source": {
-      "episode": "S08E07",
-      "url": "https://www.livesinabox.com/friends/season8/807stain.htm",
-      "evidence": "The cleaner is named Brenda."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1654",
-    "factId": "stain-verhoeven-neighbor",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of the elderly Dutch neighbor whose apartment Ross hopes Rachel can take?",
-    "answer": "Verhoeven",
-    "explanation": "Ross visits Mrs. Verhoeven's daughter to ask about her health and apartment.",
-    "source": {
-      "episode": "S08E07",
-      "url": "https://www.livesinabox.com/friends/season8/807stain.htm",
-      "evidence": "Ross visits Mrs. Verhoeven's daughter to ask about her health and apartment."
-    },
-    "reviewed": true,
-    "aliases": ["Mrs Verhoeven"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1655",
     "factId": "stain-ezel-insult",
     "difficulty": "Extra Hard",
@@ -30891,23 +29140,6 @@
       "February second"
     ],
     "allowTypo": false
-  },
-  {
-    "id": "friends-1668",
-    "factId": "stripper-stu-coworker",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the coworker who gives Monica the number for the woman she mistakes for a stripper?",
-    "answer": "Stu",
-    "explanation": "Stu reveals that the woman whose number he supplied is a sex worker.",
-    "source": {
-      "episode": "S08E08",
-      "url": "https://www.livesinabox.com/friends/season8/808strip.htm",
-      "evidence": "Stu reveals that the woman whose number he supplied is a sex worker."
-    },
-    "reviewed": true,
-    "aliases": ["Stew"],
-    "allowTypo": true
   },
   {
     "id": "friends-1669",
@@ -31198,23 +29430,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1684",
-    "factId": "rumor-lance-davis-party",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "Whose graduation party do Ross and Will recall trying to attend? Give his full name.",
-    "answer": "Lance Davis",
-    "explanation": "Ross and Will remember Lance Davis's graduation party, although they did not get in.",
-    "source": {
-      "episode": "S08E09",
-      "url": "https://www.livesinabox.com/friends/season8/809rumor.htm",
-      "evidence": "Ross and Will remember Lance Davis's graduation party, although they did not get in."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1685",
     "factId": "rumor-meat-sweats",
     "difficulty": "Extra Hard",
@@ -31448,23 +29663,6 @@
     "options": ["Gangster rap", "Country", "Jazz", "Heavy metal"]
   },
   {
-    "id": "friends-1697",
-    "factId": "boots-bobby-corso",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the father of Dina Tribbiani's baby?",
-    "answer": "Bobby Corso",
-    "explanation": "Dina names Bobby Corso as the baby's father.",
-    "source": {
-      "episode": "S08E10",
-      "url": "https://www.livesinabox.com/friends/season8/810boots.htm",
-      "evidence": "Dina names Bobby Corso as the baby's father."
-    },
-    "reviewed": true,
-    "aliases": ["Robert Corso"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1698",
     "factId": "boots-numb-nuts-band",
     "difficulty": "Extra Hard",
@@ -31479,23 +29677,6 @@
     },
     "reviewed": true,
     "aliases": ["Numbnuts"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1699",
-    "factId": "boots-jenny-boone-teacher",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the teacher who gives Phoebe access to Sting's family's contact details?",
-    "answer": "Jenny Boone",
-    "explanation": "The teacher introduces herself as Jenny Boone.",
-    "source": {
-      "episode": "S08E10",
-      "url": "https://www.livesinabox.com/friends/season8/810boots.htm",
-      "evidence": "The teacher introduces herself as Jenny Boone."
-    },
-    "reviewed": true,
-    "aliases": ["Jenny Boon"],
     "allowTypo": true
   },
   {
@@ -32002,23 +30183,6 @@
     "options": ["Paris", "Rome", "Madrid", "Vienna"]
   },
   {
-    "id": "friends-1728",
-    "factId": "cries-elaine-mckenna",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Chandler's boss who approves his transfer to Tulsa?",
-    "answer": "Elaine McKenna",
-    "explanation": "His boss is Elaine McKenna, whom Chandler addresses incorrectly.",
-    "source": {
-      "episode": "S09E02",
-      "url": "https://www.livesinabox.com/friends/season9/902towec.htm",
-      "evidence": "His boss is Elaine McKenna, whom Chandler addresses incorrectly."
-    },
-    "reviewed": true,
-    "aliases": ["Elaine Mckenna"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1729",
     "factId": "cries-plan-points",
     "difficulty": "Extra Hard",
@@ -32262,40 +30426,6 @@
       "Under the clown's hat",
       "Above the trapeze"
     ]
-  },
-  {
-    "id": "friends-1742",
-    "factId": "pediatrician-mary-ellen",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of the woman Phoebe brings as Joey's double date?",
-    "answer": "Mary Ellen Jenkins",
-    "explanation": "Phoebe introduces Joey's date as Mary Ellen Jenkins.",
-    "source": {
-      "episode": "S09E03",
-      "url": "https://www.livesinabox.com/friends/season9/903ped.htm",
-      "evidence": "Phoebe introduces Joey's date as Mary Ellen Jenkins."
-    },
-    "reviewed": true,
-    "aliases": ["Mary-Ellen Jenkins"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1743",
-    "factId": "pediatrician-wiener",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the surname of Emma's doctor who drops Rachel after her repeated calls?",
-    "answer": "Wiener",
-    "explanation": "Rachel's repeated calls drive Dr. Wiener to stop treating the family.",
-    "source": {
-      "episode": "S09E03",
-      "url": "https://www.livesinabox.com/friends/season9/903ped.htm",
-      "evidence": "Rachel's repeated calls drive Dr. Wiener to stop treating the family."
-    },
-    "reviewed": true,
-    "aliases": ["Dr. Wiener", "Weiner", "Dr. Weiner"],
-    "allowTypo": true
   },
   {
     "id": "friends-1744",
@@ -32787,23 +30917,6 @@
     "options": ["Kennedy", "Rockefeller", "Vanderbilt", "Windsor"]
   },
   {
-    "id": "friends-1772",
-    "factId": "birthday-ken-coworker",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the Tulsa coworker who reminds Chandler his wife is in New York?",
-    "answer": "Ken",
-    "explanation": "Ken points out that Monica is away, weakening Chandler's resolve not to smoke.",
-    "source": {
-      "episode": "S09E05",
-      "url": "https://www.livesinabox.com/friends/season9/905.htm",
-      "evidence": "Ken points out that Monica is away, weakening Chandler's resolve not to smoke."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1773",
     "factId": "birthday-claudia-coworker",
     "difficulty": "Extra Hard",
@@ -33064,23 +31177,6 @@
       "At the laboratory",
       "At Central Perk"
     ]
-  },
-  {
-    "id": "friends-1787",
-    "factId": "nanny-geoffrey-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Monica's notably funny maître d'?",
-    "answer": "Geoffrey",
-    "explanation": "Monica praises her maître d', Geoffrey.",
-    "source": {
-      "episode": "S09E06",
-      "url": "https://www.livesinabox.com/friends/season9/906nanny.htm",
-      "evidence": "Monica praises her maître d', Geoffrey."
-    },
-    "reviewed": true,
-    "aliases": ["Jeffrey", "Geoffry"],
-    "allowTypo": true
   },
   {
     "id": "friends-1788",
@@ -33361,40 +31457,6 @@
       "episode": "S09E07",
       "url": "https://www.livesinabox.com/friends/season9/907song.htm",
       "evidence": "Ross and then Rachel use Baby Got Back to entertain Emma."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1803",
-    "factId": "song-bitsy",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Mike Hannigan's mother?",
-    "answer": "Bitsy",
-    "explanation": "Mike introduces his mother as Bitsy.",
-    "source": {
-      "episode": "S09E07",
-      "url": "https://www.livesinabox.com/friends/season9/907song.htm",
-      "evidence": "Mike introduces his mother as Bitsy."
-    },
-    "reviewed": true,
-    "aliases": ["Bitsie"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1804",
-    "factId": "song-theodore",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Mike Hannigan's father?",
-    "answer": "Theodore",
-    "explanation": "Mike introduces his father as Theodore.",
-    "source": {
-      "episode": "S09E07",
-      "url": "https://www.livesinabox.com/friends/season9/907song.htm",
-      "evidence": "Mike introduces his father as Theodore."
     },
     "reviewed": true,
     "aliases": [],
@@ -33992,40 +32054,6 @@
     ]
   },
   {
-    "id": "friends-1835",
-    "factId": "phone-bill-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the man Rachel gives her number to on her night out with Phoebe?",
-    "answer": "Bill",
-    "explanation": "Bill calls for Rachel after meeting her at the bar.",
-    "source": {
-      "episode": "S09E09",
-      "url": "https://www.livesinabox.com/friends/season9/909rachelnumber.htm",
-      "evidence": "Bill calls for Rachel after meeting her at the bar."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1836",
-    "factId": "phone-ida-green",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Rachel's grandmother who lives in Bill's building?",
-    "answer": "Ida Green",
-    "explanation": "Rachel identifies her grandmother as Ida Green.",
-    "source": {
-      "episode": "S09E09",
-      "url": "https://www.livesinabox.com/friends/season9/909rachelnumber.htm",
-      "evidence": "Rachel identifies her grandmother as Ida Green."
-    },
-    "reviewed": true,
-    "aliases": ["Ida Greene"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1837",
     "factId": "phone-spuds-nickname",
     "difficulty": "Extra Hard",
@@ -34037,23 +32065,6 @@
       "episode": "S09E09",
       "url": "https://www.livesinabox.com/friends/season9/909rachelnumber.htm",
       "evidence": "Bill recognizes Rachel's description of her grandmother as Spuds."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1838",
-    "factId": "phone-jolene-assistant",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Chandler's cat-loving Tulsa assistant?",
-    "answer": "Jolene",
-    "explanation": "Chandler addresses the assistant describing her cats as Jolene.",
-    "source": {
-      "episode": "S09E09",
-      "url": "https://www.livesinabox.com/friends/season9/909rachelnumber.htm",
-      "evidence": "Chandler addresses the assistant describing her cats as Jolene."
     },
     "reviewed": true,
     "aliases": [],
@@ -34748,23 +32759,6 @@
     ]
   },
   {
-    "id": "friends-1876",
-    "factId": "fine-colleen-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Bill's wife, who helps Monica and Chandler with adoption information?",
-    "answer": "Colleen",
-    "explanation": "Phoebe introduces them to the adoptive parents Bill and Colleen.",
-    "source": {
-      "episode": "S10E02",
-      "url": "https://www.livesinabox.com/friends/1002.shtml",
-      "evidence": "Phoebe introduces them to the adoptive parents Bill and Colleen."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1877",
     "factId": "fine-owen-bribe",
     "difficulty": "Extra Hard",
@@ -35077,23 +33071,6 @@
     "reviewed": true,
     "aliases": [],
     "allowTypo": false
-  },
-  {
-    "id": "friends-1895",
-    "factId": "tan-glenda",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the employee at the second tanning salon Ross visits?",
-    "answer": "Glenda",
-    "explanation": "Ross interrupts Glenda's explanation, assuming he already knows the procedure.",
-    "source": {
-      "episode": "S10E03",
-      "url": "https://www.livesinabox.com/friends/1003.shtml",
-      "evidence": "Ross interrupts Glenda's explanation, assuming he already knows the procedure."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1896",
@@ -35601,23 +33578,6 @@
       "A framed photograph",
       "A cookbook"
     ]
-  },
-  {
-    "id": "friends-1923",
-    "factId": "babysits-myron",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of the older man Amy plans to marry for his apartment?",
-    "answer": "Myron",
-    "explanation": "Amy names her prospective husband as Myron.",
-    "source": {
-      "episode": "S10E05",
-      "url": "https://www.livesinabox.com/friends/1005.shtml",
-      "evidence": "Amy names her prospective husband as Myron."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
   },
   {
     "id": "friends-1924",
@@ -36158,23 +34118,6 @@
     ]
   },
   {
-    "id": "friends-1952",
-    "factId": "study-laura-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Monica and Chandler's home-study social worker?",
-    "answer": "Laura",
-    "explanation": "Laura visits their apartment for the adoption assessment.",
-    "source": {
-      "episode": "S10E07",
-      "url": "https://www.livesinabox.com/friends/1007.shtml",
-      "evidence": "Laura visits their apartment for the adoption assessment."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1953",
     "factId": "study-bert-code",
     "difficulty": "Extra Hard",
@@ -36466,40 +34409,6 @@
     "allowTypo": false
   },
   {
-    "id": "friends-1968",
-    "factId": "late-alicia-mae",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the full name of Joey's Cabbage Patch Kid whose clothes Emma borrows?",
-    "answer": "Alicia Mae Emory",
-    "explanation": "Joey recognizes Alicia Mae Emory's cowgirl outfit on Emma.",
-    "source": {
-      "episode": "S10E08",
-      "url": "https://www.livesinabox.com/friends/1008.shtml",
-      "evidence": "Joey recognizes Alicia Mae Emory's cowgirl outfit on Emma."
-    },
-    "reviewed": true,
-    "aliases": ["Alicia May Emory", "Alicia Mae Emery", "Alicia May Emery"],
-    "allowTypo": true
-  },
-  {
-    "id": "friends-1969",
-    "factId": "late-hemingway-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What author's surname does Chandler suggest as a baby's first name before the adoption call?",
-    "answer": "Hemingway",
-    "explanation": "Chandler imagines their future child as Hemingway Bing.",
-    "source": {
-      "episode": "S10E08",
-      "url": "https://www.livesinabox.com/friends/1008.shtml",
-      "evidence": "Chandler imagines their future child as Hemingway Bing."
-    },
-    "reviewed": true,
-    "aliases": ["Ernest Hemingway"],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1970",
     "factId": "birth-doctor-mixup",
     "difficulty": "Easy",
@@ -36730,23 +34639,6 @@
       "His shirt was stolen",
       "He has a costume party"
     ]
-  },
-  {
-    "id": "friends-1982",
-    "factId": "birth-sarah-date",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Phoebe's friend whose food-sharing habits annoy Joey?",
-    "answer": "Sarah",
-    "explanation": "Phoebe sets Joey up with Sarah.",
-    "source": {
-      "episode": "S10E09",
-      "url": "https://www.livesinabox.com/friends/1009.shtml",
-      "evidence": "Phoebe sets Joey up with Sarah."
-    },
-    "reviewed": true,
-    "aliases": ["Sara"],
-    "allowTypo": true
   },
   {
     "id": "friends-1983",
@@ -37038,23 +34930,6 @@
     "allowTypo": true
   },
   {
-    "id": "friends-1998",
-    "factId": "caught-nancy-name",
-    "difficulty": "Extra Hard",
-    "kind": "typed",
-    "prompt": "What is the first name of Monica and Chandler's real estate agent?",
-    "answer": "Nancy",
-    "explanation": "Chandler explains that the woman the friends saw is their realtor Nancy.",
-    "source": {
-      "episode": "S10E10",
-      "url": "https://www.livesinabox.com/friends/1010.shtml",
-      "evidence": "Chandler explains that the woman the friends saw is their realtor Nancy."
-    },
-    "reviewed": true,
-    "aliases": [],
-    "allowTypo": true
-  },
-  {
     "id": "friends-1999",
     "factId": "caught-meatball-sub",
     "difficulty": "Extra Hard",
@@ -37090,6 +34965,2139 @@
     },
     "reviewed": true,
     "aliases": ["Sophies Choice"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2001",
+    "factId": "what-does-monica-s-beaded-hair-get-tangled-in-after-barbados",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After Barbados, Monica's braids get tangled in a ____ while she dances in the bathroom.",
+    "answer": "A shower curtain",
+    "explanation": "Monica catches her braided hair in the shower curtain while dancing and singing in the bathroom.",
+    "source": {
+      "episode": "S10E01",
+      "url": "https://www.livesinabox.com/friends/1001.shtml",
+      "evidence": "Monica catches her braided hair in the shower curtain while dancing and singing in the bathroom."
+    },
+    "reviewed": true,
+    "aliases": ["Shower curtain"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2002",
+    "factId": "what-does-rachel-realize-she-wants-more-than-marrying-barry-when-she-looks-at-a-wedding-gift",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While looking at a wedding gift, Rachel realizes she wants a ____ more than she wants to marry Barry.",
+    "answer": "A gravy boat",
+    "explanation": "Rachel compares her feelings for Barry with her enthusiasm for the gravy boat.",
+    "source": {
+      "episode": "S01E01",
+      "url": "https://www.livesinabox.com/friends/season1/101pilot.htm",
+      "evidence": "Rachel compares her feelings for Barry with her enthusiasm for the gravy boat."
+    },
+    "reviewed": true,
+    "aliases": ["Gravy boat"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2003",
+    "factId": "what-expensive-gift-from-ross-to-carol-does-chandler-recall-when-explaining-ross-s-romantic-gestures",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler cites Ross's gift of a ____ to Carol as an example of his romantic generosity.",
+    "answer": "A crystal duck",
+    "explanation": "The crystal duck is Chandler's example of Ross's love-inspired gifts.",
+    "source": {
+      "episode": "S01E24",
+      "url": "https://www.livesinabox.com/friends/season1/124rafo.htm",
+      "evidence": "The crystal duck is Chandler's example of Ross's love-inspired gifts."
+    },
+    "reviewed": true,
+    "aliases": ["Crystal duck"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2004",
+    "factId": "what-is-the-name-of-ross-s-intimidating-laundry-detergent",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross brings the German laundry detergent ____ to the laundromat with Rachel.",
+    "answer": "Überweiss",
+    "explanation": "Ross brings the extra-tough German detergent, transcribed as Uberveiss, to the laundromat.",
+    "source": {
+      "episode": "S01E05",
+      "url": "https://www.livesinabox.com/friends/season1/105egld.htm",
+      "evidence": "Ross brings the extra-tough German detergent, transcribed as Uberveiss, to the laundromat."
+    },
+    "reviewed": true,
+    "aliases": ["Uberweiss", "Uberveiss", "Überveiss"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2005",
+    "factId": "what-dish-does-chandler-prepare-because-he-dislikes-thanksgiving-food",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: For the first Thanksgiving dinner, Chandler prepares ____ because he dislikes traditional holiday food.",
+    "answer": "Grilled cheese",
+    "explanation": "Chandler prepares grilled-cheese sandwiches for the ruined holiday meal.",
+    "source": {
+      "episode": "S01E09",
+      "url": "https://www.livesinabox.com/friends/season1/109uga.htm",
+      "evidence": "Chandler prepares grilled-cheese sandwiches for the ruined holiday meal."
+    },
+    "reviewed": true,
+    "aliases": ["Grilled cheese sandwiches", "Grilled cheese sandwich"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2006",
+    "factId": "what-kind-of-tournament-does-monica-try-to-start-at-rachel-s-less-popular-birthday-party",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: At Rachel's less popular birthday party, Monica tries to organize a ____ tournament.",
+    "answer": "Boggle",
+    "explanation": "Monica tries to start a Boggle tournament while the party across the hall is livelier.",
+    "source": {
+      "episode": "S02E22",
+      "url": "https://www.livesinabox.com/friends/season2/222towtp.htm",
+      "evidence": "Monica tries to start a Boggle tournament while the party across the hall is livelier."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2007",
+    "factId": "what-job-does-rachel-interview-for-during-the-poker-episode",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During the poker episode, Rachel interviews for an ____ position.",
+    "answer": "Assistant buyer",
+    "explanation": "Rachel anxiously awaits news about the assistant-buyer position.",
+    "source": {
+      "episode": "S01E18",
+      "url": "https://www.livesinabox.com/friends/season1/118poke.htm",
+      "evidence": "Rachel anxiously awaits news about the assistant-buyer position."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2008",
+    "factId": "where-does-monica-first-meet-the-woman-using-her-credit-card",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica joins a ____ class to meet the woman using her stolen credit card.",
+    "answer": "Tap-dance",
+    "explanation": "Monica joins the tap class to find her identity thief.",
+    "source": {
+      "episode": "S01E21",
+      "url": "https://www.livesinabox.com/friends/season1/121towfm.htm",
+      "evidence": "Monica joins the tap class to find her identity thief."
+    },
+    "reviewed": true,
+    "aliases": ["Tap dance", "Tap", "Tap dancing"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2009",
+    "factId": "which-cologne-is-joey-selling-when-he-competes-with-the-hombre-man",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: At the perfume counter, Joey promotes ____ for men.",
+    "answer": "Bijan",
+    "explanation": "Joey offers customers Bijan for men.",
+    "source": {
+      "episode": "S02E02",
+      "url": "https://www.livesinabox.com/friends/season2/202brst.htm",
+      "evidence": "Joey offers customers Bijan for men."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2010",
+    "factId": "what-chocolate-substitute-does-monica-have-to-create-recipes-with",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica is hired to develop recipes using the synthetic chocolate substitute ____.",
+    "answer": "Mockolate",
+    "explanation": "Monica is hired to develop recipes for an unpleasant synthetic chocolate.",
+    "source": {
+      "episode": "S02E08",
+      "url": "https://www.livesinabox.com/friends/season2/208list.htm",
+      "evidence": "Monica is hired to develop recipes for an unpleasant synthetic chocolate."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2011",
+    "factId": "what-self-help-book-fascinates-rachel-monica-and-phoebe",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: The self-help book that fuels arguments among Rachel, Monica, and Phoebe is ____.",
+    "answer": "Be Your Own Windkeeper",
+    "explanation": "The book's terminology fuels arguments among the women.",
+    "source": {
+      "episode": "S02E19",
+      "url": "https://www.livesinabox.com/friends/season2/219ewg.htm",
+      "evidence": "The book's terminology fuels arguments among the women."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2012",
+    "factId": "where-does-chandler-hide-rachel-s-mother-s-coat-to-keep-her-from-discovering-rachel-s-father",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: To keep Rachel's parents apart at her birthday party, Chandler hides her mother's coat in a ____.",
+    "answer": "Cupboard",
+    "explanation": "Chandler hides the coat in a cupboard because Rachel's father is in the bedroom.",
+    "source": {
+      "episode": "S02E22",
+      "url": "https://www.livesinabox.com/friends/season2/222towtp.htm",
+      "evidence": "Chandler hides the coat in a cupboard because Rachel's father is in the bedroom."
+    },
+    "reviewed": true,
+    "aliases": ["A cupboard"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2013",
+    "factId": "what-does-monica-make-phoebe-and-ryan-wear-to-stop-scratching",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica tapes ____ onto Phoebe and Ryan's hands to keep them from scratching.",
+    "answer": "Oven mitts",
+    "explanation": "Monica tapes oven mitts on their hands.",
+    "source": {
+      "episode": "S02E23",
+      "url": "https://www.livesinabox.com/friends/season2/223towcp.htm",
+      "evidence": "Monica tapes oven mitts on their hands."
+    },
+    "reviewed": true,
+    "aliases": ["Oven mitt", "Oven gloves"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2014",
+    "factId": "what-is-mounted-on-the-geller-cup",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: The childhood Geller Cup consists of a ____ nailed to wood.",
+    "answer": "Troll doll",
+    "explanation": "The childhood trophy is a troll doll nailed to wood.",
+    "source": {
+      "episode": "S03E09",
+      "url": "https://www.livesinabox.com/friends/season3/309towfb.htm",
+      "evidence": "The childhood trophy is a troll doll nailed to wood."
+    },
+    "reviewed": true,
+    "aliases": ["A troll doll"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2015",
+    "factId": "what-does-joey-mistakenly-eat-while-the-friends-hide-in-monica-s-bedroom",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While the group hides in Monica's bedroom, Joey mistakenly eats ____.",
+    "answer": "Wax for hair removal",
+    "explanation": "Joey mistakes a piece of wax for something edible.",
+    "source": {
+      "episode": "S03E16",
+      "url": "https://www.livesinabox.com/friends/season3/316toama.htm",
+      "evidence": "Joey mistakes a piece of wax for something edible."
+    },
+    "reviewed": true,
+    "aliases": ["Hair removal wax", "Wax", "Depilatory wax"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2016",
+    "factId": "what-does-monica-list-as-her-biggest-pet-peeve",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In Ross's apartment quiz, Monica's biggest pet peeve is ____.",
+    "answer": "Animals dressed as humans",
+    "explanation": "Ross asks the guys to identify Monica's pet peeve.",
+    "source": {
+      "episode": "S04E12",
+      "url": "https://www.livesinabox.com/friends/season4/412towte.htm",
+      "evidence": "Ross asks the guys to identify Monica's pet peeve."
+    },
+    "reviewed": true,
+    "aliases": ["Animals dressed like humans", "Animals in clothes"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2017",
+    "factId": "what-address-does-chandler-give-janice-for-his-move-to-yemen",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler gives Janice the address ____ for his supposed move abroad.",
+    "answer": "15 Yemen Road, Yemen",
+    "explanation": "Chandler improvises an implausibly generic Yemeni address.",
+    "source": {
+      "episode": "S04E15",
+      "url": "https://www.livesinabox.com/friends/season4/415rugby.htm",
+      "evidence": "Chandler improvises an implausibly generic Yemeni address."
+    },
+    "reviewed": true,
+    "aliases": ["15 Yemen Road", "Fifteen Yemen Road"],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2018",
+    "factId": "for-which-honeymoon-destination-does-rachel-board-a-plane-without-ross",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel boards the honeymoon flight to ____ while Ross stays behind to pursue Emily.",
+    "answer": "Athens",
+    "explanation": "Ross stays behind to pursue Emily while Rachel remains on the Athens flight.",
+    "source": {
+      "episode": "S05E01",
+      "url": "https://www.livesinabox.com/friends/season5/501arsr.htm",
+      "evidence": "Ross stays behind to pursue Emily while Rachel remains on the Athens flight."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2019",
+    "factId": "what-object-links-monica-and-chandler-s-accounts-of-their-secret-weekend-away",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey connects Monica and Chandler's secret weekend stories because both mention an ____.",
+    "answer": "Eyelash curler",
+    "explanation": "Joey connects their stories after hearing about the eyelash curler.",
+    "source": {
+      "episode": "S05E05",
+      "url": "https://www.livesinabox.com/friends/season5/505kips.htm",
+      "evidence": "Joey connects their stories after hearing about the eyelash curler."
+    },
+    "reviewed": true,
+    "aliases": ["An eyelash curler"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2020",
+    "factId": "what-hybrid-word-does-ross-use-for-his-halloween-costume-combining-a-potato-and-a-satellite",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross calls his potato-and-satellite Halloween costume ____.",
+    "answer": "Spudnik",
+    "explanation": "Ross combines a spud with Sputnik for his costume.",
+    "source": {
+      "episode": "S08E06",
+      "url": "https://www.livesinabox.com/friends/season8/806towhp.htm",
+      "evidence": "Ross combines a spud with Sputnik for his costume."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2021",
+    "factId": "what-accent-does-monica-adopt-while-visiting-ross-s-classroom",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When visiting Ross's classroom, Monica adds to the confusion by adopting an ____ accent.",
+    "answer": "Irish",
+    "explanation": "Monica adds to the confusion created by Ross's English accent.",
+    "source": {
+      "episode": "S06E04",
+      "url": "https://www.livesinabox.com/friends/season6/604jlhi.htm",
+      "evidence": "Monica adds to the confusion created by Ross's English accent."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2022",
+    "factId": "what-does-joey-pile-under-a-car-cover-to-imitate-a-porsche",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey piles ____ beneath a car cover to imitate a Porsche.",
+    "answer": "Cardboard boxes",
+    "explanation": "Joey builds a car-shaped pile to prolong his Porsche-owner act.",
+    "source": {
+      "episode": "S06E05",
+      "url": "https://www.livesinabox.com/friends/season6/605towjp.htm",
+      "evidence": "Joey builds a car-shaped pile to prolong his Porsche-owner act."
+    },
+    "reviewed": true,
+    "aliases": ["Cardboard", "Boxes"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2023",
+    "factId": "what-food-does-rachel-mention-in-response-to-ross-s-claim-about-unagi",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel counters Ross's talk about unagi by announcing the sushi order ____.",
+    "answer": "Salmon skin roll",
+    "explanation": "Rachel counters Ross's martial-arts terminology with a sushi order.",
+    "source": {
+      "episode": "S06E17",
+      "url": "https://www.livesinabox.com/friends/season6/617towtu.htm",
+      "evidence": "Rachel counters Ross's martial-arts terminology with a sushi order."
+    },
+    "reviewed": true,
+    "aliases": ["A salmon skin roll"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2024",
+    "factId": "what-does-paul-sing-while-admiring-himself-in-the-mirror",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While Ross hides in his bedroom, Paul sings ____ to himself in the mirror.",
+    "answer": "Love Machine",
+    "explanation": "Ross overhears Paul's private performance while hiding in the bedroom.",
+    "source": {
+      "episode": "S06E22",
+      "url": "https://www.livesinabox.com/friends/season6/622pdm.htm",
+      "evidence": "Ross overhears Paul's private performance while hiding in the bedroom."
+    },
+    "reviewed": true,
+    "aliases": ["I'm just a love machine"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2025",
+    "factId": "what-brand-turns-out-to-be-the-source-of-phoebe-s-grandmother-s-cookie-recipe",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe's treasured family cookie recipe turns out to come from ____.",
+    "answer": "Nestlé Toll House",
+    "explanation": "The treasured recipe comes from the chocolate-chip package.",
+    "source": {
+      "episode": "S07E03",
+      "url": "https://www.livesinabox.com/friends/season7/703towpc.htm",
+      "evidence": "The treasured recipe comes from the chocolate-chip package."
+    },
+    "reviewed": true,
+    "aliases": ["Nestle Toll House", "Toll House"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2026",
+    "factId": "what-award-is-joey-nominated-for",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey attends the soap-opera awards after being nominated for a ____.",
+    "answer": "Soapie",
+    "explanation": "Joey attends the soap-opera awards and is a poor loser.",
+    "source": {
+      "episode": "S07E18",
+      "url": "https://www.livesinabox.com/friends/season7/718towja.htm",
+      "evidence": "Joey attends the soap-opera awards and is a poor loser."
+    },
+    "reviewed": true,
+    "aliases": ["A Soapie"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2027",
+    "factId": "pilot-library-card",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel's first attempt to cut up a card in the pilot destroys her ____ rather than a credit card.",
+    "answer": "Library card",
+    "explanation": "Monica points out that the card Rachel has cut is only her library card.",
+    "source": {
+      "episode": "S01E01",
+      "url": "https://www.livesinabox.com/friends/season1/101pilot.htm",
+      "evidence": "Monica points out that the card Rachel has cut is only her library card."
+    },
+    "reviewed": true,
+    "aliases": ["Her library card"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2028",
+    "factId": "sonogram-tv-sitcom",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In the second episode, the friends watch the sitcom ____ while Chandler jokes about its misunderstanding plot.",
+    "answer": "Three's Company",
+    "explanation": "Chandler describes the familiar misunderstanding premise of Three's Company.",
+    "source": {
+      "episode": "S01E02",
+      "url": "https://www.livesinabox.com/friends/season1/102towsg.htm",
+      "evidence": "Chandler describes the familiar misunderstanding premise of Three's Company."
+    },
+    "reviewed": true,
+    "aliases": ["Threes Company"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2029",
+    "factId": "sonogram-ugly-naked-exercise",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In the second episode, Chandler reports that Ugly Naked Guy has acquired a ____.",
+    "answer": "ThighMaster",
+    "explanation": "Chandler looks out the window and reports Ugly Naked Guy's new ThighMaster.",
+    "source": {
+      "episode": "S01E02",
+      "url": "https://www.livesinabox.com/friends/season1/102towsg.htm",
+      "evidence": "Chandler looks out the window and reports Ugly Naked Guy's new ThighMaster."
+    },
+    "reviewed": true,
+    "aliases": ["Thigh Master", "A ThighMaster"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2030",
+    "factId": "thumb-rain-lid",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When smoking on the balcony, Chandler shelters from the rain under a ____.",
+    "answer": "Garbage-can lid",
+    "explanation": "Barred from bringing his cigarette inside, Chandler shelters under a garbage-can lid.",
+    "source": {
+      "episode": "S01E03",
+      "url": "https://www.livesinabox.com/friends/season1/103thumb.htm",
+      "evidence": "Barred from bringing his cigarette inside, Chandler shelters under a garbage-can lid."
+    },
+    "reviewed": true,
+    "aliases": ["Garbage can lid", "Trash can lid", "Bin lid"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2031",
+    "factId": "george-pizza-original-order",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Before George's pizza is delivered by mistake, the women order ____ with extra cheese.",
+    "answer": "Fat-free crust",
+    "explanation": "Rachel says they ordered fat-free crust and extra cheese, not the vegetable pizza delivered.",
+    "source": {
+      "episode": "S01E04",
+      "url": "https://www.livesinabox.com/friends/season1/104towgs.htm",
+      "evidence": "Rachel says they ordered fat-free crust and extra cheese, not the vegetable pizza delivered."
+    },
+    "reviewed": true,
+    "aliases": ["Fat free crust"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2032",
+    "factId": "george-phoebe-first-job",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe says her first paycheck came from working at ____.",
+    "answer": "Dairy Queen",
+    "explanation": "Phoebe's story about a mine accident initially misleads Monica, but her job was at Dairy Queen.",
+    "source": {
+      "episode": "S01E04",
+      "url": "https://www.livesinabox.com/friends/season1/104towgs.htm",
+      "evidence": "Phoebe's story about a mine accident initially misleads Monica, but her job was at Dairy Queen."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2033",
+    "factId": "george-hockey-opponents",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In season one, the men have tickets to see the Rangers play the ____.",
+    "answer": "Pittsburgh Penguins",
+    "explanation": "Joey announces tickets for the Rangers-Penguins game at the Garden.",
+    "source": {
+      "episode": "S01E04",
+      "url": "https://www.livesinabox.com/friends/season1/104towgs.htm",
+      "evidence": "Joey announces tickets for the Rangers-Penguins game at the Garden."
+    },
+    "reviewed": true,
+    "aliases": ["The Pittsburgh Penguins", "Penguins"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2034",
+    "factId": "laundry-janice-socks",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Janice buys Chandler socks featuring ____ to complement his Rocky socks.",
+    "answer": "Bullwinkle",
+    "explanation": "Janice buys Bullwinkle socks to complement Chandler's Rocky socks.",
+    "source": {
+      "episode": "S01E05",
+      "url": "https://www.livesinabox.com/friends/season1/105egld.htm",
+      "evidence": "Janice buys Bullwinkle socks to complement Chandler's Rocky socks."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2035",
+    "factId": "laundry-tony-hunger-strike",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When explaining why dating Tony is no longer fun, Phoebe mentions he is on a ____.",
+    "answer": "Hunger strike",
+    "explanation": "Phoebe mentions Tony's hunger strike while explaining her decision to break up.",
+    "source": {
+      "episode": "S01E05",
+      "url": "https://www.livesinabox.com/friends/season1/105egld.htm",
+      "evidence": "Phoebe mentions Tony's hunger strike while explaining her decision to break up."
+    },
+    "reviewed": true,
+    "aliases": ["A hunger strike"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2036",
+    "factId": "butt-chandler-teflon",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica tells Chandler to use a ____ brush on her Teflon pan.",
+    "answer": "Plastic",
+    "explanation": "Monica frames her warning about a plastic brush as something the old Monica would have said.",
+    "source": {
+      "episode": "S01E06",
+      "url": "https://www.livesinabox.com/friends/season1/106butt.htm",
+      "evidence": "Monica frames her warning about a plastic brush as something the old Monica would have said."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2037",
+    "factId": "blackout-joey-library",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey identifies the women's bathroom on the second floor of the ____ as an unusual place he has had sex.",
+    "answer": "New York City Public Library",
+    "explanation": "Joey specifies the women's bathroom on the library's second floor.",
+    "source": {
+      "episode": "S01E07",
+      "url": "https://www.livesinabox.com/friends/season1/107towbo.htm",
+      "evidence": "Joey specifies the women's bathroom on the library's second floor."
+    },
+    "reviewed": true,
+    "aliases": ["New York Public Library", "NYC Public Library"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2038",
+    "factId": "nana-funeral-football-teams",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey's pocket television at Nana's funeral shows the ____ playing football.",
+    "answer": "Giants and Cowboys",
+    "explanation": "Joey shows Chandler the Giants-Cowboys broadcast on his pocket television.",
+    "source": {
+      "episode": "S01E08",
+      "url": "https://www.livesinabox.com/friends/season1/108ndt.htm",
+      "evidence": "Joey shows Chandler the Giants-Cowboys broadcast on his pocket television."
+    },
+    "reviewed": true,
+    "aliases": [
+      "Cowboys and Giants",
+      "New York Giants and Dallas Cowboys",
+      "Dallas Cowboys and New York Giants"
+    ],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2039",
+    "factId": "nana-burgundy-dress",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Judy and Aunt Lillian ultimately choose a ____ dress for Nana's burial.",
+    "answer": "Burgundy",
+    "explanation": "After rejecting numerous alternatives, the women settle on the burgundy dress.",
+    "source": {
+      "episode": "S01E08",
+      "url": "https://www.livesinabox.com/friends/season1/108ndt.htm",
+      "evidence": "After rejecting numerous alternatives, the women settle on the burgundy dress."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2040",
+    "factId": "underdog-susan-book",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Susan reads the Dr. Seuss book ____ aloud to the unborn baby.",
+    "answer": "Yertle the Turtle",
+    "explanation": "Ross notices Yertle the Turtle and learns Susan is reading aloud so the baby knows her voice.",
+    "source": {
+      "episode": "S01E09",
+      "url": "https://www.livesinabox.com/friends/season1/109uga.htm",
+      "evidence": "Ross notices Yertle the Turtle and learns Susan is reading aloud so the baby knows her voice."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2041",
+    "factId": "underdog-geller-trip",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Jack and Judy spend the first season's Thanksgiving in ____, leaving Monica to host.",
+    "answer": "Puerto Rico",
+    "explanation": "The Gellers accept an invitation to Puerto Rico, leading Monica to cook instead.",
+    "source": {
+      "episode": "S01E09",
+      "url": "https://www.livesinabox.com/friends/season1/109uga.htm",
+      "evidence": "The Gellers accept an invitation to Puerto Rico, leading Monica to cook instead."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2042",
+    "factId": "wedding-ugly-naked-cello",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel's mother notices Ugly Naked Guy playing a ____.",
+    "answer": "Cello",
+    "explanation": "Sandra spots the nude neighbor playing a cello outside the apartment window.",
+    "source": {
+      "episode": "S02E11",
+      "url": "https://www.livesinabox.com/friends/season2/211towlw.htm",
+      "evidence": "Sandra spots the nude neighbor playing a cello outside the apartment window."
+    },
+    "reviewed": true,
+    "aliases": ["A cello"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2043",
+    "factId": "wedding-butterscotch-candy",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During Carol and Susan's wedding ceremony, Phoebe noisily offers ____ candy.",
+    "answer": "Butterscotch",
+    "explanation": "Speaking as Mrs. Adelman, Phoebe unwraps and offers butterscotch candy.",
+    "source": {
+      "episode": "S02E11",
+      "url": "https://www.livesinabox.com/friends/season2/211towlw.htm",
+      "evidence": "Speaking as Mrs. Adelman, Phoebe unwraps and offers butterscotch candy."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2044",
+    "factId": "superbowl-monkey-beer",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Marcel appears in an advertisement for ____ Beer.",
+    "answer": "MonkeyShine",
+    "explanation": "Ross discovers that Marcel is the monkey in the MonkeyShine Beer commercial.",
+    "source": {
+      "episode": "S02E12",
+      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
+      "evidence": "Ross discovers that Marcel is the monkey in the MonkeyShine Beer commercial."
+    },
+    "reviewed": true,
+    "aliases": ["Monkey Shine"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2045",
+    "factId": "superbowl-chandler-soap-defense",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When Joey's stalker approaches, Chandler prepares to defend himself with ____.",
+    "answer": "Dish soap",
+    "explanation": "Chandler opens the dish-soap bottle while Joey arms himself with a frying pan.",
+    "source": {
+      "episode": "S02E12",
+      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
+      "evidence": "Chandler opens the dish-soap bottle while Joey arms himself with a frying pan."
+    },
+    "reviewed": true,
+    "aliases": ["Dishwashing liquid", "Washing up liquid", "Dishwashing soap"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2046",
+    "factId": "superbowl-marcel-dessert",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross adds ____ to the banana cake he plans to share with Marcel.",
+    "answer": "Mealworms",
+    "explanation": "Joey's enthusiasm for the banana cake ends when Ross mentions the mealworms.",
+    "source": {
+      "episode": "S02E13",
+      "url": "https://www.livesinabox.com/friends/season2/212toasb.htm",
+      "evidence": "Joey's enthusiasm for the banana cake ends when Ross mentions the mealworms."
+    },
+    "reviewed": true,
+    "aliases": ["Meal worms"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2047",
+    "factId": "prom-ross-dinosaur-checks",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: The checks Ross uses to lend Monica money have pictures of ____.",
+    "answer": "Dinosaurs",
+    "explanation": "Monica notices Ross's dinosaur-themed checks when he helps with her finances.",
+    "source": {
+      "episode": "S02E14",
+      "url": "https://www.livesinabox.com/friends/season2/214towpv.htm",
+      "evidence": "Monica notices Ross's dinosaur-themed checks when he helps with her finances."
+    },
+    "reviewed": true,
+    "aliases": ["Dinosaur"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2048",
+    "factId": "prom-mayonnaise-shoulder",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While getting ready for prom, Monica transfers ____ from her sandwich onto Rachel's shoulder.",
+    "answer": "Mayonnaise",
+    "explanation": "Teenage Monica hugs Rachel while eating a sandwich and transfers mayonnaise to her shoulder.",
+    "source": {
+      "episode": "S02E14",
+      "url": "https://www.livesinabox.com/friends/season2/214towpv.htm",
+      "evidence": "Teenage Monica hugs Rachel while eating a sandwich and transfers mayonnaise to her shoulder."
+    },
+    "reviewed": true,
+    "aliases": ["Mayo"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2049",
+    "factId": "recliners-xanadu",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe abandons her attempt to get Joey and Chandler away from the television when she sees ____ is playing.",
+    "answer": "Xanadu",
+    "explanation": "Phoebe's lecture about going outside ends when she spots Xanadu on the screen.",
+    "source": {
+      "episode": "S02E15",
+      "url": "https://www.livesinabox.com/friends/season2/215rryk.htm",
+      "evidence": "Phoebe's lecture about going outside ends when she spots Xanadu on the screen."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2050",
+    "factId": "richard-wanted-job",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Richard jokes that he wanted to be a ____ rather than an eye doctor.",
+    "answer": "Sheriff",
+    "explanation": "Richard jokingly blames his parents for his career and says he wanted to be a sheriff.",
+    "source": {
+      "episode": "S02E15",
+      "url": "https://www.livesinabox.com/friends/season2/215rryk.htm",
+      "evidence": "Richard jokingly blames his parents for his career and says he wanted to be a sheriff."
+    },
+    "reviewed": true,
+    "aliases": ["A sheriff"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2051",
+    "factId": "movesout-bra-water-balloons",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey and Chandler use Rachel's bra to launch ____ from the roof.",
+    "answer": "Water balloons",
+    "explanation": "Joey explains that the bra was used to fling water balloons while competing with younger kids.",
+    "source": {
+      "episode": "S02E16",
+      "url": "https://www.livesinabox.com/friends/season2/216jmo.htm",
+      "evidence": "Joey explains that the bra was used to fling water balloons while competing with younger kids."
+    },
+    "reviewed": true,
+    "aliases": ["Water balloon"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2052",
+    "factId": "eddie-chorizo",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When Eddie and Chandler first meet at the supermarket, Eddie helps him choose a ____.",
+    "answer": "Chorizo",
+    "explanation": "Eddie says he helped Chandler pick out a chorizo in the supermarket's ethnic food section.",
+    "source": {
+      "episode": "S02E17",
+      "url": "https://www.livesinabox.com/friends/season2/217emi.htm",
+      "evidence": "Eddie says he helped Chandler pick out a chorizo in the supermarket's ethnic food section."
+    },
+    "reviewed": true,
+    "aliases": ["Chorizo sausage"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2053",
+    "factId": "drake-soap-digest",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey claims to write his own dialogue in an interview with ____.",
+    "answer": "Soap Opera Digest",
+    "explanation": "Joey proudly shows Phoebe his Soap Opera Digest interview before the writers retaliate.",
+    "source": {
+      "episode": "S02E18",
+      "url": "https://www.livesinabox.com/friends/season2/218drd.htm",
+      "evidence": "Joey proudly shows Phoebe his Soap Opera Digest interview before the writers retaliate."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2054",
+    "factId": "drake-phoebe-book-club-excuse",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: To leave Chandler alone with Eddie, Phoebe claims her discussion group is studying ____.",
+    "answer": "Green Eggs and Ham",
+    "explanation": "Phoebe invents a discussion about why the character will not eat on a train.",
+    "source": {
+      "episode": "S02E18",
+      "url": "https://www.livesinabox.com/friends/season2/218drd.htm",
+      "evidence": "Phoebe invents a discussion about why the character will not eat on a train."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2055",
+    "factId": "eddiego-cab-audition-show",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After Joey loses his role on Days of Our Lives, Estelle offers him a cab-driver audition on ____.",
+    "answer": "Another World",
+    "explanation": "Estelle offers Joey a small role on Another World after Days of Our Lives fires him.",
+    "source": {
+      "episode": "S02E19",
+      "url": "https://www.livesinabox.com/friends/season2/219ewg.htm",
+      "evidence": "Estelle offers Joey a small role on Another World after Days of Our Lives fires him."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2056",
+    "factId": "eddiego-gunther-death",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Gunther reveals that his soap-opera character died in an ____.",
+    "answer": "Avalanche",
+    "explanation": "Gunther contrasts his character's avalanche death with Drake Ramoray's fall.",
+    "source": {
+      "episode": "S02E19",
+      "url": "https://www.livesinabox.com/friends/season2/219ewg.htm",
+      "evidence": "Gunther contrasts his character's avalanche death with Drake Ramoray's fall."
+    },
+    "reviewed": true,
+    "aliases": ["An avalanche"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2057",
+    "factId": "yeller-susan-friend-trade",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Susan's college friend in Colonial Williamsburg works in ____.",
+    "answer": "Blacksmithing",
+    "explanation": "Susan and Carol visit her college friend, a female blacksmith.",
+    "source": {
+      "episode": "S02E20",
+      "url": "https://www.livesinabox.com/friends/season2/220oyd.htm",
+      "evidence": "Susan and Carol visit her college friend, a female blacksmith."
+    },
+    "reviewed": true,
+    "aliases": ["Blacksmith", "A blacksmith"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2058",
+    "factId": "yeller-joey-reflection",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While copying Richard, Joey checks his reflection in a ____.",
+    "answer": "Spatula",
+    "explanation": "Joey checks his appearance in a spatula while holding a cigar.",
+    "source": {
+      "episode": "S02E20",
+      "url": "https://www.livesinabox.com/friends/season2/220oyd.htm",
+      "evidence": "Joey checks his appearance in a spatula while holding a cigar."
+    },
+    "reviewed": true,
+    "aliases": ["A spatula"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2059",
+    "factId": "yeller-ben-puppets",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Before sharing a tape with Ben, Phoebe checks the ending of a segment featuring ____.",
+    "answer": "Bert and Ernie",
+    "explanation": "Phoebe checks the ending of a Bert and Ernie segment before sharing it with Ben.",
+    "source": {
+      "episode": "S02E20",
+      "url": "https://www.livesinabox.com/friends/season2/220oyd.htm",
+      "evidence": "Phoebe checks the ending of a Bert and Ernie segment before sharing it with Ben."
+    },
+    "reviewed": true,
+    "aliases": ["Ernie and Bert"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2060",
+    "factId": "leia-day-baseball",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During their day together, Joey and Janice attend a ____ baseball game.",
+    "answer": "Mets",
+    "explanation": "Joey reports that they attended a Mets game and ate Chinese food.",
+    "source": {
+      "episode": "S03E01",
+      "url": "https://www.livesinabox.com/friends/season3/301plf.htm",
+      "evidence": "Joey reports that they attended a Mets game and ate Chinese food."
+    },
+    "reviewed": true,
+    "aliases": ["New York Mets", "The Mets"],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2061",
+    "factId": "ready-cider-fat",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey initially mistakes the refrigerated fat for a glass of ____.",
+    "answer": "Cider",
+    "explanation": "Joey thinks the glass contains cider until he tastes it.",
+    "source": {
+      "episode": "S03E02",
+      "url": "https://www.livesinabox.com/friends/season3/302nor.htm",
+      "evidence": "Joey thinks the glass contains cider until he tastes it."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2062",
+    "factId": "ready-bo-peep",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross fails to recognize Rachel's Halloween costume as ____ without its inflatable sheep.",
+    "answer": "Little Bo Peep",
+    "explanation": "Ross fails to recognize Rachel's Little Bo Peep costume without its inflatable sheep.",
+    "source": {
+      "episode": "S03E02",
+      "url": "https://www.livesinabox.com/friends/season3/302nor.htm",
+      "evidence": "Ross fails to recognize Rachel's Little Bo Peep costume without its inflatable sheep."
+    },
+    "reviewed": true,
+    "aliases": ["Little Bo-Peep", "Bo Peep"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2063",
+    "factId": "ready-lunges",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: While wearing all of Chandler's clothes, Joey aggravates him by doing ____.",
+    "answer": "Lunges",
+    "explanation": "Joey does lunges to make Chandler more uncomfortable about the borrowed clothes.",
+    "source": {
+      "episode": "S03E02",
+      "url": "https://www.livesinabox.com/friends/season3/302nor.htm",
+      "evidence": "Joey does lunges to make Chandler more uncomfortable about the borrowed clothes."
+    },
+    "reviewed": true,
+    "aliases": ["Lunge"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2064",
+    "factId": "jam-malcolm-sales",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Before becoming obsessed with Ursula, Malcolm sold ____.",
+    "answer": "Beepers and cellular phones",
+    "explanation": "Malcolm describes his earlier ordinary life selling beepers and cellular phones.",
+    "source": {
+      "episode": "S03E03",
+      "url": "https://www.livesinabox.com/friends/season3/303jam.htm",
+      "evidence": "Malcolm describes his earlier ordinary life selling beepers and cellular phones."
+    },
+    "reviewed": true,
+    "aliases": [
+      "Cellular phones and beepers",
+      "Pagers and cell phones",
+      "Beepers and cell phones"
+    ],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2065",
+    "factId": "tunnel-piccata",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Janice puts some of her ____ on Chandler's plate, triggering his relationship anxiety.",
+    "answer": "Chicken piccata",
+    "explanation": "Janice puts some of her chicken piccata on Chandler's plate and takes his tomatoes.",
+    "source": {
+      "episode": "S03E04",
+      "url": "https://www.livesinabox.com/friends/season3/304towmt.htm",
+      "evidence": "Janice puts some of her chicken piccata on Chandler's plate and takes his tomatoes."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2066",
+    "factId": "frank-varnish-lid",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After Joey leaves varnish on the couch, Chandler discovers a ____ stuck to him.",
+    "answer": "Varnish-can lid",
+    "explanation": "Chandler discovers a lid stuck to him after Joey leaves varnish on the couch.",
+    "source": {
+      "episode": "S03E05",
+      "url": "https://www.livesinabox.com/friends/season3/305frank.htm",
+      "evidence": "Chandler discovers a lid stuck to him after Joey leaves varnish on the couch."
+    },
+    "reviewed": true,
+    "aliases": ["Varnish can lid", "Lid from a varnish can"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2067",
+    "factId": "flashback-shadow-oboe",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Heckles claims Phoebe is interrupting his practice on the ____.",
+    "answer": "Oboe",
+    "explanation": "Heckles complains about interrupted oboe practice despite Phoebe saying he does not play it.",
+    "source": {
+      "episode": "S03E06",
+      "url": "https://www.livesinabox.com/friends/season3/306flash.htm",
+      "evidence": "Heckles complains about interrupted oboe practice despite Phoebe saying he does not play it."
+    },
+    "reviewed": true,
+    "aliases": ["An oboe"],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2068",
+    "factId": "flashback-ink-spaghetti",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe cannot hide an ink spot by flipping the cushion because its other side has a large ____ stain.",
+    "answer": "Spaghetti",
+    "explanation": "The other side of the cushion already has a large spaghetti stain.",
+    "source": {
+      "episode": "S03E06",
+      "url": "https://www.livesinabox.com/friends/season3/306flash.htm",
+      "evidence": "The other side of the cushion already has a large spaghetti stain."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2069",
+    "factId": "flashback-cue-ball",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After overhearing Rachel mention a fling, Chandler enters using a dropped ____ as his excuse.",
+    "answer": "Cue ball",
+    "explanation": "Chandler uses a dropped cue ball as an excuse after overhearing Rachel discuss a fling.",
+    "source": {
+      "episode": "S03E06",
+      "url": "https://www.livesinabox.com/friends/season3/306flash.htm",
+      "evidence": "Chandler uses a dropped cue ball as an excuse after overhearing Rachel discuss a fling."
+    },
+    "reviewed": true,
+    "aliases": ["A cue ball"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2070",
+    "factId": "racecar-all-my-children",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey and his acting student both audition for a boxer role on ____.",
+    "answer": "All My Children",
+    "explanation": "Both actors compete for the boxer role on All My Children.",
+    "source": {
+      "episode": "S03E07",
+      "url": "https://www.livesinabox.com/friends/season3/307rcb.htm",
+      "evidence": "Both actors compete for the boxer role on All My Children."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2071",
+    "factId": "racecar-renters-insurance",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Dr. Green and Ross bond over criticizing Rachel for not having ____.",
+    "answer": "Renter's insurance",
+    "explanation": "Dr. Green joins Ross in criticizing Rachel for not having renter's insurance.",
+    "source": {
+      "episode": "S03E07",
+      "url": "https://www.livesinabox.com/friends/season3/307rcb.htm",
+      "evidence": "Dr. Green joins Ross in criticizing Rachel for not having renter's insurance."
+    },
+    "reviewed": true,
+    "aliases": ["Renters insurance", "Rental insurance", "Tenant insurance"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2072",
+    "factId": "poke-alphabet-missing",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross claims Ben has started omitting the letters ____ from the alphabet song.",
+    "answer": "E and F",
+    "explanation": "Ross claims Ben is suddenly leaving E and F out of the alphabet song.",
+    "source": {
+      "episode": "S03E08",
+      "url": "https://www.livesinabox.com/friends/season3/308gpd.htm",
+      "evidence": "Ross claims Ben is suddenly leaving E and F out of the alphabet song."
+    },
+    "reviewed": true,
+    "aliases": ["E F", "E & F"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2073",
+    "factId": "quits-mint-treasures",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica struggles to limit herself to one box of the cookies called ____.",
+    "answer": "Mint Treasures",
+    "explanation": "Monica has trouble limiting herself to one box of Mint Treasures.",
+    "source": {
+      "episode": "S03E10",
+      "url": "https://www.livesinabox.com/friends/season3/310rquit.htm",
+      "evidence": "Monica has trouble limiting herself to one box of Mint Treasures."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2074",
+    "factId": "jelly-discovery-channel",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When suggesting a remedy after the jellyfish sting, Joey cites a program on ____.",
+    "answer": "The Discovery Channel",
+    "explanation": "Joey cites a Discovery Channel program when suggesting the remedy depicted in the episode.",
+    "source": {
+      "episode": "S04E01",
+      "url": "https://www.livesinabox.com/friends/season4/401jelly.htm",
+      "evidence": "Joey cites a Discovery Channel program when suggesting the remedy depicted in the episode."
+    },
+    "reviewed": true,
+    "aliases": ["Discovery Channel", "Discovery"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2075",
+    "factId": "cat-felt-orange",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe links the ____ lining of her guitar case to her mother's favorite fish.",
+    "answer": "Orange",
+    "explanation": "Phoebe connects the orange lining to her mother's favorite fish when explaining her belief about the cat.",
+    "source": {
+      "episode": "S04E02",
+      "url": "https://www.livesinabox.com/friends/season4/402cat.htm",
+      "evidence": "Phoebe connects the orange lining to her mother's favorite fish when explaining her belief about the cat."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2076",
+    "factId": "cat-hockey-stick-lock",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: The thief traps Joey in the entertainment center by sliding a ____ through its handles.",
+    "answer": "Hockey stick",
+    "explanation": "The visitor slides a hockey stick through the handles before stealing the apartment's contents.",
+    "source": {
+      "episode": "S04E02",
+      "url": "https://www.livesinabox.com/friends/season4/402cat.htm",
+      "evidence": "The visitor slides a hockey stick through the handles before stealing the apartment's contents."
+    },
+    "reviewed": true,
+    "aliases": ["A hockey stick"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2077",
+    "factId": "ballroom-greenpeace",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rick blames his stiff body on a sixteen-hour ____ sit-in.",
+    "answer": "Greenpeace",
+    "explanation": "Rick attributes his discomfort to a sixteen-hour Greenpeace sit-in.",
+    "source": {
+      "episode": "S04E04",
+      "url": "https://www.livesinabox.com/friends/season4/404dance.htm",
+      "evidence": "Rick attributes his discomfort to a sixteen-hour Greenpeace sit-in."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2078",
+    "factId": "dirty-rent-crossword",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: To get Chandler's help with her crossword, Rachel pretends to plan a theater outing and gets the musical title ____.",
+    "answer": "Rent",
+    "explanation": "She pretends to plan a theater outing to obtain the answer Rent.",
+    "source": {
+      "episode": "S04E06",
+      "url": "https://www.livesinabox.com/friends/season4/406dirty.htm",
+      "evidence": "She pretends to plan a theater outing to obtain the answer Rent."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2079",
+    "factId": "line-bread-betrayal",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey describes the loaf he made for Chandler as ____ bread.",
+    "answer": "Cinnamon raisin",
+    "explanation": "Joey says the cinnamon-raisin loaf he made for Chandler is now tainted by the betrayal.",
+    "source": {
+      "episode": "S04E07",
+      "url": "https://www.livesinabox.com/friends/season4/407line.htm",
+      "evidence": "Joey says the cinnamon-raisin loaf he made for Chandler is now tainted by the betrayal."
+    },
+    "reviewed": true,
+    "aliases": ["Cinnamon-raisin"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2080",
+    "factId": "box-briefcase-initials",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler puts the initials ____ on the briefcase he buys for Rachel.",
+    "answer": "R.G.",
+    "explanation": "The R.G. monogram also allows him to consider giving it to Ross Geller.",
+    "source": {
+      "episode": "S04E08",
+      "url": "https://www.livesinabox.com/friends/season4/408box.htm",
+      "evidence": "The R.G. monogram also allows him to consider giving it to Ross Geller."
+    },
+    "reviewed": true,
+    "aliases": ["RG", "R G"],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2081",
+    "factId": "party-baguette-paint",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: For the catering van's mural, Phoebe proposes replacing the sword with a ____.",
+    "answer": "Baguette",
+    "explanation": "She proposes replacing the fantasy mural's sword with bread to suit the business.",
+    "source": {
+      "episode": "S04E09",
+      "url": "https://www.livesinabox.com/friends/season4/409party.htm",
+      "evidence": "She proposes replacing the fantasy mural's sword with bread to suit the business."
+    },
+    "reviewed": true,
+    "aliases": ["A baguette"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2082",
+    "factId": "poughkeepsie-swordfish",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: At her restaurant, Monica goes to get ____ after a coworker refuses to help.",
+    "answer": "Swordfish",
+    "explanation": "Monica goes for swordfish after a coworker refuses to help.",
+    "source": {
+      "episode": "S04E10",
+      "url": "https://www.livesinabox.com/friends/season4/410girl.htm",
+      "evidence": "Monica goes for swordfish after a coworker refuses to help."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2083",
+    "factId": "kissing-diet-coke",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In the hot tub, Chandler changes his drink request from Coke to ____ after Monica grabs him underwater.",
+    "answer": "Diet Coke",
+    "explanation": "Chandler first asks for Coke and then quickly changes it to Diet Coke.",
+    "source": {
+      "episode": "S05E02",
+      "url": "https://www.livesinabox.com/friends/season5/502kiss.htm",
+      "evidence": "Chandler first asks for Coke and then quickly changes it to Diet Coke."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2084",
+    "factId": "hundred-dan-war",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: The male nurse Monica considers dating says nursing did not feel feminine during ____.",
+    "answer": "The Gulf War",
+    "explanation": "Dan points out that nursing did not feel feminine during the Gulf War.",
+    "source": {
+      "episode": "S05E03",
+      "url": "https://www.livesinabox.com/friends/season5/503t100.htm",
+      "evidence": "Dan points out that nursing did not feel feminine during the Gulf War."
+    },
+    "reviewed": true,
+    "aliases": ["Gulf War"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2085",
+    "factId": "hundred-bongos",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe's doctor likes an episode of Happy Days because Fonzie plays the ____.",
+    "answer": "Bongos",
+    "explanation": "The doctor calls it a good episode because Fonzie plays the bongos.",
+    "source": {
+      "episode": "S05E03",
+      "url": "https://www.livesinabox.com/friends/season5/503t100.htm",
+      "evidence": "The doctor calls it a good episode because Fonzie plays the bongos."
+    },
+    "reviewed": true,
+    "aliases": ["Bongo drums"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2086",
+    "factId": "pbs-sesame-keychain",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After Phoebe writes to Sesame Street following her mother's death, she receives a ____ despite having no keys.",
+    "answer": "Key chain",
+    "explanation": "Phoebe resents receiving a key chain when she was homeless and had no keys.",
+    "source": {
+      "episode": "S05E04",
+      "url": "https://www.livesinabox.com/friends/season5/504pbs.htm",
+      "evidence": "Phoebe resents receiving a key chain when she was homeless and had no keys."
+    },
+    "reviewed": true,
+    "aliases": ["Keychain", "Key ring", "Keyring"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2087",
+    "factId": "pbs-raking-reward",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe says the ____ she received made a supposed selfless act feel rewarding.",
+    "answer": "Cider and cookies",
+    "explanation": "The treats make Phoebe feel good and undermine her attempt at a selfless deed.",
+    "source": {
+      "episode": "S05E04",
+      "url": "https://www.livesinabox.com/friends/season5/504pbs.htm",
+      "evidence": "The treats make Phoebe feel good and undermine her attempt at a selfless deed."
+    },
+    "reviewed": true,
+    "aliases": ["Cookies and cider"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2088",
+    "factId": "kips-chef-fair-cover",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica uses a ____ as the cover story for her secret trip with Chandler.",
+    "answer": "Culinary fair",
+    "explanation": "Monica uses a culinary fair as cover for the romantic trip.",
+    "source": {
+      "episode": "S05E05",
+      "url": "https://www.livesinabox.com/friends/season5/505kips.htm",
+      "evidence": "Monica uses a culinary fair as cover for the romantic trip."
+    },
+    "reviewed": true,
+    "aliases": ["A culinary fair"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2089",
+    "factId": "yeti-uptown-view",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Emily's cousin's apartment has views of the river and ____ University.",
+    "answer": "Columbia",
+    "explanation": "Emily's cousin's apartment has views of the river and Columbia.",
+    "source": {
+      "episode": "S05E06",
+      "url": "https://www.livesinabox.com/friends/season5/506yeti.htm",
+      "evidence": "Emily's cousin's apartment has views of the river and Columbia."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2090",
+    "factId": "moves-in-ladle",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Danny comes over to borrow a ____ while Rachel hides from him.",
+    "answer": "Ladle",
+    "explanation": "Danny stops by to borrow a ladle while Rachel hides from him.",
+    "source": {
+      "episode": "S05E07",
+      "url": "https://www.livesinabox.com/friends/season5/507rmi.htm",
+      "evidence": "Danny stops by to borrow a ladle while Rachel hides from him."
+    },
+    "reviewed": true,
+    "aliases": ["A ladle"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2091",
+    "factId": "thanksgivings-carol-sports",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: At Thanksgiving, Ross proudly tells Chandler that Carol plays ____.",
+    "answer": "Lacrosse and golf",
+    "explanation": "Ross proudly says Carol plays both lacrosse and golf.",
+    "source": {
+      "episode": "S05E08",
+      "url": "https://www.livesinabox.com/friends/season5/508towtf.htm",
+      "evidence": "Ross proudly says Carol plays both lacrosse and golf."
+    },
+    "reviewed": true,
+    "aliases": ["Golf and lacrosse"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2092",
+    "factId": "thanksgivings-wicker-shoes",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: When a knife injures Chandler's toe, Jack points out that Chandler's shoes are made of ____.",
+    "answer": "Wicker",
+    "explanation": "Jack cites the wicker shoes when the doctor notes the knife went through them.",
+    "source": {
+      "episode": "S05E08",
+      "url": "https://www.livesinabox.com/friends/season5/508towtf.htm",
+      "evidence": "Jack cites the wicker shoes when the doctor notes the knife went through them."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2093",
+    "factId": "sandwich-new-school",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe enrolls in a literature class at ____.",
+    "answer": "The New School",
+    "explanation": "Phoebe identifies her course as a literature class at the New School.",
+    "source": {
+      "episode": "S05E09",
+      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
+      "evidence": "Phoebe identifies her course as a literature class at the New School."
+    },
+    "reviewed": true,
+    "aliases": ["New School"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2094",
+    "factId": "sandwich-wuthering",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe must finish reading ____ before her first literature class.",
+    "answer": "Wuthering Heights",
+    "explanation": "Phoebe must finish Wuthering Heights before the first class session.",
+    "source": {
+      "episode": "S05E09",
+      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
+      "evidence": "Phoebe must finish Wuthering Heights before the first class session."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2095",
+    "factId": "sandwich-vogue-instead",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel admits she read ____ instead of completing Jane Eyre.",
+    "answer": "Vogue",
+    "explanation": "Rachel admits her reading time went to Vogue rather than Jane Eyre.",
+    "source": {
+      "episode": "S05E09",
+      "url": "https://www.livesinabox.com/friends/season5/509towrs.htm",
+      "evidence": "Rachel admits her reading time went to Vogue rather than Jane Eyre."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2096",
+    "factId": "vegas-breakfast-mimosa",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: At breakfast during the Las Vegas trip, Phoebe has been drinking ____.",
+    "answer": "Mimosas",
+    "explanation": "Phoebe has been drinking mimosas at breakfast.",
+    "source": {
+      "episode": "S06E01",
+      "url": "https://www.livesinabox.com/friends/season6/601vegas.htm",
+      "evidence": "Phoebe has been drinking mimosas at breakfast."
+    },
+    "reviewed": true,
+    "aliases": ["Mimosa"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2097",
+    "factId": "denial-coconut-hair",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During a hug, Ross notices that Rachel's hair smells of ____.",
+    "answer": "Coconut",
+    "explanation": "Ross admits noticing the coconut smell of Rachel's hair during their hug.",
+    "source": {
+      "episode": "S06E03",
+      "url": "https://www.livesinabox.com/friends/season6/603towrd.htm",
+      "evidence": "Ross admits noticing the coconut smell of Rachel's hair during their hug."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2098",
+    "factId": "denial-guest-sleigh-bed",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica describes wanting a ____ bed with matching bedside tables.",
+    "answer": "Mahogany sleigh",
+    "explanation": "Monica describes a mahogany sleigh bed with bedside tables.",
+    "source": {
+      "episode": "S06E03",
+      "url": "https://www.livesinabox.com/friends/season6/603towrd.htm",
+      "evidence": "Monica describes a mahogany sleigh bed with bedside tables."
+    },
+    "reviewed": true,
+    "aliases": ["A mahogany sleigh"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2099",
+    "factId": "ross-lecture-sediment-topic",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: In his lecture notes, Ross reads about theories of ____.",
+    "answer": "Sediment flow rate",
+    "explanation": "Ross reads from notes about theories of sediment flow rate.",
+    "source": {
+      "episode": "S06E04",
+      "url": "https://www.livesinabox.com/friends/season6/604jlhi.htm",
+      "evidence": "Ross reads from notes about theories of sediment flow rate."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2100",
+    "factId": "porsche-zone-defense",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler proposes a ____ approach rather than assigning one adult to each triplet.",
+    "answer": "Zone defense",
+    "explanation": "Chandler proposes switching from one adult per baby to a zone defense.",
+    "source": {
+      "episode": "S06E05",
+      "url": "https://www.livesinabox.com/friends/season6/605towjp.htm",
+      "evidence": "Chandler proposes switching from one adult per baby to a zone defense."
+    },
+    "reviewed": true,
+    "aliases": ["Zone defence"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2101",
+    "factId": "running-ross-potato-famine",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler remembers Ross ruining a date by talking endlessly about ____.",
+    "answer": "The Irish potato famine",
+    "explanation": "Chandler remembers Ross failing to stop talking about the Irish potato famine.",
+    "source": {
+      "episode": "S06E07",
+      "url": "https://www.livesinabox.com/friends/season6/607towpr.htm",
+      "evidence": "Chandler remembers Ross failing to stop talking about the Irish potato famine."
+    },
+    "reviewed": true,
+    "aliases": ["Irish potato famine"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2102",
+    "factId": "teeth-potpourri-pantyhose",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica uses old ____ to hold potpourri in drawers.",
+    "answer": "Pantyhose",
+    "explanation": "Monica uses old pantyhose to hold potpourri for drawers.",
+    "source": {
+      "episode": "S06E08",
+      "url": "https://www.livesinabox.com/friends/season6/608towrt.htm",
+      "evidence": "Monica uses old pantyhose to hold potpourri for drawers."
+    },
+    "reviewed": true,
+    "aliases": ["Tights"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2103",
+    "factId": "thanksgiving-jack-condensed-milk",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe points out that the can Jack is drinking from contains ____.",
+    "answer": "Condensed milk",
+    "explanation": "Phoebe notices that the can Jack holds contains condensed milk.",
+    "source": {
+      "episode": "S06E09",
+      "url": "https://www.livesinabox.com/friends/season6/609rgh.htm",
+      "evidence": "Phoebe notices that the can Jack holds contains condensed milk."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2104",
+    "factId": "routine-chandler-bookends-gift",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler explains that the unfamiliar metal letters among his belongings are ____.",
+    "answer": "Bookends",
+    "explanation": "Chandler explains that the unfamiliar metal letters are bookends.",
+    "source": {
+      "episode": "S06E10",
+      "url": "https://www.livesinabox.com/friends/season6/610towtr.htm",
+      "evidence": "Chandler explains that the unfamiliar metal letters are bookends."
+    },
+    "reviewed": true,
+    "aliases": ["Book ends"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2105",
+    "factId": "book-jack-internet-ice",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Judy says Jack lost money trying to sell ____ online.",
+    "answer": "Ice",
+    "explanation": "Judy blames part of their lost money on Jack's online ice-selling idea.",
+    "source": {
+      "episode": "S07E02",
+      "url": "https://www.livesinabox.com/friends/season7/702towrb.htm",
+      "evidence": "Judy blames part of their lost money on Jack's online ice-selling idea."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2106",
+    "factId": "assistants-macaroni-box",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross reveals that Monica ate the ____ decorating her childhood jewelry box.",
+    "answer": "Macaroni",
+    "explanation": "Ross reveals that Monica ate the macaroni decorating her jewelry box.",
+    "source": {
+      "episode": "S07E04",
+      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
+      "evidence": "Ross reveals that Monica ate the macaroni decorating her jewelry box."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2107",
+    "factId": "assistants-ross-golden-girls",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica reveals Ross used to watch ____ every week.",
+    "answer": "The Golden Girls",
+    "explanation": "Monica exposes Ross's weekly Golden Girls viewing habit.",
+    "source": {
+      "episode": "S07E04",
+      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
+      "evidence": "Monica exposes Ross's weekly Golden Girls viewing habit."
+    },
+    "reviewed": true,
+    "aliases": ["Golden Girls"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2108",
+    "factId": "assistants-tag-house-painting",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Tag's résumé lists three years of experience ____.",
+    "answer": "Painting houses",
+    "explanation": "Rachel reads three years of house painting on Tag's sparse résumé.",
+    "source": {
+      "episode": "S07E04",
+      "url": "https://www.livesinabox.com/friends/season7/704towra.htm",
+      "evidence": "Rachel reads three years of house painting on Tag's sparse résumé."
+    },
+    "reviewed": true,
+    "aliases": ["House painting"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2109",
+    "factId": "nap-blue-borrowed-garter",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel offers Monica the blue ____ she saved from her own wedding plans.",
+    "answer": "Garter",
+    "explanation": "Rachel saved a blue garter from her own wedding plans for Monica.",
+    "source": {
+      "episode": "S07E06",
+      "url": "https://www.livesinabox.com/friends/season7/706my100.htm",
+      "evidence": "Rachel saved a blue garter from her own wedding plans for Monica."
+    },
+    "reviewed": true,
+    "aliases": ["A garter"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2110",
+    "factId": "dogs-tag-stuffed-pumpkin",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: For Thanksgiving, Monica makes Tag a pumpkin stuffed with ____.",
+    "answer": "Sweet potato",
+    "explanation": "Monica made Tag his own pumpkin stuffed with sweet potato.",
+    "source": {
+      "episode": "S07E08",
+      "url": "https://www.livesinabox.com/friends/season7/708cdld.htm",
+      "evidence": "Monica made Tag his own pumpkin stuffed with sweet potato."
+    },
+    "reviewed": true,
+    "aliases": ["Sweet potatoes"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2111",
+    "factId": "armadillo-texas-origin",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica improvises ____ as the Holiday Armadillo's home state.",
+    "answer": "Texas",
+    "explanation": "Monica improvises Texas as the armadillo's home.",
+    "source": {
+      "episode": "S07E10",
+      "url": "https://www.livesinabox.com/friends/season7/710towha.htm",
+      "evidence": "Monica improvises Texas as the armadillo's home."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2112",
+    "factId": "armadillo-skylight-wall",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Phoebe's renovated apartment cannot easily be split into two bedrooms because of its new ____.",
+    "answer": "Skylight",
+    "explanation": "The new skylight makes putting the dividing wall back impractical.",
+    "source": {
+      "episode": "S07E10",
+      "url": "https://www.livesinabox.com/friends/season7/710towha.htm",
+      "evidence": "The new skylight makes putting the dividing wall back impractical."
+    },
+    "reviewed": true,
+    "aliases": ["A skylight"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2113",
+    "factId": "date-kash-butter-pecan",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Rachel knows Kash's favorite ice-cream flavor is ____.",
+    "answer": "Butter pecan",
+    "explanation": "Rachel recites Kash's preference for butter pecan while trying to make conversation.",
+    "source": {
+      "episode": "S08E05",
+      "url": "https://www.livesinabox.com/friends/season8/805towrd.htm",
+      "evidence": "Rachel recites Kash's preference for butter pecan while trying to make conversation."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2114",
+    "factId": "date-ross-hardrock-display",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler accuses Ross of returning to a music-themed restaurant for the ____ display.",
+    "answer": "Purple Rain",
+    "explanation": "Chandler accuses Ross of returning for the Purple Rain display rather than the food.",
+    "source": {
+      "episode": "S08E05",
+      "url": "https://www.livesinabox.com/friends/season8/805towrd.htm",
+      "evidence": "Chandler accuses Ross of returning for the Purple Rain display rather than the food."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2115",
+    "factId": "stripper-pierone-artifact",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After Mona knocks over a supposedly exotic object, Ross admits he bought it at ____.",
+    "answer": "Pier 1",
+    "explanation": "After Mona knocks it over, Ross admits it came from Pier 1.",
+    "source": {
+      "episode": "S08E08",
+      "url": "https://www.livesinabox.com/friends/season8/808strip.htm",
+      "evidence": "After Mona knocks it over, Ross admits it came from Pier 1."
+    },
+    "reviewed": true,
+    "aliases": ["Pier One", "Pier 1 Imports"],
+    "allowTypo": false
+  },
+  {
+    "id": "friends-2116",
+    "factId": "boots-bobby-band-genre",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Bobby describes his band's musical style as ____.",
+    "answer": "Gangster rap",
+    "explanation": "Bobby describes the band as straight-up gangster rap.",
+    "source": {
+      "episode": "S08E10",
+      "url": "https://www.livesinabox.com/friends/season8/810boots.htm",
+      "evidence": "Bobby describes the band as straight-up gangster rap."
+    },
+    "reviewed": true,
+    "aliases": ["Gangsta rap"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2117",
+    "factId": "cries-monica-musical",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Monica invokes the musical ____ when objecting to Chandler's relocation.",
+    "answer": "Oklahoma!",
+    "explanation": "Monica uses the musical Oklahoma! in her objection to relocating.",
+    "source": {
+      "episode": "S09E02",
+      "url": "https://www.livesinabox.com/friends/season9/902towec.htm",
+      "evidence": "Monica uses the musical Oklahoma! in her objection to relocating."
+    },
+    "reviewed": true,
+    "aliases": ["Oklahoma"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2118",
+    "factId": "pediatrician-waldo-elephant",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Ross spots Waldo hiding ____ in the puzzle picture.",
+    "answer": "Behind the elephant",
+    "explanation": "Ross identifies Waldo's hiding place behind the elephant.",
+    "source": {
+      "episode": "S09E03",
+      "url": "https://www.livesinabox.com/friends/season9/903ped.htm",
+      "evidence": "Ross identifies Waldo's hiding place behind the elephant."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2119",
+    "factId": "nanny-hot-cross-buns",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey identifies Sandy's recorder tune as ____.",
+    "answer": "Hot Cross Buns",
+    "explanation": "Joey identifies the tune as Hot Cross Buns, though Ross thinks it sounds different.",
+    "source": {
+      "episode": "S09E06",
+      "url": "https://www.livesinabox.com/friends/season9/906nanny.htm",
+      "evidence": "Joey identifies the tune as Hot Cross Buns, though Ross thinks it sounds different."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2120",
+    "factId": "phone-lager-research",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During his awkward evening with Mike, Ross proposes looking up the difference between ____.",
+    "answer": "Beer and lager",
+    "explanation": "Ross suggests looking up the difference after calling Mike's beer a lager.",
+    "source": {
+      "episode": "S09E09",
+      "url": "https://www.livesinabox.com/friends/season9/909rachelnumber.htm",
+      "evidence": "Ross suggests looking up the difference after calling Mike's beer a lager."
+    },
+    "reviewed": true,
+    "aliases": ["Lager and beer"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2121",
+    "factId": "christmas-wendy-job",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Chandler identifies his Tulsa coworker Wendy's position as ____.",
+    "answer": "Regional vice president",
+    "explanation": "Chandler identifies Wendy as a regional vice president reporting below him.",
+    "source": {
+      "episode": "S09E10",
+      "url": "https://www.livesinabox.com/friends/season9/910xmas.htm",
+      "evidence": "Chandler identifies Wendy as a regional vice president reporting below him."
+    },
+    "reviewed": true,
+    "aliases": ["Regional vice-president"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2122",
+    "factId": "grant-human-hair-box",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: After giving up Gladys, Phoebe is pleased she can still keep her box of ____.",
+    "answer": "Human hair",
+    "explanation": "Phoebe says she gave up Gladys but can keep her box of human hair.",
+    "source": {
+      "episode": "S10E06",
+      "url": "https://www.livesinabox.com/friends/1006.shtml",
+      "evidence": "Phoebe says she gave up Gladys but can keep her box of human hair."
+    },
+    "reviewed": true,
+    "aliases": [],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2123",
+    "factId": "grant-painted-desert",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: During dinner with Benjamin, Ross proposes conducting a dig in ____.",
+    "answer": "The Painted Desert",
+    "explanation": "Ross begins describing proposed work in the Painted Desert before Benjamin interrupts.",
+    "source": {
+      "episode": "S10E06",
+      "url": "https://www.livesinabox.com/friends/1006.shtml",
+      "evidence": "Ross begins describing proposed work in the Painted Desert before Benjamin interrupts."
+    },
+    "reviewed": true,
+    "aliases": ["Painted Desert"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2124",
+    "factId": "late-brussels-sprouts",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Before the late Thanksgiving dinner, Monica has left ____ in the oven.",
+    "answer": "Brussels sprouts",
+    "explanation": "Monica had left Brussels sprouts in their oven.",
+    "source": {
+      "episode": "S10E08",
+      "url": "https://www.livesinabox.com/friends/1008.shtml",
+      "evidence": "Monica had left Brussels sprouts in their oven."
+    },
+    "reviewed": true,
+    "aliases": ["Brussel sprouts"],
+    "allowTypo": true
+  },
+  {
+    "id": "friends-2125",
+    "factId": "birth-raspberry-coulis",
+    "difficulty": "Extra Hard",
+    "kind": "typed",
+    "prompt": "Fill in the blank: Joey complains about the ____ served on his cheesecake.",
+    "answer": "Raspberry coulis",
+    "explanation": "Joey objects to the raspberry coulis on his cheesecake.",
+    "source": {
+      "episode": "S10E09",
+      "url": "https://www.livesinabox.com/friends/1009.shtml",
+      "evidence": "Joey objects to the raspberry coulis on his cheesecake."
+    },
+    "reviewed": true,
+    "aliases": [],
     "allowTypo": true
   }
 ]

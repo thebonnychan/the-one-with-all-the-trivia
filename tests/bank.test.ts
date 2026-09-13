@@ -89,3 +89,30 @@ it("allows one typed variant of a multiple-choice fact but rejects duplicate var
     "Question 5: duplicate factId.",
   );
 });
+
+it("keeps explicit first-name and surname recall rare in Friends Extra Hard", () => {
+  const typed = questions.filter((q) => q.difficulty === "Extra Hard");
+  expect(typed).toHaveLength(500);
+  const nameRecall = typed.filter((q) =>
+    /first name|full name|surname/i.test(q.prompt),
+  );
+  // Editorial guardrail for the user's request; broader name questions still
+  // need human review because wording alone cannot classify every answer.
+  expect(nameRecall.length).toBeLessThanOrEqual(15);
+});
+
+it("gives replacement Friends questions new IDs and pairs each with one reviewed Hard fact", () => {
+  const replacements = questions.filter((q) => Number(q.id.slice(8)) > 2000);
+  expect(replacements).toHaveLength(125);
+  for (const question of replacements) {
+    expect(question.kind).toBe("typed");
+    expect(question.difficulty).toBe("Extra Hard");
+    expect(question.prompt).toContain("____");
+    const partners = questions.filter(
+      (other) => other.factId === question.factId && other.id !== question.id,
+    );
+    expect(partners).toHaveLength(1);
+    expect(partners[0].difficulty).toBe("Hard");
+    expect(question.source).toEqual(partners[0].source);
+  }
+});

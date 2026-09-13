@@ -2,7 +2,7 @@
 
 ## Project & Permanent Requirements
 
-**The One With All the Trivia** is a fan-made Friends trivia web application. Preserve all requirements in this guide during future changes unless the user explicitly instructs otherwise.
+**TV Trivia** is a fan-made multi-series trivia web application. The Friends game retains the name **The One With All the Trivia**. Preserve all requirements in this guide during future changes unless the user explicitly instructs otherwise.
 
 ## Technology & Deployment
 
@@ -13,8 +13,10 @@
 
 ## Question Bank
 
-- Maintain at least 2,000 real, high-quality Friends trivia questions. Never use placeholder questions.
+- Maintain at least 2,000 Friends questions and 1,000 Bob's Burgers TV questions (250 per difficulty), covering seasons 1–16 at this release and excluding the movie. Never use placeholder questions.
 - Questions must be factually accurate, unambiguous, and appropriately categorized by difficulty. Extra Hard may reuse a multiple-choice fact as a fill-in-the-blank question; otherwise keep facts unique.
+- Avoid answer giveaways in prompts and episode titles. In Bob's Burgers prompts, use neutral wording such as “person” rather than “sister”; do not narrow character answers with unnecessary relationship clues.
+- Keep Friends Extra Hard varied: emphasize objects, locations, food, dialogue, and events rather than minor-character name recall. Keep explicit first-name/full-name/surname prompts rare (at most 15 in the current 500-question tier). Use fresh IDs when replacing facts so saved history treats replacements as unseen.
 - Players must not select trivia categories.
 
 ## Game Rules
@@ -24,13 +26,19 @@
 - Mix Classic contains exactly 6 Easy, 6 Medium, 7 Hard, and 6 Extra Hard questions, in that order. Questions 1–19 use multiple choice; questions 20–25 use typed Extra Hard answers.
 - Endless has no difficulty selector. Shuffle all difficulties together across the complete bank with no repeated question IDs within a run; end explicitly when exhausted. Store its high score separately from Classic records.
 
-## Home Screen
+## Series Selection & Navigation
+
+Start with “TV Trivia”, “Choose your series”, and buttons for Friends and Bob's Burgers. Bob's Burgers uses “Lettuce Do Trivia.” and “You're terrible. You're all terrible.” Keep shared layouts with subtle original show-specific styling. Load the selected local bank on demand. Keep scores and history separate per show, preserving the original Friends storage keys.
+
+Home returns to series selection. Inside a quiz, show Home / Show name navigation; the show name returns to that show's setup. Confirm before abandoning an active run.
+
+## Show Setup Screen
 
 Keep the home screen concise: title, subtitle, mode controls, Classic-only difficulty controls, start button, Best Classic score, and High Score · Endless Mode. Omit promotional eyebrows, challenge headings, bank counts, season counts, and the all-mode best-streak record.
 
 ## Design & Accessibility
 
-Use an original, cozy 1990s New York-inspired aesthetic. Do not reproduce the official Friends logo, promotional artwork, screenshots, episode stills, or other copyrighted visual assets. The app must be responsive, accessible, keyboard-friendly, and mobile-first.
+Use an original Friends aesthetic with white surfaces, black text, and red, teal, and yellow accents and a bright yellow, bold red, and charcoal Bob's Burgers palette with warm light surfaces. Do not reproduce the official Friends logo, promotional artwork, screenshots, episode stills, or other copyrighted visual assets. The app must be responsive, accessible, keyboard-friendly, and mobile-first.
 
 ## Development & Validation
 

@@ -1,3 +1,4 @@
+import { storageKey, type SeriesId } from "../series";
 import type { DifficultySelection, Session } from "./types";
 
 export const RECORDS_KEY = "the-one-with-all-the-trivia.records.v1";
@@ -44,9 +45,11 @@ export function parseRecords(raw: string | null): Records {
     return emptyRecords();
   }
 }
-export function readRecords(): Records {
+export function readRecords(series: SeriesId = "friends"): Records {
   try {
-    return parseRecords(window.localStorage.getItem(RECORDS_KEY));
+    return parseRecords(
+      window.localStorage.getItem(storageKey(RECORDS_KEY, series)),
+    );
   } catch {
     return emptyRecords();
   }
@@ -68,9 +71,15 @@ export function recordSession(records: Records, session: Session): Records {
     bestStreak: Math.max(records.bestStreak, session.bestStreak),
   };
 }
-export function saveRecords(records: Records): boolean {
+export function saveRecords(
+  records: Records,
+  series: SeriesId = "friends",
+): boolean {
   try {
-    window.localStorage.setItem(RECORDS_KEY, JSON.stringify(records));
+    window.localStorage.setItem(
+      storageKey(RECORDS_KEY, series),
+      JSON.stringify(records),
+    );
     return true;
   } catch {
     return false;

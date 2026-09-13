@@ -1,10 +1,18 @@
 import type { Metadata } from "next";
+import localFont from "next/font/local";
 import "./globals.css";
 
+const titleFont = localFont({
+  src: "./fonts/Kalam-Bold.ttf",
+  variable: "--font-tv-title",
+  weight: "700",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
-  title: "The One With All the Trivia",
+  title: "TV Trivia",
   description:
-    "A free fan-made Friends trivia game with a local question bank, Classic and Endless modes, and a challenge for every rewatch.",
+    "Free Friends and Bob’s Burgers trivia with local question banks, Classic and Endless modes, and a challenge for every rewatch.",
 };
 
 export default function RootLayout({
@@ -12,7 +20,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body>
+      <body className={titleFont.variable}>
         <a className="skip-link" href="#main">
           Skip to content
         </a>

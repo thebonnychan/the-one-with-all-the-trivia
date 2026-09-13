@@ -46,3 +46,25 @@ Simplified the home screen, limited difficulty selection to Classic, shuffled al
 All 72 automated tests cover these changes, including production-bank alias regression checks, full Endless exhaustion, history cycles, and independent score persistence.
 
 The final lint, TypeScript, formatting, structural/launch validation, and GitHub Pages static build passed. Browser smoke checks confirmed Classic-only difficulty controls, Hard-to-Easy Endless shuffling, an independently saved Endless score after reload, preserved Classic records, and fresh Classic questions across a reload. The narrow mobile preview had no horizontal overflow, and the browser reported no console errors.
+
+## Multi-series release — September 12, 2026
+
+Added the TV Trivia series picker and preserved the Friends experience inside it. `lib/series.ts` defines metadata and dynamically imports the selected local bank; the picker does not need either bank to render. Each mounted show owns its game state. Home and show breadcrumbs use the existing native confirmation dialog before abandoning a run, with destination-specific wording. Results return to the current show's setup.
+
+Friends keeps its original storage keys. Bob's Burgers uses separate suffixed keys for scores and Classic history. Its 500 source-reviewed TV questions contain 125 entries per difficulty across seasons 1–16, excluding the movie; 125 are permitted typed variants of Hard facts. See the editorial guide for the source-review method and limits.
+
+The expanded 84-test suite passes, including all Bob's Burgers Classic modes, exact Mix ordering, all 500 Endless answers, every typed alias, both bank minima, all 16 seasons, preserved legacy records, and storage isolation. Lint, TypeScript, structural and launch bank checks, and the GitHub Pages build also passed. Browser checks confirmed the chosen title/subtitle, series switching, correct feedback, typed Enter submission (including the short numeric alias “100”), cancellation preserving an answered question, and existing Friends records (23/25 Mix and 22 Endless) remaining intact.
+
+Final browser checks also verified the new destination-specific leave prompt, an independent Bob's Burgers Endless score persisting after reload, no horizontal overflow at 319px or 1280px, and no browser console errors. Both banks are separate lazy-loaded JavaScript chunks and are absent from the initial HTML script list. No deployment was performed.
+
+## Bob's Burgers expansion to 1,000 questions
+
+Added 375 new source-reviewed multiple-choice facts and 125 typed Hard variants, bringing the bank to 1,000 entries with 250 per difficulty. New references use individual Wikipedia episode plot articles; the editorial guide describes coverage and review limitations. Existing question IDs and fact keys remain stable. Revised prompts remove “sister” clues, and the earlier Easy-question giveaway fixes remain intact.
+
+Validation: all 91 tests, lint, TypeScript, structural and launch checks, and the GitHub Pages static export passed. Regression tests cover neutral prompt wording, numeric aliases, and existing Classic history selecting unseen additions before repeats. Endless simulation exhausts all 1,000 IDs. The rebuilt browser preview loads the bank and displays 1,000 remaining at the start of Endless; navigation back to show setup works. The bank's separate lazy-loaded asset is approximately 503 KB raw / 100 KB gzipped. Friends data is unchanged.
+
+## Friends Extra Hard variety
+
+Replaced 125 explicit name-recall questions with original fill-in-the-blank prompts derived from existing reviewed Hard facts. First-name/full-name/surname prompts fall from 137 to 12; the bank retains 2,000 questions and 500 per tier. Replacements have new IDs so existing Classic history does not mark them as seen. Unchanged entries, all multiple-choice tiers, and Bob's Burgers data remain untouched by this update.
+
+All 93 tests, lint, TypeScript, structural and launch bank validation, and the GitHub Pages static build passed. Added regression coverage for the name-question limit and correctly paired Hard/Extra Hard facts. Existing production tests verify typed aliases and full mode playthroughs. No photographic assets were added.

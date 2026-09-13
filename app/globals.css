@@ -1054,3 +1054,253 @@ legend {
     scroll-behavior: auto !important;
   }
 }
+
+/* Friends: monochrome surfaces with red, teal, and yellow accents. */
+.theme-friends {
+  --paper: #f7f7f5;
+  --ink: #191919;
+  --muted: #626262;
+  --purple: #191919;
+  --purple-dark: #333333;
+  --lilac: #e6f5f3;
+  --yellow: #f5d641;
+  --teal: #087d80;
+  --orange: #c92740;
+  --line: #d5d9d8;
+  color: var(--ink);
+}
+body:has(.app-shell.theme-friends) {
+  background: #f7f7f5;
+}
+.theme-friends .setup-card,
+.theme-friends .question-card,
+.theme-friends .results-card,
+.theme-friends .dialog {
+  background: #ffffff;
+  box-shadow: 0 12px 38px #19191908;
+}
+.theme-friends .brand-symbol,
+.theme-friends .welcome h1 em,
+.theme-friends .mix-option .difficulty-mark,
+.theme-friends .result-star {
+  color: var(--orange);
+}
+.theme-friends .mode-option.selected,
+.theme-friends .difficulty-option.selected {
+  background: var(--lilac);
+  border-color: var(--teal);
+}
+.theme-friends .mode-option input {
+  accent-color: var(--teal);
+}
+.theme-friends .selected .radio-dot {
+  border-color: var(--teal);
+}
+.theme-friends .button.primary {
+  box-shadow: 0 3px 0 #080808;
+}
+.theme-friends .button.secondary,
+.theme-friends .typed-form input,
+.theme-friends .answer-button:not(.correct):not(.incorrect):not(:hover) {
+  border-color: var(--line);
+}
+.theme-friends .progress-bar {
+  background: #e2e7e6;
+}
+.theme-friends .progress-bar::-webkit-progress-bar {
+  background: #e2e7e6;
+}
+.theme-friends .progress-bar::-webkit-progress-value {
+  background: var(--teal);
+}
+.theme-friends .progress-bar::-moz-progress-bar {
+  background: var(--teal);
+}
+.theme-friends .extra-transition,
+.theme-friends .typed-form input:disabled {
+  background: var(--lilac);
+}
+.theme-friends .button:disabled {
+  background: #e2e7e6;
+  color: var(--muted);
+  box-shadow: none;
+}
+.theme-friends .dialog::backdrop {
+  background: #19191985;
+}
+
+/* Original styling using the reference's yellow, red, and charcoal palette. */
+.theme-bobs-burgers {
+  --paper: #f8e64c;
+  --ink: #292929;
+  --muted: #61513c;
+  --purple: #c8102e;
+  --purple-dark: #a30d25;
+  --lilac: #fff3ac;
+  --yellow: #f8e64c;
+  --teal: #365a31;
+  --orange: #292929;
+  --line: #cebd76;
+  color: var(--ink);
+}
+body:has(.app-shell.theme-bobs-burgers) {
+  background: #f8e64c;
+}
+.theme-bobs-burgers .setup-card,
+.theme-bobs-burgers .question-card,
+.theme-bobs-burgers .results-card,
+.theme-bobs-burgers .dialog {
+  background: #fffdf0;
+}
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.breadcrumb .text-button {
+  text-decoration: none;
+  color: var(--ink);
+}
+.series-selection {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 64px 0;
+  text-align: center;
+}
+.series-selection h1 {
+  font-size: clamp(3rem, 8vw, 5rem);
+  color: var(--purple);
+  letter-spacing: -0.04em;
+}
+.series-selection .tv-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65em;
+  color: #292929;
+  font-family: var(--font-tv-title), cursive;
+  font-size: clamp(2rem, 9vw, 5.25rem);
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+.tv-title-word,
+.tv-title-letter {
+  display: inline-flex;
+  align-items: center;
+}
+.tv-title-letter > span {
+  display: inline-block;
+  transform: rotate(-5deg);
+}
+.tv-title-letter:nth-child(even) > span {
+  transform: rotate(4deg) translateY(0.025em);
+}
+.tv-title-dot {
+  width: 0.105em;
+  height: 0.105em;
+  flex-shrink: 0;
+  border-radius: 50%;
+  margin: 0 0.075em;
+  background: #f1c62e;
+}
+.tv-title-dot.dot-1 {
+  background: #e83f3b;
+}
+.tv-title-dot.dot-2 {
+  background: #09a9cd;
+}
+.series-selection > p {
+  margin-top: 12px;
+  color: var(--muted);
+}
+.series-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 32px;
+}
+.series-choice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 28px 16px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  color: var(--purple);
+  background: #fffdfa;
+  font-size: 1.25rem;
+}
+.series-choice > span {
+  font-size: 2rem;
+}
+.series-choice:hover:not(:disabled) {
+  border-color: var(--purple);
+  background: var(--lilac);
+}
+.series-choice:disabled {
+  opacity: 0.6;
+}
+.theme-bobs-burgers .button.primary {
+  box-shadow: 0 3px 0 var(--purple-dark);
+}
+.theme-bobs-burgers .mode-option.selected {
+  background: var(--lilac);
+}
+.series-choice.theme-bobs-burgers {
+  background: var(--yellow);
+  border-color: var(--purple);
+}
+.series-choice.theme-bobs-burgers:hover:not(:disabled) {
+  background: var(--lilac);
+}
+.series-choice.theme-friends {
+  background: #ffffff;
+  border-color: var(--line);
+}
+.series-choice.theme-friends > span {
+  color: var(--orange);
+}
+.series-choice.theme-friends:hover:not(:disabled) {
+  background: var(--lilac);
+  border-color: var(--teal);
+}
+.theme-bobs-burgers .progress-bar,
+.theme-bobs-burgers .progress-bar::-webkit-progress-bar {
+  background: #e5d58a;
+}
+.theme-bobs-burgers .button.secondary,
+.theme-bobs-burgers .typed-form input {
+  border-color: var(--line);
+}
+.theme-bobs-burgers .extra-transition,
+.theme-bobs-burgers .typed-form input:disabled {
+  background: var(--lilac);
+}
+.theme-bobs-burgers .button:disabled {
+  background: #e5dec8;
+  color: #61513c;
+  box-shadow: none;
+}
+@media (max-width: 450px) {
+  .series-selection {
+    padding: 40px 0;
+  }
+  .series-options {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-top: 24px;
+  }
+  .series-choice {
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px 16px;
+  }
+  .breadcrumb {
+    gap: 8px;
+  }
+  .breadcrumb .text-button {
+    font-size: 0.8125rem;
+  }
+}

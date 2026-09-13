@@ -1188,3 +1188,19 @@ These updates supersede earlier conflicting rules:
 - Extra Hard may reuse a multiple-choice fact as a fill-in-the-blank version. Retain unique IDs and prompts; a fact key may occur once per answer kind.
 - Accept an ordered majority of canonical answer words without additional wrong words, omitted numbers, or omitted negation. Continue explicit aliases and conservative typo matching. Add requested aliases for “9th” and “cavemen.” “One seventieth” accepts “1/70” and rejects “1/17”, as clarified by the user.
 - Persist Classic history and Endless high scores in localStorage, gracefully continuing in memory if storage is unavailable. Existing Classic records remain valid.
+
+## Multi-series update — September 12, 2026
+
+This update supersedes earlier Friends-only interface assumptions. Start with “TV Trivia”, the subtitle “Choose your series”, and Friends / Bob's Burgers selection buttons. Both shows use the existing Classic and Endless rules and compact layout. Friends retains its current title and records. Bob's Burgers uses “Lettuce Do Trivia.” with “You're terrible. You're all terrible.” and a subtle original diner palette.
+
+Bob's Burgers launches with 500 locally stored, source-reviewed TV questions: 125 Easy, 125 Medium, 125 Hard, and 125 typed Extra Hard. Cover all released TV seasons (1–16 at this release), excluding the movie. Extra Hard may reuse multiple-choice facts in fill-in-the-blank form.
+
+Load only the selected show's bank. Scores and Classic history are independent for each show; keep legacy Friends storage keys. Home goes to series selection. During quizzes, Home / Show name navigation allows a return to the picker or show setup, respectively, after leave confirmation. Cancelling preserves the current quiz. GitHub Pages and static export remain mandatory.
+
+## Approved Bob's Burgers expansion — September 12, 2026
+
+Increase the local Bob's Burgers bank to 1,000 questions: 250 per difficulty, including 250 typed Extra Hard variants. Preserve existing question IDs, Classic history, and all shared game rules. Avoid “sister” in question prompts and use neutral scene descriptions rather than relationship clues that make character answers obvious. Preserve the earlier Easy-question giveaway fixes.
+
+## Approved Friends Extra Hard variety update — September 13, 2026
+
+Reduce the reliance on remembering people's names. Prefer a varied text-only bank of objects, places, foods, dialogue, and scene details. The revised tier replaces 125 name questions with typed variants of reviewed Hard facts, retains 500 Extra Hard questions, and limits explicit first/full-name/surname prompts to 15. Retain original styling without requiring character photos.
