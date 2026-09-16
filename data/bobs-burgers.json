@@ -6794,7 +6794,7 @@
     "factId": "bobs-fact-0005",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise starts the rumor during ____. (Human Flesh)",
+    "prompt": "Louise starts the rumor during ____. (Human Flesh)",
     "answer": "Show and tell",
     "explanation": "Louise starts the rumor during show and tell.",
     "source": {
@@ -6811,7 +6811,7 @@
     "factId": "bobs-fact-0014",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise breaks the ____ before Tina's party. (Sheesh! Cab, Bob?)",
+    "prompt": "Louise breaks the ____ before Tina's party. (Sheesh! Cab, Bob?)",
     "answer": "The deep fryer",
     "explanation": "Louise breaks the deep fryer before Tina's party.",
     "source": {
@@ -6828,7 +6828,7 @@
     "factId": "bobs-fact-0016",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise plants ____ to keep track of the guests. (Bed & Breakfast)",
+    "prompt": "Louise plants ____ to keep track of the guests. (Bed & Breakfast)",
     "answer": "Listening devices",
     "explanation": "Louise plants listening devices to keep track of the guests.",
     "source": {
@@ -6845,7 +6845,7 @@
     "factId": "bobs-fact-0018",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The ____ tries to control the art shown around town. (Art Crawl)",
+    "prompt": "The ____ tries to control the art shown around town. (Art Crawl)",
     "answer": "The Art Council",
     "explanation": "The Art Council tries to control the art shown around town.",
     "source": {
@@ -6862,7 +6862,7 @@
     "factId": "bobs-fact-0020",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina acts aggressively during a ____ program. (Spaghetti Western and Meatballs)",
+    "prompt": "Tina acts aggressively during a ____ program. (Spaghetti Western and Meatballs)",
     "answer": "Conflict resolution",
     "explanation": "Tina acts aggressively during a conflict resolution program.",
     "source": {
@@ -6879,7 +6879,7 @@
     "factId": "bobs-fact-0023",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Jimmy wants space for ____. (Burger War)",
+    "prompt": "Jimmy wants space for ____. (Burger War)",
     "answer": "His gift shop",
     "explanation": "Jimmy wants space for his gift shop.",
     "source": {
@@ -6896,7 +6896,7 @@
     "factId": "bobs-fact-0026",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina watches her siblings in ____. (Weekend at Mort's)",
+    "prompt": "Tina watches her siblings in ____. (Weekend at Mort's)",
     "answer": "Mort's crematorium",
     "explanation": "Tina watches her siblings in Mort's crematorium.",
     "source": {
@@ -6913,7 +6913,7 @@
     "factId": "bobs-fact-0029",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob admires the baseball player Torpedo ____. (Torpedo)",
+    "prompt": "Bob admires the baseball player Torpedo ____. (Torpedo)",
     "answer": "Jones",
     "explanation": "Bob admires the baseball player Torpedo Jones.",
     "source": {
@@ -6930,7 +6930,7 @@
     "factId": "bobs-fact-0031",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The ____ puts the children's treasure hunt on a deadline. (The Belchies)",
+    "prompt": "The ____ puts the children's treasure hunt on a deadline. (The Belchies)",
     "answer": "The factory's demolition",
     "explanation": "The factory's demolition puts the children's treasure hunt on a deadline.",
     "source": {
@@ -6947,7 +6947,7 @@
     "factId": "bobs-fact-0034",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob installs a ____ at the restaurant. (Synchronized Swimming)",
+    "prompt": "Bob installs a ____ at the restaurant. (Synchronized Swimming)",
     "answer": "A soft-serve machine",
     "explanation": "Bob installs a soft-serve machine at the restaurant.",
     "source": {
@@ -6964,7 +6964,7 @@
     "factId": "bobs-fact-0036",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Jimmy leaves the message ____ on the leaderboard. (Burgerboss)",
+    "prompt": "Jimmy leaves the message ____ on the leaderboard. (Burgerboss)",
     "answer": "BOB SUX",
     "explanation": "Jimmy leaves the message BOB SUX on the leaderboard.",
     "source": {
@@ -6981,7 +6981,7 @@
     "factId": "bobs-fact-0038",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The Belchers take their truck to ____. (Food Truckin')",
+    "prompt": "The Belchers take their truck to ____. (Food Truckin')",
     "answer": "Lolla-Pa-Foods-A-Festival",
     "explanation": "The Belchers take their truck to Lolla-Pa-Foods-A-Festival.",
     "source": {
@@ -6998,7 +6998,7 @@
     "factId": "bobs-fact-0043",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene wears a ____ mask while stealing the spotlight. (Beefsquatch)",
+    "prompt": "Gene wears a ____ mask while stealing the spotlight. (Beefsquatch)",
     "answer": "Sasquatch",
     "explanation": "Gene wears a Sasquatch mask while stealing the spotlight.",
     "source": {
@@ -7015,7 +7015,7 @@
     "factId": "bobs-fact-0045",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The bikers gather to mourn ____. (Ear-sy Rider)",
+    "prompt": "The bikers gather to mourn ____. (Ear-sy Rider)",
     "answer": "Horny Dave",
     "explanation": "The bikers gather to mourn Horny Dave.",
     "source": {
@@ -7032,7 +7032,7 @@
     "factId": "bobs-fact-0047",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy hosts a ____ Halloween party. (Full Bars)",
+    "prompt": "Teddy hosts a ____ Halloween party. (Full Bars)",
     "answer": "Black and orange",
     "explanation": "Teddy hosts a black and orange Halloween party.",
     "source": {
@@ -7049,7 +7049,7 @@
     "factId": "bobs-fact-0052",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder stages a family dinner ____. (An Indecent Thanksgiving Proposal)",
+    "prompt": "Fischoeder stages a family dinner ____. (An Indecent Thanksgiving Proposal)",
     "answer": "To make a former flame jealous",
     "explanation": "Fischoeder stages a family dinner to make a former flame jealous.",
     "source": {
@@ -7066,7 +7066,7 @@
     "factId": "bobs-fact-0056",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Courtney's father writes ____, attracting Gene's musical ambitions. (The Unbearable Like-Likeness of Gene)",
+    "prompt": "Courtney's father writes ____, attracting Gene's musical ambitions. (The Unbearable Like-Likeness of Gene)",
     "answer": "Jingles",
     "explanation": "Courtney's father writes jingles, attracting Gene's musical ambitions.",
     "source": {
@@ -7083,7 +7083,7 @@
     "factId": "bobs-fact-0057",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ is living in the storage unit Bob inherits. (God Rest Ye Merry Gentle-Mannequins)",
+    "prompt": "____ is living in the storage unit Bob inherits. (God Rest Ye Merry Gentle-Mannequins)",
     "answer": "Chet",
     "explanation": "Chet is living in the storage unit Bob inherits.",
     "source": {
@@ -7100,7 +7100,7 @@
     "factId": "bobs-fact-0060",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina asks Bob for help with ____. (Mother Daughter Laser Razor)",
+    "prompt": "Tina asks Bob for help with ____. (Mother Daughter Laser Razor)",
     "answer": "Shaving her legs",
     "explanation": "Tina asks Bob for help with shaving her legs.",
     "source": {
@@ -7117,7 +7117,7 @@
     "factId": "bobs-fact-0062",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ replaces Hugo and pressures Bob to host his music. (Nude Beach)",
+    "prompt": "____ replaces Hugo and pressures Bob to host his music. (Nude Beach)",
     "answer": "Tommy",
     "explanation": "Tommy replaces Hugo and pressures Bob to host his music.",
     "source": {
@@ -7134,7 +7134,7 @@
     "factId": "bobs-fact-0063",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The school's mysterious culprit is called the ____. (Broadcast Wagstaff School News)",
+    "prompt": "The school's mysterious culprit is called the ____. (Broadcast Wagstaff School News)",
     "answer": "The Mad Pooper",
     "explanation": "The school's mysterious culprit is called the Mad Pooper.",
     "source": {
@@ -7151,7 +7151,7 @@
     "factId": "bobs-fact-0066",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina meets a boy while restocking the ____. (Lindapendant Woman)",
+    "prompt": "Tina meets a boy while restocking the ____. (Lindapendant Woman)",
     "answer": "The milk fridge",
     "explanation": "Tina meets a boy while restocking the milk fridge.",
     "source": {
@@ -7168,7 +7168,7 @@
     "factId": "bobs-fact-0068",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The experiment centers on an elephant named ____. (Topsy)",
+    "prompt": "The experiment centers on an elephant named ____. (Topsy)",
     "answer": "Topsy",
     "explanation": "The experiment centers on an elephant named Topsy.",
     "source": {
@@ -7185,7 +7185,7 @@
     "factId": "bobs-fact-0069",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ competes with Jimmy Junior for Tina's affection. (Two for Tina)",
+    "prompt": "____ competes with Jimmy Junior for Tina's affection. (Two for Tina)",
     "answer": "Josh",
     "explanation": "Josh competes with Jimmy Junior for Tina's affection.",
     "source": {
@@ -7202,7 +7202,7 @@
     "factId": "bobs-fact-0074",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise develops a crush on ____. (Boyz 4 Now)",
+    "prompt": "Louise develops a crush on ____. (Boyz 4 Now)",
     "answer": "Boo Boo",
     "explanation": "Louise develops a crush on Boo Boo.",
     "source": {
@@ -7219,7 +7219,7 @@
     "factId": "bobs-fact-0077",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina develops an ____ habit. (The Unnatural)",
+    "prompt": "Tina develops an ____ habit. (The Unnatural)",
     "answer": "Espresso",
     "explanation": "Tina develops an espresso habit.",
     "source": {
@@ -7236,7 +7236,7 @@
     "factId": "bobs-fact-0079",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ keeps the children trapped in their fort. (Fort Night)",
+    "prompt": "____ keeps the children trapped in their fort. (Fort Night)",
     "answer": "Millie",
     "explanation": "Millie keeps the children trapped in their fort.",
     "source": {
@@ -7253,7 +7253,7 @@
     "factId": "bobs-fact-0081",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The pilot is known as Upskirt ____. (Seaplane!)",
+    "prompt": "The pilot is known as Upskirt ____. (Seaplane!)",
     "answer": "Kurt",
     "explanation": "The pilot is known as Upskirt Kurt.",
     "source": {
@@ -7270,7 +7270,7 @@
     "factId": "bobs-fact-0084",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda reunites the ____ for her school reunion. (Purple Rain-Union)",
+    "prompt": "Linda reunites the ____ for her school reunion. (Purple Rain-Union)",
     "answer": "The Ta-Ta's",
     "explanation": "Linda reunites the Ta-Ta's for her school reunion.",
     "source": {
@@ -7287,7 +7287,7 @@
     "factId": "bobs-fact-0086",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: A ____ truck chases the Belchers. (Christmas in the Car)",
+    "prompt": "A ____ truck chases the Belchers. (Christmas in the Car)",
     "answer": "A candy cane",
     "explanation": "A candy cane truck chases the Belchers.",
     "source": {
@@ -7304,7 +7304,7 @@
     "factId": "bobs-fact-0088",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ appears in the restaurant commercial. (Easy Commercial, Easy Gommercial)",
+    "prompt": "____ appears in the restaurant commercial. (Easy Commercial, Easy Gommercial)",
     "answer": "Connie Frye",
     "explanation": "Connie Frye appears in the restaurant commercial.",
     "source": {
@@ -7321,7 +7321,7 @@
     "factId": "bobs-fact-0094",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina attends a convention for The ____. (The Equestranauts)",
+    "prompt": "Tina attends a convention for The ____. (The Equestranauts)",
     "answer": "The Equestranauts",
     "explanation": "Tina attends a convention for The Equestranauts.",
     "source": {
@@ -7338,7 +7338,7 @@
     "factId": "bobs-fact-0095",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children find ____, a substance used in perfume. (Ambergris)",
+    "prompt": "The children find ____, a substance used in perfume. (Ambergris)",
     "answer": "Ambergris",
     "explanation": "The children find ambergris, a substance used in perfume.",
     "source": {
@@ -7355,7 +7355,7 @@
     "factId": "bobs-fact-0098",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina chains herself to the ____ to oppose its destruction. (Wharf Horse (or How Bob Saves/Destroys the Town - Part I))",
+    "prompt": "Tina chains herself to the ____ to oppose its destruction. (Wharf Horse (or How Bob Saves/Destroys the Town - Part I))",
     "answer": "The carousel",
     "explanation": "Tina chains herself to the carousel to oppose its destruction.",
     "source": {
@@ -7372,7 +7372,7 @@
     "factId": "bobs-fact-0101",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Courtney's musical is based on ____. (Work Hard or Die Trying, Girl)",
+    "prompt": "Courtney's musical is based on ____. (Work Hard or Die Trying, Girl)",
     "answer": "Working Girl",
     "explanation": "Courtney's musical is based on Working Girl.",
     "source": {
@@ -7389,7 +7389,7 @@
     "factId": "bobs-fact-0104",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob and Teddy enroll in ____. (Friends with Burger-fits)",
+    "prompt": "Bob and Teddy enroll in ____. (Friends with Burger-fits)",
     "answer": "Stuntman boot camp",
     "explanation": "Bob and Teddy enroll in stuntman boot camp.",
     "source": {
@@ -7406,7 +7406,7 @@
     "factId": "bobs-fact-0105",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children use the ____ as an ice rink. (Friends with Burger-fits)",
+    "prompt": "The children use the ____ as an ice rink. (Friends with Burger-fits)",
     "answer": "The freezer",
     "explanation": "The children use the freezer as an ice rink.",
     "source": {
@@ -7423,7 +7423,7 @@
     "factId": "bobs-fact-0107",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob's contest burger requires ____. (Best Burger)",
+    "prompt": "Bob's contest burger requires ____. (Best Burger)",
     "answer": "Black garlic",
     "explanation": "Bob's contest burger requires black garlic.",
     "source": {
@@ -7440,7 +7440,7 @@
     "factId": "bobs-fact-0110",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda dyes her hair ____. (Tina Tailor Soldier Spy)",
+    "prompt": "Linda dyes her hair ____. (Tina Tailor Soldier Spy)",
     "answer": "Blonde",
     "explanation": "Linda dyes her hair blonde.",
     "source": {
@@ -7457,7 +7457,7 @@
     "factId": "bobs-fact-0112",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda hangs customers' artwork drawn on ____. (Midday Run)",
+    "prompt": "Linda hangs customers' artwork drawn on ____. (Midday Run)",
     "answer": "Napkins",
     "explanation": "Linda hangs customers' artwork drawn on napkins.",
     "source": {
@@ -7474,7 +7474,7 @@
     "factId": "bobs-fact-0114",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob partners with Teddy to serve ____ home-brewed beer. (Speakeasy Rider)",
+    "prompt": "Bob partners with Teddy to serve ____ home-brewed beer. (Speakeasy Rider)",
     "answer": "Teddy's",
     "explanation": "Bob partners with Teddy to serve Teddy's home-brewed beer.",
     "source": {
@@ -7491,7 +7491,7 @@
     "factId": "bobs-fact-0116",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina teams up with ____ for the contest. (Can't Buy Me Math)",
+    "prompt": "Tina teams up with ____ for the contest. (Can't Buy Me Math)",
     "answer": "Darryl",
     "explanation": "Tina teams up with Darryl for the contest.",
     "source": {
@@ -7508,7 +7508,7 @@
     "factId": "bobs-fact-0118",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob talks himself into buying a knife for ____. (The Millie-Churian Candidate)",
+    "prompt": "Bob talks himself into buying a knife for ____. (The Millie-Churian Candidate)",
     "answer": "300 dollars",
     "explanation": "Bob talks himself into buying a knife for 300 dollars.",
     "source": {
@@ -7525,7 +7525,7 @@
     "factId": "bobs-fact-0121",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina needs help preparing an ____. (L'il Hard Dad)",
+    "prompt": "Tina needs help preparing an ____. (L'il Hard Dad)",
     "answer": "An oral book report",
     "explanation": "Tina needs help preparing an oral book report.",
     "source": {
@@ -7542,7 +7542,7 @@
     "factId": "bobs-fact-0123",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children want to get to the ____. (The Runaway Club)",
+    "prompt": "The children want to get to the ____. (The Runaway Club)",
     "answer": "The Cotton Candy Festival",
     "explanation": "The children want to get to the Cotton Candy Festival.",
     "source": {
@@ -7559,7 +7559,7 @@
     "factId": "bobs-fact-0126",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The family seeks shelter during a storm at ____. (Housetrap)",
+    "prompt": "The family seeks shelter during a storm at ____. (Housetrap)",
     "answer": "Craggy Neck",
     "explanation": "The family seeks shelter during a storm at Craggy Neck.",
     "source": {
@@ -7576,7 +7576,7 @@
     "factId": "bobs-fact-0130",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ obstruct the restaurant during the parade. (The Land Ship)",
+    "prompt": "____ obstruct the restaurant during the parade. (The Land Ship)",
     "answer": "Portable toilets",
     "explanation": "Portable toilets obstruct the restaurant during the parade.",
     "source": {
@@ -7593,7 +7593,7 @@
     "factId": "bobs-fact-0131",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina joins ____ in his graffiti activities. (The Land Ship)",
+    "prompt": "Tina joins ____ in his graffiti activities. (The Land Ship)",
     "answer": "Jordan",
     "explanation": "Tina joins Jordan in his graffiti activities.",
     "source": {
@@ -7610,7 +7610,7 @@
     "factId": "bobs-fact-0137",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina sells ____ for the Valentine’s Day fundraiser. (The Gene and Courtney Show)",
+    "prompt": "Tina sells ____ for the Valentine’s Day fundraiser. (The Gene and Courtney Show)",
     "answer": "Carnations",
     "explanation": "Tina volunteers for a carnation fundraiser.",
     "source": {
@@ -7627,7 +7627,7 @@
     "factId": "bobs-fact-0138",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ promises to help Bob recover without surgery. (Sexy Dance Healing)",
+    "prompt": "____ promises to help Bob recover without surgery. (Sexy Dance Healing)",
     "answer": "Jairo",
     "explanation": "Jairo promises to help Bob recover without surgery.",
     "source": {
@@ -7644,7 +7644,7 @@
     "factId": "bobs-fact-0141",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina volunteers alongside Nurse ____. (Lice Things Are Lice)",
+    "prompt": "Tina volunteers alongside Nurse ____. (Lice Things Are Lice)",
     "answer": "Liz",
     "explanation": "Tina volunteers alongside Nurse Liz.",
     "source": {
@@ -7661,7 +7661,7 @@
     "factId": "bobs-fact-0144",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Critter is jailed over unpaid ____. (Wag the Hog)",
+    "prompt": "Critter is jailed over unpaid ____. (Wag the Hog)",
     "answer": "Parking tickets",
     "explanation": "Critter is jailed over unpaid parking tickets.",
     "source": {
@@ -7678,7 +7678,7 @@
     "factId": "bobs-fact-0145",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ illness opens the soloist role for Tina. (The Hormone-iums)",
+    "prompt": "____ illness opens the soloist role for Tina. (The Hormone-iums)",
     "answer": "Dottie Minerva's",
     "explanation": "Dottie Minerva's illness opens the soloist role for Tina.",
     "source": {
@@ -7695,7 +7695,7 @@
     "factId": "bobs-fact-0146",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ visits and offers to invest in the restaurant. (Pro Tiki / Con Tiki)",
+    "prompt": "____ visits and offers to invest in the restaurant. (Pro Tiki / Con Tiki)",
     "answer": "Warren",
     "explanation": "Warren visits and offers to invest in the restaurant.",
     "source": {
@@ -7712,7 +7712,7 @@
     "factId": "bobs-fact-0148",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina's imaginary horse is ____. (The Horse Rider-er)",
+    "prompt": "Tina's imaginary horse is ____. (The Horse Rider-er)",
     "answer": "Jericho",
     "explanation": "Tina's imaginary horse is Jericho.",
     "source": {
@@ -7729,7 +7729,7 @@
     "factId": "bobs-fact-0150",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ arranges a journalist's visit. (Glued: Where's My Bob)",
+    "prompt": "____ arranges a journalist's visit. (Glued: Where's My Bob)",
     "answer": "Skip Marooch",
     "explanation": "Skip Marooch arranges a journalist's visit.",
     "source": {
@@ -7746,7 +7746,7 @@
     "factId": "bobs-fact-0152",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy hopes to impress his ex-wife ____ with his boat. (Sea Me Now)",
+    "prompt": "Teddy hopes to impress his ex-wife ____ with his boat. (Sea Me Now)",
     "answer": "Denise",
     "explanation": "Teddy hopes to impress his ex-wife Denise with his boat.",
     "source": {
@@ -7763,7 +7763,7 @@
     "factId": "bobs-fact-0153",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina looks after ____ to prove she is ready for a phone. (Sea Me Now)",
+    "prompt": "Tina looks after ____ to prove she is ready for a phone. (Sea Me Now)",
     "answer": "Bob's eraser",
     "explanation": "Tina takes responsibility for Bob's prized eraser.",
     "source": {
@@ -7780,7 +7780,7 @@
     "factId": "bobs-fact-0157",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda sees her grandfather's likeness in a ____. (The Quirk-ducers)",
+    "prompt": "Linda sees her grandfather's likeness in a ____. (The Quirk-ducers)",
     "answer": "A potato",
     "explanation": "Linda sees her grandfather's likeness in a potato.",
     "source": {
@@ -7797,7 +7797,7 @@
     "factId": "bobs-fact-0161",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ is considered for a pet-acting opportunity. (There's No Business Like Mr. Business Business)",
+    "prompt": "____ is considered for a pet-acting opportunity. (There's No Business Like Mr. Business Business)",
     "answer": "Mr. Business",
     "explanation": "Mr. Business is considered for a pet-acting opportunity.",
     "source": {
@@ -7814,7 +7814,7 @@
     "factId": "bobs-fact-0162",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ represents Mr. Business. (There's No Business Like Mr. Business Business)",
+    "prompt": "____ represents Mr. Business. (There's No Business Like Mr. Business Business)",
     "answer": "Ian Amberson",
     "explanation": "Ian Amberson represents Mr. Business.",
     "source": {
@@ -7831,7 +7831,7 @@
     "factId": "bobs-fact-0170",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob takes Gene to a laser show at the ____. (The Laser-inth)",
+    "prompt": "Bob takes Gene to a laser show at the ____. (The Laser-inth)",
     "answer": "The planetarium",
     "explanation": "Bob takes Gene to a laser show at the planetarium.",
     "source": {
@@ -7848,7 +7848,7 @@
     "factId": "bobs-fact-0171",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda worries about losing her position as ____. (Thelma & Louise Except Thelma is Linda)",
+    "prompt": "Linda worries about losing her position as ____. (Thelma & Louise Except Thelma is Linda)",
     "answer": "Bake sale leader",
     "explanation": "Linda worries about losing her position as bake sale leader.",
     "source": {
@@ -7865,7 +7865,7 @@
     "factId": "bobs-fact-0173",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy encourages Bob to join the ____ parade. (Paraders of the Lost Float)",
+    "prompt": "Teddy encourages Bob to join the ____ parade. (Paraders of the Lost Float)",
     "answer": "Bog to Beach",
     "explanation": "Teddy encourages Bob to join the Bog to Beach parade.",
     "source": {
@@ -7882,7 +7882,7 @@
     "factId": "bobs-fact-0177",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy tries making ____. (The Silence of the Louise)",
+    "prompt": "Teddy tries making ____. (The Silence of the Louise)",
     "answer": "Inspirational posters",
     "explanation": "Teddy tries making inspirational posters.",
     "source": {
@@ -7899,7 +7899,7 @@
     "factId": "bobs-fact-0181",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children suspect a creature called the ____. (The Bleakening, Part 1)",
+    "prompt": "The children suspect a creature called the ____. (The Bleakening, Part 1)",
     "answer": "The Bleaken",
     "explanation": "The children suspect a creature called the Bleaken.",
     "source": {
@@ -7916,7 +7916,7 @@
     "factId": "bobs-fact-0182",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda questions ____ about the stolen ornaments. (The Bleakening, Part 2)",
+    "prompt": "Linda questions ____ about the stolen ornaments. (The Bleakening, Part 2)",
     "answer": "Art the Artist",
     "explanation": "Linda questions Art the Artist about the stolen ornaments.",
     "source": {
@@ -7933,7 +7933,7 @@
     "factId": "bobs-fact-0184",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob and Gene share a ____ experience. (V for Valentine-detta)",
+    "prompt": "Bob and Gene share a ____ experience. (V for Valentine-detta)",
     "answer": "Trapeze",
     "explanation": "Bob and Gene share a trapeze experience.",
     "source": {
@@ -7950,7 +7950,7 @@
     "factId": "bobs-fact-0186",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children search for a room containing ____. (The Secret Ceramics Room of Secrets)",
+    "prompt": "The children search for a room containing ____. (The Secret Ceramics Room of Secrets)",
     "answer": "Ceramics",
     "explanation": "The children search for a room containing ceramics.",
     "source": {
@@ -7967,7 +7967,7 @@
     "factId": "bobs-fact-0188",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina sets Tammy up with ____. (Sleeping with the Frenemy)",
+    "prompt": "Tina sets Tammy up with ____. (Sleeping with the Frenemy)",
     "answer": "Brett",
     "explanation": "Tina sets Tammy up with Brett.",
     "source": {
@@ -7984,7 +7984,7 @@
     "factId": "bobs-fact-0189",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene loses a ____ that Linda wanted for her collection. (Sleeping with the Frenemy)",
+    "prompt": "Gene loses a ____ that Linda wanted for her collection. (Sleeping with the Frenemy)",
     "answer": "A baby tooth",
     "explanation": "Gene loses a baby tooth that Linda wanted for her collection.",
     "source": {
@@ -8001,7 +8001,7 @@
     "factId": "bobs-fact-0191",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda and Gene operate a ____ at the restaurant. (The Hurt Soccer)",
+    "prompt": "Linda and Gene operate a ____ at the restaurant. (The Hurt Soccer)",
     "answer": "A piano bar",
     "explanation": "Linda and Gene operate a piano bar at the restaurant.",
     "source": {
@@ -8018,7 +8018,7 @@
     "factId": "bobs-fact-0199",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise plots to retrieve her ____ cards. (Mission Impos-slug-ble)",
+    "prompt": "Louise plots to retrieve her ____ cards. (Mission Impos-slug-ble)",
     "answer": "Burobu",
     "explanation": "Louise plots to retrieve her Burobu cards.",
     "source": {
@@ -8035,7 +8035,7 @@
     "factId": "bobs-fact-0202",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy brings a baby ____ for the family to care for. (Just One of the Boyz 4 Now for Now)",
+    "prompt": "Teddy brings a baby ____ for the family to care for. (Just One of the Boyz 4 Now for Now)",
     "answer": "A rat",
     "explanation": "Teddy brings a baby rat for the family to care for.",
     "source": {
@@ -8052,7 +8052,7 @@
     "factId": "bobs-fact-0203",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children devise an arcade strategy to win a ____. (The Taking of Funtime One Two Three)",
+    "prompt": "The children devise an arcade strategy to win a ____. (The Taking of Funtime One Two Three)",
     "answer": "A dune buggy",
     "explanation": "The children devise an arcade strategy to win a dune buggy.",
     "source": {
@@ -8069,7 +8069,7 @@
     "factId": "bobs-fact-0207",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy invites Bob and Linda to a contest featuring ____. (Live and Let Fly)",
+    "prompt": "Teddy invites Bob and Linda to a contest featuring ____. (Live and Let Fly)",
     "answer": "Paper airplanes",
     "explanation": "Teddy invites the adults to a paper airplane contest.",
     "source": {
@@ -8086,7 +8086,7 @@
     "factId": "bobs-fact-0209",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children attend a ____-themed birthday party. (Bobby Driver)",
+    "prompt": "The children attend a ____-themed birthday party. (Bobby Driver)",
     "answer": "Gatsby",
     "explanation": "The children attend a Gatsby-themed birthday party.",
     "source": {
@@ -8103,7 +8103,7 @@
     "factId": "bobs-fact-0211",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ partners with Courtney, making Gene jealous. (Roller? I Hardly Knew Her!)",
+    "prompt": "____ partners with Courtney, making Gene jealous. (Roller? I Hardly Knew Her!)",
     "answer": "Alex",
     "explanation": "Alex partners with Courtney, making Gene jealous.",
     "source": {
@@ -8120,7 +8120,7 @@
     "factId": "bobs-fact-0213",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob attempts to sell ____. (UFO No You Didn't)",
+    "prompt": "Bob attempts to sell ____. (UFO No You Didn't)",
     "answer": "Mini coat racks",
     "explanation": "Bob attempts to sell mini coat racks.",
     "source": {
@@ -8137,7 +8137,7 @@
     "factId": "bobs-fact-0215",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda is racing to finish three ____. (Better Off Sled)",
+    "prompt": "Linda is racing to finish three ____. (Better Off Sled)",
     "answer": "Scarves",
     "explanation": "Linda is racing to finish three scarves.",
     "source": {
@@ -8154,7 +8154,7 @@
     "factId": "bobs-fact-0217",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ gets Bob and Teddy to do favors for him. (Lorenzo's Oil? No, Linda's)",
+    "prompt": "____ gets Bob and Teddy to do favors for him. (Lorenzo's Oil? No, Linda's)",
     "answer": "Mr. Huggins",
     "explanation": "Mr. Huggins gets Bob and Teddy to do favors for him.",
     "source": {
@@ -8171,7 +8171,7 @@
     "factId": "bobs-fact-0221",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda uses a dating app to improve ____ love life. (Every Which Way But Goose)",
+    "prompt": "Linda uses a dating app to improve ____ love life. (Every Which Way But Goose)",
     "answer": "Gretchen's",
     "explanation": "Linda uses a dating app to help Gretchen.",
     "source": {
@@ -8188,7 +8188,7 @@
     "factId": "bobs-fact-0224",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: They organize a ____ for a female biker group. (Roamin' Bob-iday)",
+    "prompt": "They organize a ____ for a female biker group. (Roamin' Bob-iday)",
     "answer": "A baby shower",
     "explanation": "They organize a baby shower for a female biker group.",
     "source": {
@@ -8205,7 +8205,7 @@
     "factId": "bobs-fact-0225",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene wants to protect a ____. (What About Blob?)",
+    "prompt": "Gene wants to protect a ____. (What About Blob?)",
     "answer": "A plankton blob",
     "explanation": "Gene wants to protect a plankton blob.",
     "source": {
@@ -8222,7 +8222,7 @@
     "factId": "bobs-fact-0229",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The school requires the children to run ____. (The Gene Mile)",
+    "prompt": "The school requires the children to run ____. (The Gene Mile)",
     "answer": "One mile",
     "explanation": "The school requires the children to run one mile.",
     "source": {
@@ -8239,7 +8239,7 @@
     "factId": "bobs-fact-0230",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ inspires Linda to get more involved with the PTA. (P.T.A. It Ain't So)",
+    "prompt": "____ inspires Linda to get more involved with the PTA. (P.T.A. It Ain't So)",
     "answer": "Joanne",
     "explanation": "Joanne inspires Linda to get more involved with the PTA.",
     "source": {
@@ -8256,7 +8256,7 @@
     "factId": "bobs-fact-0232",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ uses the restaurant as a film location. (Yes Without My Zeke)",
+    "prompt": "____ uses the restaurant as a film location. (Yes Without My Zeke)",
     "answer": "Randy",
     "explanation": "Randy uses the restaurant as a film location.",
     "source": {
@@ -8273,7 +8273,7 @@
     "factId": "bobs-fact-0235",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina's stronger ____ make her feel unusually powerful. (Boys Just Wanna Have Fungus)",
+    "prompt": "Tina's stronger ____ make her feel unusually powerful. (Boys Just Wanna Have Fungus)",
     "answer": "Prescription glasses",
     "explanation": "Tina's stronger prescription glasses make her feel unusually powerful.",
     "source": {
@@ -8290,7 +8290,7 @@
     "factId": "bobs-fact-0236",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The Thundergirls race uses ____ boats. (Motor, She Boat)",
+    "prompt": "The Thundergirls race uses ____ boats. (Motor, She Boat)",
     "answer": "Cardboard",
     "explanation": "The Thundergirls race uses cardboard boats.",
     "source": {
@@ -8307,7 +8307,7 @@
     "factId": "bobs-fact-0240",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob struggles to find suitable ____. (Legends of the Mall)",
+    "prompt": "Bob struggles to find suitable ____. (Legends of the Mall)",
     "answer": "Pants",
     "explanation": "Bob struggles to find suitable pants.",
     "source": {
@@ -8324,7 +8324,7 @@
     "factId": "bobs-fact-0242",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ watches the children during the loft-party outing. (Land of the Loft)",
+    "prompt": "____ watches the children during the loft-party outing. (Land of the Loft)",
     "answer": "Jen",
     "explanation": "Jen watches the children during the loft-party outing.",
     "source": {
@@ -8341,7 +8341,7 @@
     "factId": "bobs-fact-0243",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Jen and the children face the storm in an ____. (Land of the Loft)",
+    "prompt": "Jen and the children face the storm in an ____. (Land of the Loft)",
     "answer": "An ice cream truck",
     "explanation": "Jen and the children face the storm in an ice cream truck.",
     "source": {
@@ -8358,7 +8358,7 @@
     "factId": "bobs-fact-0247",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene is kicked out of ____. (Drumforgiven)",
+    "prompt": "Gene is kicked out of ____. (Drumforgiven)",
     "answer": "Ocean Avenue Hifi Emporium",
     "explanation": "Gene is kicked out of Ocean Avenue Hifi Emporium.",
     "source": {
@@ -8375,7 +8375,7 @@
     "factId": "bobs-fact-0249",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The girls search for a creature called ____. (Three Girls and a Little Wharfy)",
+    "prompt": "The girls search for a creature called ____. (Three Girls and a Little Wharfy)",
     "answer": "Wharfy",
     "explanation": "The girls search for a creature called Wharfy.",
     "source": {
@@ -8392,7 +8392,7 @@
     "factId": "bobs-fact-0251",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gayle holds her workshop in a ____. (Yurty Rotten Scoundrels)",
+    "prompt": "Gayle holds her workshop in a ____. (Yurty Rotten Scoundrels)",
     "answer": "A yurt",
     "explanation": "Gayle holds her workshop in a yurt.",
     "source": {
@@ -8409,7 +8409,7 @@
     "factId": "bobs-fact-0254",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ takes the Belchers on a road trip. (Just the Trip)",
+    "prompt": "____ takes the Belchers on a road trip. (Just the Trip)",
     "answer": "Nat",
     "explanation": "Nat takes the Belchers on a road trip.",
     "source": {
@@ -8426,7 +8426,7 @@
     "factId": "bobs-fact-0259",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob brings Jimmy Pesto ____. (Prank You for Being a Friend)",
+    "prompt": "Bob brings Jimmy Pesto ____. (Prank You for Being a Friend)",
     "answer": "Hernia medication",
     "explanation": "Bob brings Jimmy Pesto hernia medication.",
     "source": {
@@ -8443,7 +8443,7 @@
     "factId": "bobs-fact-0260",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob searches for a misplaced ____. (Dream a Little Bob of Bob)",
+    "prompt": "Bob searches for a misplaced ____. (Dream a Little Bob of Bob)",
     "answer": "A lock box key",
     "explanation": "Bob searches for a misplaced lock box key.",
     "source": {
@@ -8460,7 +8460,7 @@
     "factId": "bobs-fact-0263",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children obtain a ____ for a pool party. (Copa-bob-bana)",
+    "prompt": "The children obtain a ____ for a pool party. (Copa-bob-bana)",
     "answer": "A stock tank",
     "explanation": "The children obtain a stock tank for a pool party.",
     "source": {
@@ -8477,7 +8477,7 @@
     "factId": "bobs-fact-0266",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob teases Linda for being unable to ____. (Fast Time Capsules at Wagstaff School)",
+    "prompt": "Bob teases Linda for being unable to ____. (Fast Time Capsules at Wagstaff School)",
     "answer": "A whistle",
     "explanation": "Bob teases Linda for being unable to whistle.",
     "source": {
@@ -8494,7 +8494,7 @@
     "factId": "bobs-fact-0271",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The invitation comes from ____. (Yachty or Nice)",
+    "prompt": "The invitation comes from ____. (Yachty or Nice)",
     "answer": "Glencrest Yacht Club",
     "explanation": "The invitation comes from Glencrest Yacht Club.",
     "source": {
@@ -8511,7 +8511,7 @@
     "factId": "bobs-fact-0274",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The family faces the truth about ____. (An Incon-wheelie-ent Truth)",
+    "prompt": "The family faces the truth about ____. (An Incon-wheelie-ent Truth)",
     "answer": "Wheelie Mammoth",
     "explanation": "The family faces the truth about Wheelie Mammoth.",
     "source": {
@@ -8528,7 +8528,7 @@
     "factId": "bobs-fact-0279",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob is involved in a ____-car collision. (Some Kind of Fender Benderful)",
+    "prompt": "Bob is involved in a ____-car collision. (Some Kind of Fender Benderful)",
     "answer": "Four",
     "explanation": "Bob is involved in a four-car collision.",
     "source": {
@@ -8545,7 +8545,7 @@
     "factId": "bobs-fact-0280",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Rudy has a model ____ that can explode. (Bridge Over Troubled Rudy)",
+    "prompt": "Rudy has a model ____ that can explode. (Bridge Over Troubled Rudy)",
     "answer": "A bridge",
     "explanation": "Rudy has a model bridge that can explode.",
     "source": {
@@ -8562,7 +8562,7 @@
     "factId": "bobs-fact-0283",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob becomes absorbed in an online ____. (Tell Me Dumb Thing Good)",
+    "prompt": "Bob becomes absorbed in an online ____. (Tell Me Dumb Thing Good)",
     "answer": "A cucumber",
     "explanation": "Bob becomes absorbed in an online cucumber.",
     "source": {
@@ -8579,7 +8579,7 @@
     "factId": "bobs-fact-0285",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise accompanies Millie to the ____. (Manic Pixie Crap Show)",
+    "prompt": "Louise accompanies Millie to the ____. (Manic Pixie Crap Show)",
     "answer": "The Pixie Princess Promenade",
     "explanation": "Louise accompanies Millie to the Pixie Princess Promenade.",
     "source": {
@@ -8596,7 +8596,7 @@
     "factId": "bobs-fact-0287",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda and Gayle confront something they did ____ years earlier. (The Pumpkinening)",
+    "prompt": "Linda and Gayle confront something they did ____ years earlier. (The Pumpkinening)",
     "answer": "27",
     "explanation": "The sisters confront something they did 27 years earlier.",
     "source": {
@@ -8613,7 +8613,7 @@
     "factId": "bobs-fact-0293",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ offers Tina help with photography class. (FOMO You Didn't)",
+    "prompt": "____ offers Tina help with photography class. (FOMO You Didn't)",
     "answer": "Susmita",
     "explanation": "Susmita offers Tina help with photography class.",
     "source": {
@@ -8630,7 +8630,7 @@
     "factId": "bobs-fact-0294",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene breaks a Christmas record from the ____. (Gene's Christmas Break)",
+    "prompt": "Gene breaks a Christmas record from the ____. (Gene's Christmas Break)",
     "answer": "The 1970s",
     "explanation": "Gene breaks a Christmas record from the 1970s.",
     "source": {
@@ -8647,7 +8647,7 @@
     "factId": "bobs-fact-0302",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda plans a special day for ____'s visit. (Clear and Present Ginger)",
+    "prompt": "Linda plans a special day for ____'s visit. (Clear and Present Ginger)",
     "answer": "Ginger",
     "explanation": "Linda plans a special day for Ginger's visit.",
     "source": {
@@ -8664,7 +8664,7 @@
     "factId": "bobs-fact-0305",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tammy and Jocelyn mock Tina in ____. (Some Like It Bot Part 1: Eighth Grade Runner)",
+    "prompt": "Tammy and Jocelyn mock Tina in ____. (Some Like It Bot Part 1: Eighth Grade Runner)",
     "answer": "Wow or Weird",
     "explanation": "Tammy and Jocelyn mock Tina in Wow or Weird.",
     "source": {
@@ -8681,7 +8681,7 @@
     "factId": "bobs-fact-0318",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The rower is traveling from ____ toward Nova Scotia. (Oh Row You Didn't)",
+    "prompt": "The rower is traveling from ____ toward Nova Scotia. (Oh Row You Didn't)",
     "answer": "New Zealand",
     "explanation": "The rower is traveling from New Zealand toward Nova Scotia.",
     "source": {
@@ -8698,7 +8698,7 @@
     "factId": "bobs-fact-0320",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene and Louise clash over smelly ____. (These Boots Are Made for Stalking)",
+    "prompt": "Gene and Louise clash over smelly ____. (These Boots Are Made for Stalking)",
     "answer": "Socks",
     "explanation": "Gene and Louise clash over smelly socks.",
     "source": {
@@ -8715,7 +8715,7 @@
     "factId": "bobs-fact-0324",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The family receives a gift card worth ____. (Gift Card or Buy Trying)",
+    "prompt": "The family receives a gift card worth ____. (Gift Card or Buy Trying)",
     "answer": "100 dollars",
     "explanation": "The family receives a gift card worth 100 dollars.",
     "source": {
@@ -8732,7 +8732,7 @@
     "factId": "bobs-fact-0326",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The old radio belonged to Bob's grandmother ____. (Radio No You Didn't)",
+    "prompt": "The old radio belonged to Bob's grandmother ____. (Radio No You Didn't)",
     "answer": "Alice",
     "explanation": "The old radio belonged to Bob's grandmother Alice.",
     "source": {
@@ -8749,7 +8749,7 @@
     "factId": "bobs-fact-0336",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children encounter a fortune-telling ____. (Wharf, Me Worry?)",
+    "prompt": "The children encounter a fortune-telling ____. (Wharf, Me Worry?)",
     "answer": "A clam",
     "explanation": "The children encounter a fortune-telling clam.",
     "source": {
@@ -8766,7 +8766,7 @@
     "factId": "bobs-fact-0340",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: A ____-history tour leads to a treasure hunt. (Jade in the Shade)",
+    "prompt": "A ____-history tour leads to a treasure hunt. (Jade in the Shade)",
     "answer": "Bootlegging",
     "explanation": "A bootlegging-history tour leads to a treasure hunt.",
     "source": {
@@ -8783,7 +8783,7 @@
     "factId": "bobs-fact-0342",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____'s interest in Rudy's mother complicates the party. (The Big Stieblitzki)",
+    "prompt": "____'s interest in Rudy's mother complicates the party. (The Big Stieblitzki)",
     "answer": "Paul",
     "explanation": "Paul's interest in Rudy's mother complicates the party.",
     "source": {
@@ -8800,7 +8800,7 @@
     "factId": "bobs-fact-0343",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gayle auditions for ____. (The Right Tough Stuff)",
+    "prompt": "Gayle auditions for ____. (The Right Tough Stuff)",
     "answer": "Tough Stuff Island",
     "explanation": "Gayle auditions for Tough Stuff Island.",
     "source": {
@@ -8817,7 +8817,7 @@
     "factId": "bobs-fact-0347",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda helps Teddy collect ____ after her colonoscopy. (Colon-ly the Dronely)",
+    "prompt": "Linda helps Teddy collect ____ after her colonoscopy. (Colon-ly the Dronely)",
     "answer": "Kathleen",
     "explanation": "Linda helps Teddy collect Kathleen after her colonoscopy.",
     "source": {
@@ -8834,7 +8834,7 @@
     "factId": "bobs-fact-0354",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy volunteers to build a ____ float. (Advice Things Are Ad-nice)",
+    "prompt": "Teddy volunteers to build a ____ float. (Advice Things Are Ad-nice)",
     "answer": "Bounty of the Bay",
     "explanation": "Teddy volunteers to build a Bounty of the Bay float.",
     "source": {
@@ -8851,7 +8851,7 @@
     "factId": "bobs-fact-0355",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder offers ____ months of free rent. (Mr. Fischoeder's Opus)",
+    "prompt": "Fischoeder offers ____ months of free rent. (Mr. Fischoeder's Opus)",
     "answer": "Two",
     "explanation": "Fischoeder offers two months of free rent.",
     "source": {
@@ -8868,7 +8868,7 @@
     "factId": "bobs-fact-0358",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina considers Troop ____ her nemesis. (The Place Beyond the Pinecones)",
+    "prompt": "Tina considers Troop ____ her nemesis. (The Place Beyond the Pinecones)",
     "answer": "257",
     "explanation": "Tina considers Troop 257 her nemesis.",
     "source": {
@@ -8885,7 +8885,7 @@
     "factId": "bobs-fact-0360",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder's giant tortoise is ____ old. (The Shell Game)",
+    "prompt": "Fischoeder's giant tortoise is ____ old. (The Shell Game)",
     "answer": "100 years",
     "explanation": "Fischoeder's giant tortoise is 100 years old.",
     "source": {
@@ -8902,7 +8902,7 @@
     "factId": "bobs-fact-0375",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children team up with ____ after Bob has trouble at an award ceremony. (Heist Things Are Heist)",
+    "prompt": "The children team up with ____ after Bob has trouble at an award ceremony. (Heist Things Are Heist)",
     "answer": "Vincent",
     "explanation": "The children team up with Vincent after Bob has trouble at an award ceremony.",
     "source": {
@@ -15554,7 +15554,7 @@
     "factId": "bobs-fact-0503",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob charges the exotic eating club ____ per burger. (Human Flesh)",
+    "prompt": "Bob charges the exotic eating club ____ per burger. (Human Flesh)",
     "answer": "50 dollars",
     "explanation": "Bob charges the exotic eating club 50 dollars per burger.",
     "source": {
@@ -15571,7 +15571,7 @@
     "factId": "bobs-fact-0504",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: A protester breaks the window with a ____. (Human Flesh)",
+    "prompt": "A protester breaks the window with a ____. (Human Flesh)",
     "answer": "A snow globe",
     "explanation": "A protester breaks the window with a snow globe.",
     "source": {
@@ -15588,7 +15588,7 @@
     "factId": "bobs-fact-0507",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gloria's tuna burger is named ____. (Crawl Space)",
+    "prompt": "Gloria's tuna burger is named ____. (Crawl Space)",
     "answer": "Tunami",
     "explanation": "Gloria's tuna burger is named Tunami.",
     "source": {
@@ -15605,7 +15605,7 @@
     "factId": "bobs-fact-0510",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob names the memorial burger ____. (Sacred Cow)",
+    "prompt": "Bob names the memorial burger ____. (Sacred Cow)",
     "answer": "Rest in Peas",
     "explanation": "Bob names the memorial burger Rest in Peas.",
     "source": {
@@ -15622,7 +15622,7 @@
     "factId": "bobs-fact-0513",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina hopes to earn a ____ cord. (Sexy Dance Fighting)",
+    "prompt": "Tina hopes to earn a ____ cord. (Sexy Dance Fighting)",
     "answer": "Yellow",
     "explanation": "Tina hopes to earn a yellow cord.",
     "source": {
@@ -15639,7 +15639,7 @@
     "factId": "bobs-fact-0516",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda calls her musical ____. (Hamburger Dinner Theater)",
+    "prompt": "Linda calls her musical ____. (Hamburger Dinner Theater)",
     "answer": "Dreamatorium",
     "explanation": "Linda calls her musical Dreamatorium.",
     "source": {
@@ -15656,7 +15656,7 @@
     "factId": "bobs-fact-0519",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The passengers recognize Jimmy as ____. (Sheesh! Cab, Bob?)",
+    "prompt": "The passengers recognize Jimmy as ____. (Sheesh! Cab, Bob?)",
     "answer": "Baby Num Num",
     "explanation": "The passengers recognize Jimmy as Baby Num Num.",
     "source": {
@@ -15673,7 +15673,7 @@
     "factId": "bobs-fact-0522",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Edith and Harold run ____. (Art Crawl)",
+    "prompt": "Edith and Harold run ____. (Art Crawl)",
     "answer": "Reflections",
     "explanation": "Edith and Harold run Reflections.",
     "source": {
@@ -15690,7 +15690,7 @@
     "factId": "bobs-fact-0525",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob and Louise call their television game ____. (Spaghetti Western and Meatballs)",
+    "prompt": "Bob and Louise call their television game ____. (Spaghetti Western and Meatballs)",
     "answer": "Burn Unit",
     "explanation": "Bob and Louise call their television game Burn Unit.",
     "source": {
@@ -15707,7 +15707,7 @@
     "factId": "bobs-fact-0528",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder is impressed by the ____. (Burger War)",
+    "prompt": "Fischoeder is impressed by the ____. (Burger War)",
     "answer": "The Meatsiah",
     "explanation": "Fischoeder is impressed by the Meatsiah.",
     "source": {
@@ -15724,7 +15724,7 @@
     "factId": "bobs-fact-0531",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Mort goes on a date with ____. (Weekend at Mort's)",
+    "prompt": "Mort goes on a date with ____. (Weekend at Mort's)",
     "answer": "Samantha",
     "explanation": "Mort goes on a date with Samantha.",
     "source": {
@@ -15741,7 +15741,7 @@
     "factId": "bobs-fact-0534",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob calls his restaurant party ____. (Lobsterfest)",
+    "prompt": "Bob calls his restaurant party ____. (Lobsterfest)",
     "answer": "Bobsterfest",
     "explanation": "Bob calls his restaurant party Bobsterfest.",
     "source": {
@@ -15758,7 +15758,7 @@
     "factId": "bobs-fact-0537",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Torpedo plays for the ____. (Torpedo)",
+    "prompt": "Torpedo plays for the ____. (Torpedo)",
     "answer": "The Wonderdogs",
     "explanation": "Torpedo plays for the Wonderdogs.",
     "source": {
@@ -15775,7 +15775,7 @@
     "factId": "bobs-fact-0540",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise calls her taffy companion ____. (The Belchies)",
+    "prompt": "Louise calls her taffy companion ____. (The Belchies)",
     "answer": "Taff",
     "explanation": "Louise calls her taffy companion Taff.",
     "source": {
@@ -15792,7 +15792,7 @@
     "factId": "bobs-fact-0543",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: An ____ exposes the stolen money in Bob's pocket. (Bob Day Afternoon)",
+    "prompt": "An ____ exposes the stolen money in Bob's pocket. (Bob Day Afternoon)",
     "answer": "An ink packet",
     "explanation": "An ink packet exposes the stolen money in Bob's pocket.",
     "source": {
@@ -15809,7 +15809,7 @@
     "factId": "bobs-fact-0546",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children receive a ____ and avoid summer school. (Synchronized Swimming)",
+    "prompt": "The children receive a ____ and avoid summer school. (Synchronized Swimming)",
     "answer": "D",
     "explanation": "The children receive a D and avoid summer school.",
     "source": {
@@ -15826,7 +15826,7 @@
     "factId": "bobs-fact-0549",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob wins a prize of ____. (Food Truckin')",
+    "prompt": "Bob wins a prize of ____. (Food Truckin')",
     "answer": "1000 dollars",
     "explanation": "Bob wins a prize of 1000 dollars.",
     "source": {
@@ -15851,7 +15851,7 @@
     "factId": "bobs-fact-0552",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Dr. Yap calls his guitar ____. (Dr. Yap)",
+    "prompt": "Dr. Yap calls his guitar ____. (Dr. Yap)",
     "answer": "Greta",
     "explanation": "Dr. Yap calls his guitar Greta.",
     "source": {
@@ -15868,7 +15868,7 @@
     "factId": "bobs-fact-0555",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The critic's ____ handkerchief gives him away. (Moody Foodie)",
+    "prompt": "The critic's ____ handkerchief gives him away. (Moody Foodie)",
     "answer": "Blue",
     "explanation": "The critic's blue handkerchief gives him away.",
     "source": {
@@ -15885,7 +15885,7 @@
     "factId": "bobs-fact-0558",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina reads her story ____. (Bad Tina)",
+    "prompt": "Tina reads her story ____. (Bad Tina)",
     "answer": "Buttloose",
     "explanation": "Tina reads her story Buttloose.",
     "source": {
@@ -15902,7 +15902,7 @@
     "factId": "bobs-fact-0561",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob's segment airs on ____. (Beefsquatch)",
+    "prompt": "Bob's segment airs on ____. (Beefsquatch)",
     "answer": "Get on Up",
     "explanation": "Bob's segment airs on Get on Up.",
     "source": {
@@ -15919,7 +15919,7 @@
     "factId": "bobs-fact-0564",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ goes into labor during the confrontation. (Ear-sy Rider)",
+    "prompt": "____ goes into labor during the confrontation. (Ear-sy Rider)",
     "answer": "Mudflap",
     "explanation": "Mudflap goes into labor during the confrontation.",
     "source": {
@@ -15936,7 +15936,7 @@
     "factId": "bobs-fact-0567",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy's pet is named ____. (Full Bars)",
+    "prompt": "Teddy's pet is named ____. (Full Bars)",
     "answer": "Frances",
     "explanation": "Teddy's pet is named Frances.",
     "source": {
@@ -15953,7 +15953,7 @@
     "factId": "bobs-fact-0570",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ employ the children on their farm. (Bob Fires the Kids)",
+    "prompt": "____ employ the children on their farm. (Bob Fires the Kids)",
     "answer": "Beverly and Cooper",
     "explanation": "Beverly and Cooper employ the children on their farm.",
     "source": {
@@ -15970,7 +15970,7 @@
     "factId": "bobs-fact-0573",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ is the chef aboard the ship. (Mutiny on the Windbreaker)",
+    "prompt": "____ is the chef aboard the ship. (Mutiny on the Windbreaker)",
     "answer": "Duval",
     "explanation": "Duval is the chef aboard the ship.",
     "source": {
@@ -15987,7 +15987,7 @@
     "factId": "bobs-fact-0576",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob names the turkey ____. (An Indecent Thanksgiving Proposal)",
+    "prompt": "Bob names the turkey ____. (An Indecent Thanksgiving Proposal)",
     "answer": "Lance",
     "explanation": "Bob names the turkey Lance.",
     "source": {
@@ -16004,7 +16004,7 @@
     "factId": "bobs-fact-0579",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder fills the shark with ____. (The Deepening)",
+    "prompt": "Fischoeder fills the shark with ____. (The Deepening)",
     "answer": "Diesel",
     "explanation": "Fischoeder fills the shark with diesel.",
     "source": {
@@ -16021,7 +16021,7 @@
     "factId": "bobs-fact-0582",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The insurance adjuster is named ____. (Tina-Rannosaurus Wrecks)",
+    "prompt": "The insurance adjuster is named ____. (Tina-Rannosaurus Wrecks)",
     "answer": "Chase",
     "explanation": "The insurance adjuster is named Chase.",
     "source": {
@@ -16038,7 +16038,7 @@
     "factId": "bobs-fact-0585",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Courtney's father is ____. (The Unbearable Like-Likeness of Gene)",
+    "prompt": "Courtney's father is ____. (The Unbearable Like-Likeness of Gene)",
     "answer": "Doug",
     "explanation": "Courtney's father is Doug.",
     "source": {
@@ -16055,7 +16055,7 @@
     "factId": "bobs-fact-0588",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Chet's beloved mannequin is ____. (God Rest Ye Merry Gentle-Mannequins)",
+    "prompt": "Chet's beloved mannequin is ____. (God Rest Ye Merry Gentle-Mannequins)",
     "answer": "Nadine",
     "explanation": "Chet's beloved mannequin is Nadine.",
     "source": {
@@ -16072,7 +16072,7 @@
     "factId": "bobs-fact-0591",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Dakota ____ leads the seminar. (Mother Daughter Laser Razor)",
+    "prompt": "Dakota ____ leads the seminar. (Mother Daughter Laser Razor)",
     "answer": "Applebaum",
     "explanation": "Dakota Applebaum leads the seminar.",
     "source": {
@@ -16089,7 +16089,7 @@
     "factId": "bobs-fact-0594",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The Nudecathlon consists of ____ events. (Nude Beach)",
+    "prompt": "The Nudecathlon consists of ____ events. (Nude Beach)",
     "answer": "27",
     "explanation": "The Nudecathlon consists of 27 events.",
     "source": {
@@ -16106,7 +16106,7 @@
     "factId": "bobs-fact-0597",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ supervises the school news. (Broadcast Wagstaff School News)",
+    "prompt": "____ supervises the school news. (Broadcast Wagstaff School News)",
     "answer": "Mr. Grant",
     "explanation": "Mr. Grant supervises the school news.",
     "source": {
@@ -16123,7 +16123,7 @@
     "factId": "bobs-fact-0600",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Hugo demands ____ for the machine. (My Fuzzy Valentine)",
+    "prompt": "Hugo demands ____ for the machine. (My Fuzzy Valentine)",
     "answer": "500 dollars",
     "explanation": "Hugo demands 500 dollars for the machine.",
     "source": {
@@ -16140,7 +16140,7 @@
     "factId": "bobs-fact-0603",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The thief calls himself ____. (O.T. The Outside Toilet)",
+    "prompt": "The thief calls himself ____. (O.T. The Outside Toilet)",
     "answer": "Max Flush",
     "explanation": "The thief calls himself Max Flush.",
     "source": {
@@ -16157,7 +16157,7 @@
     "factId": "bobs-fact-0606",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob names his invention ____. (Topsy)",
+    "prompt": "Bob names his invention ____. (Topsy)",
     "answer": "Spiceps",
     "explanation": "Bob names his invention Spiceps.",
     "source": {
@@ -16174,7 +16174,7 @@
     "factId": "bobs-fact-0609",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda rents a ____. (Two for Tina)",
+    "prompt": "Linda rents a ____. (Two for Tina)",
     "answer": "A Hummer limousine",
     "explanation": "Linda rents a Hummer limousine.",
     "source": {
@@ -16191,7 +16191,7 @@
     "factId": "bobs-fact-0612",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The missing dog is named ____. (It Snakes a Village)",
+    "prompt": "The missing dog is named ____. (It Snakes a Village)",
     "answer": "Bitsy",
     "explanation": "The missing dog is named Bitsy.",
     "source": {
@@ -16208,7 +16208,7 @@
     "factId": "bobs-fact-0615",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The family wins buckets of ____. (Family Fracas)",
+    "prompt": "The family wins buckets of ____. (Family Fracas)",
     "answer": "Fracas Foam",
     "explanation": "The family wins buckets of Fracas Foam.",
     "source": {
@@ -16225,7 +16225,7 @@
     "factId": "bobs-fact-0618",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise owes Fischoeder ____. (The Kids Run the Restaurant)",
+    "prompt": "Louise owes Fischoeder ____. (The Kids Run the Restaurant)",
     "answer": "5000 dollars",
     "explanation": "Louise owes Fischoeder 5000 dollars.",
     "source": {
@@ -16250,7 +16250,7 @@
     "factId": "bobs-fact-0621",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Zeke's cousin ____ gives them a ride. (Boyz 4 Now)",
+    "prompt": "Zeke's cousin ____ gives them a ride. (Boyz 4 Now)",
     "answer": "Leslie",
     "explanation": "Zeke's cousin Leslie gives them a ride.",
     "source": {
@@ -16267,7 +16267,7 @@
     "factId": "bobs-fact-0624",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: They sneak into the ____. (Carpe Museum)",
+    "prompt": "They sneak into the ____. (Carpe Museum)",
     "answer": "The Amazon Room",
     "explanation": "They sneak into the Amazon Room.",
     "source": {
@@ -16284,7 +16284,7 @@
     "factId": "bobs-fact-0627",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The coach calls himself the ____. (The Unnatural)",
+    "prompt": "The coach calls himself the ____. (The Unnatural)",
     "answer": "The Deuce",
     "explanation": "The coach calls himself the Deuce.",
     "source": {
@@ -16301,7 +16301,7 @@
     "factId": "bobs-fact-0630",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob calls Linda the ____. (A River Runs Through Bob)",
+    "prompt": "Bob calls Linda the ____. (A River Runs Through Bob)",
     "answer": "Nature Master",
     "explanation": "Bob calls Linda the Nature Master.",
     "source": {
@@ -16318,7 +16318,7 @@
     "factId": "bobs-fact-0633",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Darryl reaches the controls with a ____. (Fort Night)",
+    "prompt": "Darryl reaches the controls with a ____. (Fort Night)",
     "answer": "A wire hanger",
     "explanation": "Darryl reaches the controls with a wire hanger.",
     "source": {
@@ -16335,7 +16335,7 @@
     "factId": "bobs-fact-0636",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob cuts the rope with ____. (Seaplane!)",
+    "prompt": "Bob cuts the rope with ____. (Seaplane!)",
     "answer": "Kurt's pocket knife",
     "explanation": "Bob cuts the rope with Kurt's pocket knife.",
     "source": {
@@ -16352,7 +16352,7 @@
     "factId": "bobs-fact-0639",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Dr. Yap is known as ____. (My Big Fat Greek Bob)",
+    "prompt": "Dr. Yap is known as ____. (My Big Fat Greek Bob)",
     "answer": "Slowhand",
     "explanation": "Dr. Yap is known as Slowhand.",
     "source": {
@@ -16369,7 +16369,7 @@
     "factId": "bobs-fact-0642",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob plans a ____-day brine. (Turkey in a Can)",
+    "prompt": "Bob plans a ____-day brine. (Turkey in a Can)",
     "answer": "Three",
     "explanation": "Bob plans a three-day brine.",
     "source": {
@@ -16386,7 +16386,7 @@
     "factId": "bobs-fact-0645",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gayle sings about ____. (Purple Rain-Union)",
+    "prompt": "Gayle sings about ____. (Purple Rain-Union)",
     "answer": "Derek Dimatopolis",
     "explanation": "Gayle sings about Derek Dimatopolis.",
     "source": {
@@ -16403,7 +16403,7 @@
     "factId": "bobs-fact-0648",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ confronts Bob about the competition. (Bob and Deliver)",
+    "prompt": "____ confronts Bob about the competition. (Bob and Deliver)",
     "answer": "Hildy",
     "explanation": "Hildy confronts Bob about the competition.",
     "source": {
@@ -16420,7 +16420,7 @@
     "factId": "bobs-fact-0651",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The driver is named ____. (Christmas in the Car)",
+    "prompt": "The driver is named ____. (Christmas in the Car)",
     "answer": "Gary",
     "explanation": "The driver is named Gary.",
     "source": {
@@ -16437,7 +16437,7 @@
     "factId": "bobs-fact-0654",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda calls the rival raccoon ____. (Slumber Party)",
+    "prompt": "Linda calls the rival raccoon ____. (Slumber Party)",
     "answer": "El Diablo",
     "explanation": "Linda calls the rival raccoon El Diablo.",
     "source": {
@@ -16454,7 +16454,7 @@
     "factId": "bobs-fact-0657",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ declares Bob an enemy of magic. (Presto Tina-o)",
+    "prompt": "____ declares Bob an enemy of magic. (Presto Tina-o)",
     "answer": "Sazerac",
     "explanation": "Sazerac declares Bob an enemy of magic.",
     "source": {
@@ -16471,7 +16471,7 @@
     "factId": "bobs-fact-0660",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene calls his report ____. (The Frond Files)",
+    "prompt": "Gene calls his report ____. (The Frond Files)",
     "answer": "Fart School for the Gifted",
     "explanation": "Gene calls his report Fart School for the Gifted.",
     "source": {
@@ -16488,7 +16488,7 @@
     "factId": "bobs-fact-0663",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise persuades ____ to quit. (Mazel Tina)",
+    "prompt": "Louise persuades ____ to quit. (Mazel Tina)",
     "answer": "Janet",
     "explanation": "Louise persuades Janet to quit.",
     "source": {
@@ -16505,7 +16505,7 @@
     "factId": "bobs-fact-0666",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The delivery boy is named ____. (Uncle Teddy)",
+    "prompt": "The delivery boy is named ____. (Uncle Teddy)",
     "answer": "Jonas",
     "explanation": "The delivery boy is named Jonas.",
     "source": {
@@ -16522,7 +16522,7 @@
     "factId": "bobs-fact-0669",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ supervises the children's car. (The Kids Rob a Train)",
+    "prompt": "____ supervises the children's car. (The Kids Rob a Train)",
     "answer": "Ethan",
     "explanation": "Ethan supervises the children's car.",
     "source": {
@@ -16539,7 +16539,7 @@
     "factId": "bobs-fact-0672",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children bet on ____. (I Get Psy-chic Out of You)",
+    "prompt": "The children bet on ____. (I Get Psy-chic Out of You)",
     "answer": "Gelding the Lily",
     "explanation": "The children bet on Gelding the Lily.",
     "source": {
@@ -16556,7 +16556,7 @@
     "factId": "bobs-fact-0675",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The stolen doll is ____. (The Equestranauts)",
+    "prompt": "The stolen doll is ____. (The Equestranauts)",
     "answer": "Chariot",
     "explanation": "The stolen doll is Chariot.",
     "source": {
@@ -16573,7 +16573,7 @@
     "factId": "bobs-fact-0678",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The buyer is known as the ____. (Ambergris)",
+    "prompt": "The buyer is known as the ____. (Ambergris)",
     "answer": "The Nose",
     "explanation": "The buyer is known as the Nose.",
     "source": {
@@ -16590,7 +16590,7 @@
     "factId": "bobs-fact-0681",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gayle's board game is ____. (The Kids Run Away)",
+    "prompt": "Gayle's board game is ____. (The Kids Run Away)",
     "answer": "Gayle Force Winds",
     "explanation": "Gayle's board game is Gayle Force Winds.",
     "source": {
@@ -16607,7 +16607,7 @@
     "factId": "bobs-fact-0684",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise chooses ____. (Gene It On)",
+    "prompt": "Louise chooses ____. (Gene It On)",
     "answer": "Pie In The Sky",
     "explanation": "Louise chooses Pie In The Sky.",
     "source": {
@@ -16624,7 +16624,7 @@
     "factId": "bobs-fact-0687",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina calls the horse ____. (Wharf Horse (or How Bob Saves/Destroys the Town - Part I))",
+    "prompt": "Tina calls the horse ____. (Wharf Horse (or How Bob Saves/Destroys the Town - Part I))",
     "answer": "Mr. Goiter",
     "explanation": "Tina calls the horse Mr. Goiter.",
     "source": {
@@ -16641,7 +16641,7 @@
     "factId": "bobs-fact-0690",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Felix's girlfriend is ____. (World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II))",
+    "prompt": "Felix's girlfriend is ____. (World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II))",
     "answer": "Fanny",
     "explanation": "Felix's girlfriend is Fanny.",
     "source": {
@@ -16658,7 +16658,7 @@
     "factId": "bobs-fact-0693",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Doug throws a ____ at Gene. (Work Hard or Die Trying, Girl)",
+    "prompt": "Doug throws a ____ at Gene. (Work Hard or Die Trying, Girl)",
     "answer": "A shoulder pad",
     "explanation": "Doug throws a shoulder pad at Gene.",
     "source": {
@@ -16675,7 +16675,7 @@
     "factId": "bobs-fact-0696",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina writes the message in ____. (Tina and the Real Ghost)",
+    "prompt": "Tina writes the message in ____. (Tina and the Real Ghost)",
     "answer": "Ketchup",
     "explanation": "Tina writes the message in ketchup.",
     "source": {
@@ -16692,7 +16692,7 @@
     "factId": "bobs-fact-0699",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy goes to ____. (Friends with Burger-fits)",
+    "prompt": "Teddy goes to ____. (Friends with Burger-fits)",
     "answer": "Dusty's Feedbag",
     "explanation": "Teddy goes to Dusty's Feedbag.",
     "source": {
@@ -16709,7 +16709,7 @@
     "factId": "bobs-fact-0702",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The one-eyed turkey is called ____. (Dawn of the Peck)",
+    "prompt": "The one-eyed turkey is called ____. (Dawn of the Peck)",
     "answer": "Cyclops",
     "explanation": "The one-eyed turkey is called Cyclops.",
     "source": {
@@ -16726,7 +16726,7 @@
     "factId": "bobs-fact-0705",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The chefs have ____ minutes to cook. (Best Burger)",
+    "prompt": "The chefs have ____ minutes to cook. (Best Burger)",
     "answer": "20",
     "explanation": "The chefs have 20 minutes to cook.",
     "source": {
@@ -16743,7 +16743,7 @@
     "factId": "bobs-fact-0708",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The bar is called the ____. (Father of the Bob)",
+    "prompt": "The bar is called the ____. (Father of the Bob)",
     "answer": "The Junk Yard",
     "explanation": "The bar is called the Junk Yard.",
     "source": {
@@ -16760,7 +16760,7 @@
     "factId": "bobs-fact-0711",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise infiltrates the troop as ____. (Tina Tailor Soldier Spy)",
+    "prompt": "Louise infiltrates the troop as ____. (Tina Tailor Soldier Spy)",
     "answer": "Alanis",
     "explanation": "Louise infiltrates the troop as Alanis.",
     "source": {
@@ -16777,7 +16777,7 @@
     "factId": "bobs-fact-0714",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina offers ____. (Midday Run)",
+    "prompt": "Tina offers ____. (Midday Run)",
     "answer": "Permanent hall passes",
     "explanation": "Tina offers permanent hall passes.",
     "source": {
@@ -16794,7 +16794,7 @@
     "factId": "bobs-fact-0717",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The rival driver is ____. (Speakeasy Rider)",
+    "prompt": "The rival driver is ____. (Speakeasy Rider)",
     "answer": "Bryce",
     "explanation": "The rival driver is Bryce.",
     "source": {
@@ -16811,7 +16811,7 @@
     "factId": "bobs-fact-0720",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ controls access to the garden. (Late Afternoon in the Garden of Bob and Louise)",
+    "prompt": "____ controls access to the garden. (Late Afternoon in the Garden of Bob and Louise)",
     "answer": "Cynthia Bush",
     "explanation": "Cynthia Bush controls access to the garden.",
     "source": {
@@ -16828,7 +16828,7 @@
     "factId": "bobs-fact-0723",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Darryl hopes to attract ____. (Can't Buy Me Math)",
+    "prompt": "Darryl hopes to attract ____. (Can't Buy Me Math)",
     "answer": "Rosa",
     "explanation": "Darryl hopes to attract Rosa.",
     "source": {
@@ -16845,7 +16845,7 @@
     "factId": "bobs-fact-0726",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Abby's first name is ____. (The Millie-Churian Candidate)",
+    "prompt": "Abby's first name is ____. (The Millie-Churian Candidate)",
     "answer": "Mabel",
     "explanation": "Abby's first name is Mabel.",
     "source": {
@@ -16862,7 +16862,7 @@
     "factId": "bobs-fact-0729",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gayle has tickets for ____. (The Gayle Tales)",
+    "prompt": "Gayle has tickets for ____. (The Gayle Tales)",
     "answer": "Yarnival",
     "explanation": "Gayle has tickets for Yarnival.",
     "source": {
@@ -16879,7 +16879,7 @@
     "factId": "bobs-fact-0732",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The seller is ____. (L'il Hard Dad)",
+    "prompt": "The seller is ____. (L'il Hard Dad)",
     "answer": "Sheldon Felds",
     "explanation": "The seller is Sheldon Felds.",
     "source": {
@@ -16896,7 +16896,7 @@
     "factId": "bobs-fact-0735",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina negotiates ____ an hour. (Adventures in Chinchilla-sitting)",
+    "prompt": "Tina negotiates ____ an hour. (Adventures in Chinchilla-sitting)",
     "answer": "3 dollars",
     "explanation": "Tina negotiates 3 dollars an hour.",
     "source": {
@@ -16913,7 +16913,7 @@
     "factId": "bobs-fact-0738",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The band is booked for ____ birthday. (Itty Bitty Ditty Committee)",
+    "prompt": "The band is booked for ____ birthday. (Itty Bitty Ditty Committee)",
     "answer": "Lenny DeStefano's",
     "explanation": "The band is booked for Lenny DeStefano's birthday.",
     "source": {
@@ -16930,7 +16930,7 @@
     "factId": "bobs-fact-0741",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda uses the bathroom at the ____. (Eat, Spray, Linda)",
+    "prompt": "Linda uses the bathroom at the ____. (Eat, Spray, Linda)",
     "answer": "The Royal Oyster Hotel",
     "explanation": "Linda uses the bathroom at the Royal Oyster Hotel.",
     "source": {
@@ -16947,7 +16947,7 @@
     "factId": "bobs-fact-0744",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Helen's late husband was ____. (Housetrap)",
+    "prompt": "Helen's late husband was ____. (Housetrap)",
     "answer": "Larry Goodwin",
     "explanation": "Helen's late husband was Larry Goodwin.",
     "source": {
@@ -16964,7 +16964,7 @@
     "factId": "bobs-fact-0747",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Fischoeder offers ____ per hit. (The Oeder Games)",
+    "prompt": "Fischoeder offers ____ per hit. (The Oeder Games)",
     "answer": "50 dollars",
     "explanation": "Fischoeder offers 50 dollars per hit.",
     "source": {
@@ -16981,7 +16981,7 @@
     "factId": "bobs-fact-0750",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda is at the bar with ____. (Sliding Bobs)",
+    "prompt": "Linda is at the bar with ____. (Sliding Bobs)",
     "answer": "Ginger",
     "explanation": "Linda is at the bar with Ginger.",
     "source": {
@@ -16998,7 +16998,7 @@
     "factId": "bobs-fact-0753",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The legend credits ____. (The Land Ship)",
+    "prompt": "The legend credits ____. (The Land Ship)",
     "answer": "Patience Headbottom",
     "explanation": "The legend credits Patience Headbottom.",
     "source": {
@@ -17015,7 +17015,7 @@
     "factId": "bobs-fact-0756",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The doll has ____ protruding from its eyes. (The Hauntening)",
+    "prompt": "The doll has ____ protruding from its eyes. (The Hauntening)",
     "answer": "Twigs",
     "explanation": "The doll has twigs protruding from its eyes.",
     "source": {
@@ -17032,7 +17032,7 @@
     "factId": "bobs-fact-0759",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ accompanies Gayle. (Gayle Makin' Bob Sled)",
+    "prompt": "____ accompanies Gayle. (Gayle Makin' Bob Sled)",
     "answer": "Mr. Business",
     "explanation": "Mr. Business accompanies Gayle.",
     "source": {
@@ -17049,7 +17049,7 @@
     "factId": "bobs-fact-0762",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Teddy portrays a ____. (Nice-Capades)",
+    "prompt": "Teddy portrays a ____. (Nice-Capades)",
     "answer": "A horseshoe crab",
     "explanation": "Teddy portrays a horseshoe crab.",
     "source": {
@@ -17066,7 +17066,7 @@
     "factId": "bobs-fact-0765",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob needs ____ carnations. (The Gene and Courtney Show)",
+    "prompt": "Bob needs ____ carnations. (The Gene and Courtney Show)",
     "answer": "250",
     "explanation": "Bob needs 250 carnations.",
     "source": {
@@ -17083,7 +17083,7 @@
     "factId": "bobs-fact-0768",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Jairo promises to heal Bob in ____ sessions. (Sexy Dance Healing)",
+    "prompt": "Jairo promises to heal Bob in ____ sessions. (Sexy Dance Healing)",
     "answer": "10",
     "explanation": "Jairo promises to heal Bob in 10 sessions.",
     "source": {
@@ -17100,7 +17100,7 @@
     "factId": "bobs-fact-0771",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: They look for the band at the ____. (Sacred Couch)",
+    "prompt": "They look for the band at the ____. (Sacred Couch)",
     "answer": "The Ear Drum",
     "explanation": "They look for the band at the Ear Drum.",
     "source": {
@@ -17117,7 +17117,7 @@
     "factId": "bobs-fact-0774",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: They wear ____ on their heads. (Lice Things Are Lice)",
+    "prompt": "They wear ____ on their heads. (Lice Things Are Lice)",
     "answer": "Rubber gloves",
     "explanation": "They wear rubber gloves on their heads.",
     "source": {
@@ -17134,7 +17134,7 @@
     "factId": "bobs-fact-0777",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The inflatable belongs to ____'s party. (House of 1000 Bounces)",
+    "prompt": "The inflatable belongs to ____'s party. (House of 1000 Bounces)",
     "answer": "Dahlia",
     "explanation": "The inflatable belongs to Dahlia's party.",
     "source": {
@@ -17151,7 +17151,7 @@
     "factId": "bobs-fact-0780",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The children encounter ____. (Stand by Gene)",
+    "prompt": "The children encounter ____. (Stand by Gene)",
     "answer": "Poison ivy",
     "explanation": "The children encounter poison ivy.",
     "source": {
@@ -17168,7 +17168,7 @@
     "factId": "bobs-fact-0783",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Linda calls the baby ____. (Wag the Hog)",
+    "prompt": "Linda calls the baby ____. (Wag the Hog)",
     "answer": "Simon",
     "explanation": "Linda calls the baby Simon.",
     "source": {
@@ -17185,7 +17185,7 @@
     "factId": "bobs-fact-0786",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ buys the wine holder. (The Hormone-iums)",
+    "prompt": "____ buys the wine holder. (The Hormone-iums)",
     "answer": "Gretchen",
     "explanation": "Gretchen buys the wine holder.",
     "source": {
@@ -17202,7 +17202,7 @@
     "factId": "bobs-fact-0789",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Warren invests ____. (Pro Tiki / Con Tiki)",
+    "prompt": "Warren invests ____. (Pro Tiki / Con Tiki)",
     "answer": "100000 dollars",
     "explanation": "Warren invests 100000 dollars.",
     "source": {
@@ -17227,7 +17227,7 @@
     "factId": "bobs-fact-0792",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The mobster was killed there in ____. (Bye Bye Boo Boo)",
+    "prompt": "The mobster was killed there in ____. (Bye Bye Boo Boo)",
     "answer": "1931",
     "explanation": "The mobster was killed there in 1931.",
     "source": {
@@ -17244,7 +17244,7 @@
     "factId": "bobs-fact-0795",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina first dreams of a camp in ____. (The Horse Rider-er)",
+    "prompt": "Tina first dreams of a camp in ____. (The Horse Rider-er)",
     "answer": "Montana",
     "explanation": "Tina first dreams of a camp in Montana.",
     "source": {
@@ -17261,7 +17261,7 @@
     "factId": "bobs-fact-0798",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The admiral is ____. (Secret Admiral-irer)",
+    "prompt": "The admiral is ____. (Secret Admiral-irer)",
     "answer": "Peter Wilcox",
     "explanation": "The admiral is Peter Wilcox.",
     "source": {
@@ -17278,7 +17278,7 @@
     "factId": "bobs-fact-0801",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ publishes the restaurant feature. (Glued: Where's My Bob)",
+    "prompt": "____ publishes the restaurant feature. (Glued: Where's My Bob)",
     "answer": "Coasters",
     "explanation": "Coasters publishes the restaurant feature.",
     "source": {
@@ -17295,7 +17295,7 @@
     "factId": "bobs-fact-0804",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Louise seeks the ____. (Flu-ouise)",
+    "prompt": "Louise seeks the ____. (Flu-ouise)",
     "answer": "The Impenetrable Fortress",
     "explanation": "Louise seeks the Impenetrable Fortress.",
     "source": {
@@ -17312,7 +17312,7 @@
     "factId": "bobs-fact-0807",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The caretaker is ____. (Sea Me Now)",
+    "prompt": "The caretaker is ____. (Sea Me Now)",
     "answer": "Nathaniel",
     "explanation": "The caretaker is Nathaniel.",
     "source": {
@@ -17329,7 +17329,7 @@
     "factId": "bobs-fact-0810",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The crossing guard takes ____. (Teen-a-Witch)",
+    "prompt": "The crossing guard takes ____. (Teen-a-Witch)",
     "answer": "Her barrette",
     "explanation": "Jackie takes Tina's barrette.",
     "source": {
@@ -17346,7 +17346,7 @@
     "factId": "bobs-fact-0813",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: He plans a book called ____. (They Serve Horses, Don't They?)",
+    "prompt": "He plans a book called ____. (They Serve Horses, Don't They?)",
     "answer": "Friday Night Meats",
     "explanation": "He plans a book called Friday Night Meats.",
     "source": {
@@ -17363,7 +17363,7 @@
     "factId": "bobs-fact-0816",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Their accountant is ____. (Large Brother, Where Fart Thou?)",
+    "prompt": "Their accountant is ____. (Large Brother, Where Fart Thou?)",
     "answer": "Gerald",
     "explanation": "Their accountant is Gerald.",
     "source": {
@@ -17380,7 +17380,7 @@
     "factId": "bobs-fact-0819",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina's story is ____. (The Quirk-ducers)",
+    "prompt": "Tina's story is ____. (The Quirk-ducers)",
     "answer": "Quirky Turkey",
     "explanation": "Tina's story is Quirky Turkey.",
     "source": {
@@ -17397,7 +17397,7 @@
     "factId": "bobs-fact-0822",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The friendly caroler is ____. (The Last Gingerbread House on the Left)",
+    "prompt": "The friendly caroler is ____. (The Last Gingerbread House on the Left)",
     "answer": "Oscar",
     "explanation": "The friendly caroler is Oscar.",
     "source": {
@@ -17414,7 +17414,7 @@
     "factId": "bobs-fact-0825",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Jimmy Junior calls them ____. (Ex MachTina)",
+    "prompt": "Jimmy Junior calls them ____. (Ex MachTina)",
     "answer": "Musoems",
     "explanation": "Jimmy Junior calls them musoems.",
     "source": {
@@ -17431,7 +17431,7 @@
     "factId": "bobs-fact-0828",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina uses ____ for the kiss. (Bob Actually)",
+    "prompt": "Tina uses ____ for the kiss. (Bob Actually)",
     "answer": "Stilts",
     "explanation": "Tina uses stilts for the kiss.",
     "source": {
@@ -17448,7 +17448,7 @@
     "factId": "bobs-fact-0831",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The audition is for ____. (There's No Business Like Mr. Business Business)",
+    "prompt": "The audition is for ____. (There's No Business Like Mr. Business Business)",
     "answer": "Chef Cat",
     "explanation": "The audition is for Chef Cat.",
     "source": {
@@ -17465,7 +17465,7 @@
     "factId": "bobs-fact-0856",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The stolen toilet is worth ____. (O.T. The Outside Toilet)",
+    "prompt": "The stolen toilet is worth ____. (O.T. The Outside Toilet)",
     "answer": "14000 dollars",
     "explanation": "The stolen toilet is worth 14000 dollars.",
     "source": {
@@ -17490,7 +17490,7 @@
     "factId": "bobs-fact-0857",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene performs as the ____. (The Kids Run the Restaurant)",
+    "prompt": "Gene performs as the ____. (The Kids Run the Restaurant)",
     "answer": "The Cutie Patooties",
     "explanation": "Gene performs as the Cutie Patooties.",
     "source": {
@@ -17507,7 +17507,7 @@
     "factId": "bobs-fact-0858",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Gene finishes ____ in the competition. (Boyz 4 Now)",
+    "prompt": "Gene finishes ____ in the competition. (Boyz 4 Now)",
     "answer": "Fourth",
     "explanation": "Gene finishes fourth in the competition.",
     "source": {
@@ -17524,7 +17524,7 @@
     "factId": "bobs-fact-0859",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Tina is paired with ____. (Carpe Museum)",
+    "prompt": "Tina is paired with ____. (Carpe Museum)",
     "answer": "Henry Haber",
     "explanation": "Tina is paired with Henry Haber.",
     "source": {
@@ -17541,7 +17541,7 @@
     "factId": "bobs-fact-0860",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ is the fraternity president. (My Big Fat Greek Bob)",
+    "prompt": "____ is the fraternity president. (My Big Fat Greek Bob)",
     "answer": "Pud",
     "explanation": "Pud is the fraternity president.",
     "source": {
@@ -17558,7 +17558,7 @@
     "factId": "bobs-fact-0861",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ makes Jen lash out. (Purple Rain-Union)",
+    "prompt": "____ makes Jen lash out. (Purple Rain-Union)",
     "answer": "Being tickled",
     "explanation": "Being tickled makes Jen lash out.",
     "source": {
@@ -17575,7 +17575,7 @@
     "factId": "bobs-fact-0862",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ appears as a time traveler. (The Frond Files)",
+    "prompt": "____ appears as a time traveler. (The Frond Files)",
     "answer": "Darryl",
     "explanation": "Darryl appears as a time traveler.",
     "source": {
@@ -17592,7 +17592,7 @@
     "factId": "bobs-fact-0863",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Bob buys the helicopter at the ____. (L'il Hard Dad)",
+    "prompt": "Bob buys the helicopter at the ____. (L'il Hard Dad)",
     "answer": "The Hobby Hole",
     "explanation": "Bob buys the helicopter at the Hobby Hole.",
     "source": {
@@ -17609,7 +17609,7 @@
     "factId": "bobs-fact-0864",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The guard buys the chinchilla for ____. (Adventures in Chinchilla-sitting)",
+    "prompt": "The guard buys the chinchilla for ____. (Adventures in Chinchilla-sitting)",
     "answer": "40 dollars",
     "explanation": "The guard buys the chinchilla for 40 dollars.",
     "source": {
@@ -17626,7 +17626,7 @@
     "factId": "bobs-fact-0865",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Meryl gives Joel checks for ____. (Secret Admiral-irer)",
+    "prompt": "Meryl gives Joel checks for ____. (Secret Admiral-irer)",
     "answer": "25 dollars",
     "explanation": "Meryl gives Joel checks for 25 dollars.",
     "source": {
@@ -17643,7 +17643,7 @@
     "factId": "bobs-fact-0866",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: ____ wins the costume contest. (Teen-a-Witch)",
+    "prompt": "____ wins the costume contest. (Teen-a-Witch)",
     "answer": "Regular Sized Rudy",
     "explanation": "Regular Sized Rudy wins the costume contest.",
     "source": {
@@ -17660,7 +17660,7 @@
     "factId": "bobs-fact-0869",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: The entomologist is ____. (Bed & Breakfast)",
+    "prompt": "The entomologist is ____. (Bed & Breakfast)",
     "answer": "Javed Fazel",
     "explanation": "The entomologist is Javed Fazel.",
     "source": {
@@ -17677,7 +17677,7 @@
     "factId": "bobs-fact-0872",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: They have not spoken for ____ years. (Hawk & Chick)",
+    "prompt": "They have not spoken for ____ years. (Hawk & Chick)",
     "answer": "30",
     "explanation": "They have not spoken for 30 years.",
     "source": {
@@ -17694,7 +17694,7 @@
     "factId": "bobs-fact-0875",
     "difficulty": "Extra Hard",
     "kind": "typed",
-    "prompt": "Fill in the blank: Steve's son is ____. (The Cook, the Steve, the Gayle, & Her Lover)",
+    "prompt": "Steve's son is ____. (The Cook, the Steve, the Gayle, & Her Lover)",
     "answer": "Zander",
     "explanation": "Steve's son is Zander.",
     "source": {

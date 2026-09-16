@@ -22,6 +22,7 @@
 ## Game Rules
 
 - Classic Mode has exactly 25 questions and tracks displayed questions locally across sessions, exhausting each difficulty before repeating. Difficulty selection is shown only for Classic. Options are Easy, Medium, Hard, Extra Hard, and Mix.
+- Show the source season and episode above Friends typed/fill-in-the-blank questions before the player answers.
 - Extra Hard uses typed answers rather than multiple choice. Validation must be case-insensitive, normalize whitespace and punctuation, support aliases, conservatively allow minor spelling mistakes, and accept an ordered majority of the correct words. Use explicit aliases for short or irregular variants; preserve numbers and negations.
 - Mix Classic contains exactly 6 Easy, 6 Medium, 7 Hard, and 6 Extra Hard questions, in that order. Questions 1–19 use multiple choice; questions 20–25 use typed Extra Hard answers.
 - Endless has no difficulty selector. Shuffle all difficulties together across the complete bank with no repeated question IDs within a run; end explicitly when exhausted. Store its high score separately from Classic records.

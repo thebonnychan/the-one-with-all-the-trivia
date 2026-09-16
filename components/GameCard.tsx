@@ -2,13 +2,16 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { Session } from "../lib/game/types";
+import type { SeriesId } from "../lib/series";
 
 export function GameCard({
+  series = "friends",
   session,
   onAnswer,
   onNext,
   onEnd,
 }: {
+  series?: SeriesId;
   session: Session;
   onAnswer: (answer: string) => void;
   onNext: () => void;
@@ -19,6 +22,8 @@ export function GameCard({
   const heading = useRef<HTMLHeadingElement>(null);
   const feedback = useRef<HTMLDivElement>(null);
   const answered = Boolean(session.feedback);
+  const showEpisode = series === "friends" && question.kind === "typed";
+  const episode = question.source.episode.match(/^S(\d+)E(\d+)$/);
   useEffect(() => {
     heading.current?.focus();
   }, []);
@@ -96,7 +101,19 @@ export function GameCard({
             <span>No multiple choice. Time to trust your memory.</span>
           </div>
         )}
-        <h2 ref={heading} tabIndex={-1} className="question-title">
+        {showEpisode && episode && (
+          <p id="question-episode" className="question-episode">
+            Season {Number(episode[1])} · Episode {Number(episode[2])}
+          </p>
+        )}
+        <h2
+          ref={heading}
+          tabIndex={-1}
+          className="question-title"
+          aria-describedby={
+            showEpisode && episode ? "question-episode" : undefined
+          }
+        >
           {question.prompt}
         </h2>
         {question.kind === "multiple-choice" ? (

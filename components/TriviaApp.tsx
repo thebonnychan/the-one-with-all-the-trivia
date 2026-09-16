@@ -279,6 +279,7 @@ function ShowApp({
           />
         ) : session.status === "playing" ? (
           <GameCard
+            series={series}
             key={`${session.index}-${session.questions[session.index].id}`}
             session={session}
             onAnswer={(answer) => apply(submitAnswer(session, answer))}
@@ -300,11 +301,12 @@ function ShowApp({
           Independent fan project. Not affiliated with the {SERIES[series].name}{" "}
           creators or rights holders.
         </p>
-        <p>
-          {storageUnavailable
-            ? "Scores or question history couldn't be saved in this browser. You can still play normally."
-            : "Best scores stay on this device. No account needed."}
-        </p>
+        {storageUnavailable && (
+          <p>
+            Scores or question history couldn't be saved in this browser. You
+            can still play normally.
+          </p>
+        )}
       </footer>
       <dialog
         ref={rules}

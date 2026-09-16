@@ -557,6 +557,12 @@ legend {
   box-shadow: 0 12px 38px #53432808;
   animation: enter 0.25s ease-out;
 }
+.question-episode {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  font-weight: 700;
+}
 .question-eyebrow {
   display: flex;
   justify-content: space-between;
