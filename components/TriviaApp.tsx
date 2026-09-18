@@ -303,8 +303,8 @@ function ShowApp({
         </p>
         {storageUnavailable && (
           <p>
-            Scores or question history couldn't be saved in this browser. You
-            can still play normally.
+            Scores or question history couldn&apos;t be saved in this browser.
+            You can still play normally.
           </p>
         )}
       </footer>
@@ -344,7 +344,7 @@ function ShowApp({
           <p>
             Every correct answer earns a point and extends your streak. A miss
             resets the current streak. Read the explanation, then choose Next
-            Question when you’re ready.
+            Question when you&apos;re ready.
           </p>
         </section>
         <section>
@@ -379,7 +379,7 @@ function ShowApp({
         </p>
         {session?.mode === "Classic" && (
           <p className="muted">
-            An unfinished round won’t count toward your best Classic score.
+            An unfinished round won&apos;t count toward your best Classic score.
           </p>
         )}
         <div className="dialog-actions">
